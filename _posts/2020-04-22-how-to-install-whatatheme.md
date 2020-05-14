@@ -1,7 +1,7 @@
 ---
 title: How to Install and use WhatATheme?
 layout: post
-image: http://localhost:4000/WhatATheme/assets/images/How%20to%20install%20and%20use%20WhatATheme.png
+post-image: "/WhatATheme/assets/images/How%20to%20install%20and%20use%20WhatATheme.png"
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:

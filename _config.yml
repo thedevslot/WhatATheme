@@ -6,7 +6,7 @@ baseurl: /WhatATheme
 
 title: What A Theme
 description: A customizable Jekyll portfolio theme
-site-image: http://localhost:4000/WhatATheme/assets/images/meta.jpg
+site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: Site, Template, Theme
 favicon-url: 
 
@@ -53,7 +53,7 @@ defaults:
       type: 'posts'
     values:
       layout: post
-      image: ""
+      post-image: ""
       description: ""
       tags:
         - ""
@@ -62,8 +62,6 @@ defaults:
       type: 'pages'
     values:
       layout: page
-      image: ""
-      description: ""
 exclude:
   - .sass-cache/
   - .jekyll-cache/

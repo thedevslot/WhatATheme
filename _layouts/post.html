@@ -15,12 +15,14 @@ layout: compress
   <section class="hero is-fullheight has-text-centered" id="post">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-centered is-2 has-text-weight-semibold ">{{page.title}}</h1>
+        <a href="{{page.url | relative_url}}" class="has-text-black" id="title">
+          <h1 class="title has-text-centered is-2 has-text-weight-semibold ">{{page.title}}</h1>
+        </a>
         <hr class="has-background-black">
         <div class="columns is-variable is-5">
           <div class="column is-6">
             <figure class="image is-16by9 has-shadow">
-              <img src="{{page.image}}" alt="{{post.title}}" id="post-image">
+              <img src="{{page.post-image}}" alt="{{post.title}}" id="post-image">
             </figure>
           </div>
           <div class="subtitle column is-5 has-text-left-desktop has-text-left-fullhd has-text-left-tablet has-text-center-mobile">

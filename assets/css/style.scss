@@ -289,10 +289,15 @@ a.navbar-item.is-active {
 }
 
 #post {
+    @media (min-width: 768px) {
+        margin: auto 2.5vmax;
+    }
     a {
         text-decoration: underline;
     }
-
+    #title {
+        text-decoration: none;
+    }
     .title {
         margin: auto;
     }
@@ -310,7 +315,6 @@ a.navbar-item.is-active {
     .tag {
         margin: 0.15rem auto;
     }
-
     .content {
         ol, ul, blockquote {
             display: inline-block;

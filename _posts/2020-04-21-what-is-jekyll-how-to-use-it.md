@@ -1,7 +1,7 @@
 ---
 title: What is Jekyll? How to use it?
 layout: post
-image: http://localhost:4000/WhatATheme/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png
+post-image: "/WhatATheme/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
