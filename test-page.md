@@ -1,7 +1,6 @@
 ---
 title: Test Page
 layout: page
-description: This is just a test page
 ---
 
 # This is heading 1
