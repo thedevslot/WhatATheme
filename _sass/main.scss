@@ -10,24 +10,26 @@ body {
     transition: all 0.25s ease;
 }
 
+
+
 /* width */
 ::-webkit-scrollbar {
-    width: 0.5vmax;
+    width: 0.5vmax !important;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: white;
+    background: white !important;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #363636;
+    background: #363636 !important;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: black;
+    background: black !important;
 }
 
 ::placeholder {
