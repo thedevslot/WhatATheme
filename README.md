@@ -32,7 +32,7 @@
 
 > You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
-[![Watch Video on Youtube](https://i.imgur.com/TVI946Z.png)](https://youtu.be/VfPa2c9kwhQ)
+[<img src="https://i.imgur.com/TVI946Z.png" style="max-width:10rem" />](https://youtu.be/VfPa2c9kwhQ)
 
 ---
 
