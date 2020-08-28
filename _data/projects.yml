@@ -6,3 +6,7 @@
   link: https://wethefoss.github.io/Git-Commands/
   image: https://raw.githubusercontent.com/WeTheFOSS/Git-Commands/master/src/Components/images/meta.jpg
   description: Git Commands provides us the information about the commands which are required to operate git( a version-control system).
+- name: WhatATheme
+  link: https://github.com/thedevslot/WhatATheme
+  image: https://github.com/thedevslot/WhatATheme/raw/master/assets/images/meta.jpg
+  description: A customizable Jekyll Portfolio theme which supports blogging.
