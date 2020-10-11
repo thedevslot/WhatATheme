@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://morgemoensch.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: '/jekyll-test'
 
 # Title of the Site
 title: What A Theme
@@ -34,11 +34,6 @@ behance_username: /
 dribbble_username: /
 spotify_username: /
 
-# Google Analytics
-google-analytics: UA-163806439-1
-
-# Disqus
-disqus-shortname: thedevslot
 
 # Name of the Author
 author-name: TheDevsLot
