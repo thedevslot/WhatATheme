@@ -71,14 +71,12 @@ a.navbar-item.is-active {
 
 #about {
     .image {
-        width: 50rem;
-        height: 50rem;
+        max-width: 20vmax;
         margin: auto;
 
         img {
-            border: 0.25rem black;
+            border: 0.25rem dotted black;
         }
-    }
 
     a {
         min-width: 25vmax;
