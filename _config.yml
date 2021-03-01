@@ -45,7 +45,7 @@ author-name: Jay Lee
 # URL for the Image of the Author
 author-image: /assets/images/apple.png
 # 60 Words About the Author
-author-about: IOS Developer   /      Fashion Designer [University of The Arts London]
+author-about: "IOS Developer \nFashion Designer [University of The Arts London]"
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/jayyaj1224
 
