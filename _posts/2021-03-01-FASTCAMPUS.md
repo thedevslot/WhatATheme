@@ -15,4 +15,4 @@ post-image: "/assets/images/FastCampus.png"
   
 
     
-##  [ ▪️ Fast Campus - IOS/SWIFT LECTURE [Notion]](https://www.notion.so/Swift-org-A-Swift-Tour-6f109c0cd65d44efa78dfb90c0cbb7f8)
+##  [ ▪️ Fast Campus - IOS/SWIFT LECTURE](https://www.notion.so/Swift-org-A-Swift-Tour-6f109c0cd65d44efa78dfb90c0cbb7f8)
