@@ -9,7 +9,7 @@ baseurl: ''
 # Title of the Site
 title: 'Jay Lee: Desinger to Developer'
 # Description of the Site
-description: IOS 개발자 이종윤 입니다
+description: 'IOS 개발자 이종윤 입니다'
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,7 +22,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
+email: jayyaj1224@gmail.com
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
