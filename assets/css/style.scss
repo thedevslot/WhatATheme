@@ -45,6 +45,7 @@ a.navbar-item.is-active {
     background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
 
+
     &::before {
         filter: blur(0.15rem);
         background-image: url({{site.heroimage}});
@@ -71,10 +72,11 @@ a.navbar-item.is-active {
 #about {
     .image {
         max-width: 20vmax;
+        max-height: 20vmax;
         margin: auto;
 
         img {
-            border: 0.25rem dotted black;
+            border: 0.25rem black;
         }
     }
 
@@ -108,7 +110,7 @@ a.navbar-item.is-active {
 
 #blog {
     .hero-body {
-        padding: 1rem 0.25rem 1rem 0.25rem;
+        padding: 3rem 0.25rem 1rem 0.25rem;
     }
 
     .container {
