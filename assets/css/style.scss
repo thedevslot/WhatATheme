@@ -38,11 +38,6 @@ a.navbar-item.is-active {
 }
 
 
-#about {
-    .height100 {
-        height: 100px;
-    }
-}
 
 #hero {
     background: rgb(0, 0, 0);
@@ -89,6 +84,7 @@ a.navbar-item.is-active {
         min-width: 25vmax;
         margin: 0.5rem;
     }
+
 }
 
 #contact {
@@ -116,6 +112,7 @@ a.navbar-item.is-active {
 #blog {
     .hero-body {
         padding: 3rem 0.25rem 1rem 0.25rem;
+        
     }
 
     .container {
