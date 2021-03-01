@@ -9,7 +9,7 @@ baseurl: ''
 # Title of the Site
 title: 'Jay Lee: Desinger to Developer'
 # Description of the Site
-description: 'IOS 개발자 이종윤 입니다'
+description: 'IOS 개발자 이종윤 입니다11'
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -49,7 +49,7 @@ author-about: >
 * University of The Arts London
 * IOS/SWIFT Developer
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/jayyaj1224
 
 # SASS
 sass:
