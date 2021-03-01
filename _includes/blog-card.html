@@ -1,0 +1,15 @@
+<div class="columns has-text-centered" id="blog-card">
+    <div class="column is-marginless is-paddingless is-one-third-desktop is-one-third-fullhd is-one-third-tablet">
+        <div class="image is-16by9" style="background-image: url({{post.post-image}});"></div>
+    </div>
+    <a href="{{post.url | absolute_url}}">
+        <div class="column has-text-left-desktop has-text-left-tablet">
+            <h1 class="title is-size-4-touch">{{post.title}}</h1>
+            <div class="content has-text-grey">
+                {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
+                <hr class="has-background-grey">
+                <span class="has-text-grey">Published on <span class="has-text-weight-semibold">{{ post.date | date: "%-B %d, %Y" }}</span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold">{% assign words = post.content | number_of_words %}{%- unless content.size == 0 -%}{{ words | divided_by:180 }} min{% endunless %}</span> read
+            </div>
+        </div>
+    </a>
+</div>
