@@ -1,0 +1,54 @@
+markdown: kramdown
+url: 'https://jayyaj1224.github.io/'
+baseurl: 'null'
+title: 'JAY LEE: Designer to Developer'
+description: "IOS 개발자 이종윤 입니다."
+site-image: /WhatATheme/assets/images/meta.jpg
+site-keywords: 'Site, Template, Theme'
+favicon-url: null
+heroimage: >-
+  https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+email: jayyaj1224@gmail.com
+instagram_username: thedevslot
+github_username: thedevslot
+spotify_username: /
+google-analytics: UA-163806439-1
+disqus-shortname: disqus-shortname
+author-name: Jay Lee
+author-image: >-
+  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-about: 'University of the Arts London: Fashion Design [2018 - now]'
+author-url: 'https://github.com/jayyaj1224'
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+permalink: 'blog/:title'
+compress_html:
+  clippings: all
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+      post-image: ''
+      description: ''
+      tags:
+        - ''
+  - scope:
+      type: pages
+    values:
+      layout: page
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

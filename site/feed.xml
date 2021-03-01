@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://jayyaj1224.github.io//null/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jayyaj1224.github.io//null/" rel="alternate" type="text/html" /><updated>2021-03-01T14:43:47+09:00</updated><id>https://jayyaj1224.github.io//null/feed.xml</id><title type="html">JAY LEE: Designer to Developer</title><subtitle>IOS 개발자 이종윤 입니다.</subtitle><entry><title type="html">First Posting</title><link href="https://jayyaj1224.github.io//null/blog/first-posting" rel="alternate" type="text/html" title="First Posting" /><published>2021-03-01T00:00:00+09:00</published><updated>2021-03-01T00:00:00+09:00</updated><id>https://jayyaj1224.github.io//null/blog/first-posting</id><content type="html" xml:base="https://jayyaj1224.github.io//null/blog/first-posting">&lt;p&gt;This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
+For more information about writing markdown you can checkout the following markdown cheatsheets:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Mastering Markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GitHub Flavored Markdown Spec&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;im-about-to-start-my-brand-new-blog&quot;&gt;I’m about to start my brand new blog&lt;/h1&gt;
+&lt;h2 id=&quot;this-is-just-testing&quot;&gt;This is just testing&lt;/h2&gt;
+&lt;p&gt;\&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bold Text in the post will look like:&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;This text is Bold&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Italic Text in the post will look like:&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;This text is Italic&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quotes on your post will look like this&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;`
+author-image: &amp;gt;-
+  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-about: ‘University of the Arts London: Fashion Design [2018 - now]’
+author-url: ‘https://github.com/jayyaj1224’
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;jekyll-admin&lt;/li&gt;
+  &lt;li&gt;jekyll-feed
+permalink: ‘blog/:title’
+compress_html:
+  clippings: all
+defaults:&lt;/li&gt;
+  &lt;li&gt;scope:
+  type: posts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;`&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Swift&lt;/li&gt;
+  &lt;li&gt;IOS&lt;/li&gt;
+  &lt;li&gt;Python&lt;/li&gt;
+  &lt;li&gt;SHit&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item 1&lt;/li&gt;
+  &lt;li&gt;Item 2&lt;/li&gt;
+  &lt;li&gt;Item 3&lt;/li&gt;
+  &lt;li&gt;Item 4&lt;/li&gt;
+  &lt;li&gt;Item 5&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Images in the post will look like:&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/WhatATheme/assets/images/1280x720%20Placeholder.png&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Normal text in the post will look like&lt;/strong&gt;&lt;br /&gt;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt losdfsaffrem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Giphy Gifs will look like:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/ZqlvCTNHpqrio&quot; width=&quot;480&quot; height=&quot;259&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio&quot;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;YouTUbe Videos will look like:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jTPXwbDtIpA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="" /><summary type="html">This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that. For more information about writing markdown you can checkout the following markdown cheatsheets: Mastering Markdown Markdown Guide GitHub Flavored Markdown Spec</summary></entry><entry><title type="html">Sample Post</title><link href="https://jayyaj1224.github.io//null/blog/sample-post" rel="alternate" type="text/html" title="Sample Post" /><published>2020-04-24T00:00:00+09:00</published><updated>2020-04-24T00:00:00+09:00</updated><id>https://jayyaj1224.github.io//null/blog/sample-post</id><content type="html" xml:base="https://jayyaj1224.github.io//null/blog/sample-post">&lt;p&gt;This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
+For more information about writing markdown you can checkout the following markdown cheatsheets:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Mastering Markdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GitHub Flavored Markdown Spec&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;this-is-the-h1-text&quot;&gt;This is the h1 text&lt;/h1&gt;
+&lt;h2 id=&quot;this-is-the-h2-text&quot;&gt;This is the h2 text&lt;/h2&gt;
+&lt;h3 id=&quot;this-is-the-h3-text&quot;&gt;This is the h3 text&lt;/h3&gt;
+&lt;h4 id=&quot;this-is-the-h4-text&quot;&gt;This is the h4 text&lt;/h4&gt;
+&lt;h5 id=&quot;this-is-the-h5-text&quot;&gt;This is the h5 text&lt;/h5&gt;
+&lt;h6 id=&quot;this-is-the-h6-text&quot;&gt;This is the h6 text&lt;/h6&gt;
+
+&lt;p&gt;&lt;strong&gt;Bold Text in the post will look like:&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;This text is Bold&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Italic Text in the post will look like:&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;This text is Italic&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quotes on your post will look like this&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Codes on your post will look like this&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Link in the post will look like:&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;#&quot;&gt;This is a link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bullet list in the post will look like:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Item 1&lt;/li&gt;
+  &lt;li&gt;Item 2&lt;/li&gt;
+  &lt;li&gt;Item 3&lt;/li&gt;
+  &lt;li&gt;Item 4&lt;/li&gt;
+  &lt;li&gt;Item 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Number list in the post will look like:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Item 1&lt;/li&gt;
+  &lt;li&gt;Item 2&lt;/li&gt;
+  &lt;li&gt;Item 3&lt;/li&gt;
+  &lt;li&gt;Item 4&lt;/li&gt;
+  &lt;li&gt;Item 5&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Images in the post will look like:&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;/WhatATheme/assets/images/1280x720%20Placeholder.png&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Normal text in the post will look like&lt;/strong&gt;&lt;br /&gt;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.&lt;/p&gt;
+
+&lt;p&gt;Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.&lt;/p&gt;
+
+&lt;p&gt;Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Giphy Gifs will look like:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://giphy.com/embed/ZqlvCTNHpqrio&quot; width=&quot;480&quot; height=&quot;259&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio&quot;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;YouTUbe Videos will look like:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jTPXwbDtIpA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="sample" /><category term="post" /><category term="test" /><summary type="html">This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that. For more information about writing markdown you can checkout the following markdown cheatsheets: Mastering Markdown Markdown Guide GitHub Flavored Markdown Spec This is the h1 text This is the h2 text This is the h3 text This is the h4 text This is the h5 text This is the h6 text Bold Text in the post will look like: This text is Bold Italic Text in the post will look like: This text is Italic Quotes on your post will look like this Codes on your post will look like this Link in the post will look like: This is a link Bullet list in the post will look like: Item 1 Item 2 Item 3 Item 4 Item 5 Number list in the post will look like: Item 1 Item 2 Item 3 Item 4 Item 5 Images in the post will look like: Normal text in the post will look like Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum. Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor. Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies. Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam. Giphy Gifs will look like: via GIPHY YouTUbe Videos will look like:</summary></entry><entry><title type="html">How to Install and use WhatATheme?</title><link href="https://jayyaj1224.github.io//null/blog/how-to-install-whatatheme" rel="alternate" type="text/html" title="How to Install and use WhatATheme?" /><published>2020-04-22T00:00:00+09:00</published><updated>2020-04-22T00:00:00+09:00</updated><id>https://jayyaj1224.github.io//null/blog/how-to-install-whatatheme</id><content type="html" xml:base="https://jayyaj1224.github.io//null/blog/how-to-install-whatatheme">&lt;h1 id=&quot;what-is-whatatheme&quot;&gt;What is WhatATheme?&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;You’ll find this post in your &lt;strong&gt;&lt;em&gt;_posts&lt;/em&gt;&lt;/strong&gt; directory. Go ahead and edit it and re-build the site to see your changes. &amp;gt;You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VfPa2c9kwhQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;WhatATheme&lt;/strong&gt; is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes&lt;/p&gt;
+
+&lt;h3 id=&quot;home-page--&quot;&gt;Home Page -&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.&lt;/li&gt;
+  &lt;li&gt;An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.&lt;/li&gt;
+  &lt;li&gt;A Contact section - A section where you can include 3 direct ways to contact&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ping on Messenger&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Send an Email&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Tweet on Twitter&lt;/code&gt;&lt;br /&gt;
+The contact section will also include 10 different social media buttons for your audience to follow.&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Facebook&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Twitter&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Instagram&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LinkedIn&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GitHub&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YouTube&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Reddit&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Behance&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Dribbble&lt;/code&gt; &amp;amp; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Spotify&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;blog--&quot;&gt;Blog -&lt;/h3&gt;
+&lt;p&gt;The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description &amp;amp; content of your post and shows the result as soon as you type.&lt;br /&gt;
+The blog card includes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Post Title&lt;/li&gt;
+  &lt;li&gt;300 words from the content of the post&lt;/li&gt;
+  &lt;li&gt;The publish date&lt;/li&gt;
+  &lt;li&gt;The time which will be required to read the post.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;projects--&quot;&gt;Projects -&lt;/h3&gt;
+&lt;p&gt;The Projects page will include all the projects from the &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;projects.yml&lt;/code&gt;&lt;/strong&gt; file which is present in the _data folder.&lt;br /&gt;
+Projects will be showcased in a card-list format where each card will contain&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;An image related to the project&lt;/li&gt;
+  &lt;li&gt;A Project Title&lt;/li&gt;
+  &lt;li&gt;A Project Description of about 80 words&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;footer--&quot;&gt;Footer -&lt;/h3&gt;
+&lt;p&gt;The footer includes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A small about the author widget which show the same &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Author Image&lt;/code&gt; as mentioned in the about section of the Home page which includes &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Name of the Author&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Around 75 words about the author&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;A more link widget which includes a link to any extra page that you’ve created and a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Subscribe via RSS&lt;/code&gt; link.&lt;/li&gt;
+  &lt;li&gt;A Recent posts widget which will include latest 3 posts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;extra-features--&quot;&gt;Extra Features -&lt;/h4&gt;
+&lt;p&gt;WhatATheme comes pre installed with&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;HTML Compressor&lt;/strong&gt; - It’ll compress all the pages by removing any extra space or blank lines.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Google Analytics&lt;/strong&gt; - A web analytics service offered by Google that tracks and reports website traffic. For more information &lt;a href=&quot;https://analytics.google.com&quot; target=&quot;blank&quot;&gt;click here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Disqus&lt;/strong&gt; - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus &lt;a href=&quot;https://help.disqus.com/en/articles/1717053-what-is-disqus&quot; target=&quot;blank&quot;&gt;click here&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;##### For more information about WhatATheme &lt;a href=&quot;https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md&quot; target=&quot;blank&quot;&gt;click here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;installation&quot;&gt;Installation&lt;/h1&gt;
+&lt;h3 id=&quot;step-1---setting-up-whatatheme&quot;&gt;Step 1 - Setting up WhatATheme&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/thedevslot/WhatATheme/tree/master&quot; target=&quot;blankl&quot;&gt;repository&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Go to repository settings and set Github Pages source as master.&lt;/li&gt;
+    &lt;li&gt;Your new site should be ready at &lt;a href=&quot;#&quot; target=&quot;blank&quot;&gt;https://username.github.io/WhatATheme/&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;step-2---making-changes-via-_configyml&quot;&gt;Step 2 - Making changes via &lt;strong&gt;_config.yml&lt;/strong&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Open _config.yml file&lt;/li&gt;
+    &lt;li&gt;Fill the available details accordingly&lt;/li&gt;
+    &lt;li&gt;Commit the changes&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="how to" /><category term="setup" /><category term="theme" /><summary type="html">What is WhatATheme? You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. &amp;gt;You can rebuild the site in many different ways, but the most common way is to run bundle exec jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. WhatATheme is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes Home Page - A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file. An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file. A Contact section - A section where you can include 3 direct ways to contact Ping on Messenger Send an Email Tweet on Twitter The contact section will also include 10 different social media buttons for your audience to follow. Facebook, Twitter, Instagram, LinkedIn, GitHub, YouTube, Reddit, Behance, Dribbble &amp;amp; Spotify. Blog - The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description &amp;amp; content of your post and shows the result as soon as you type. The blog card includes Post Title 300 words from the content of the post The publish date The time which will be required to read the post. Projects - The Projects page will include all the projects from the projects.yml file which is present in the _data folder. Projects will be showcased in a card-list format where each card will contain An image related to the project A Project Title A Project Description of about 80 words Footer - The footer includes A small about the author widget which show the same Author Image as mentioned in the about section of the Home page which includes Name of the Author, Around 75 words about the author. A more link widget which includes a link to any extra page that you’ve created and a Subscribe via RSS link. A Recent posts widget which will include latest 3 posts. Extra Features - WhatATheme comes pre installed with HTML Compressor - It’ll compress all the pages by removing any extra space or blank lines. Google Analytics - A web analytics service offered by Google that tracks and reports website traffic. For more information click here. Disqus - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus click here ##### For more information about WhatATheme click here. Installation Step 1 - Setting up WhatATheme Fork the repository Go to repository settings and set Github Pages source as master. Your new site should be ready at https://username.github.io/WhatATheme/ Step 2 - Making changes via _config.yml Open _config.yml file Fill the available details accordingly Commit the changes</summary></entry><entry><title type="html">What is Jekyll? How to use it?</title><link href="https://jayyaj1224.github.io//null/blog/what-is-jekyll-how-to-use-it" rel="alternate" type="text/html" title="What is Jekyll? How to use it?" /><published>2020-04-21T00:00:00+09:00</published><updated>2020-04-21T00:00:00+09:00</updated><id>https://jayyaj1224.github.io//null/blog/what-is-jekyll-how-to-use-it</id><content type="html" xml:base="https://jayyaj1224.github.io//null/blog/what-is-jekyll-how-to-use-it">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don’t know what GitHub Pages are you can visit on click &lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/about-github-pages&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;source--jekyll-docs&quot;&gt;Source : &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Jekyll Docs&lt;/code&gt;&lt;/a&gt;&lt;/h6&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;to-know-more-and-get-started-with-jekyll-you-can-click-here&quot;&gt;To know more and get started with Jekyll you can click &lt;a href=&quot;https://jekyllrb.com/&quot; targe=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;installation&quot;&gt;Installation&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Jekyll is a Ruby Gem that can be installed on most systems.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/downloads/&quot; target=&quot;_blank&quot;&gt;Ruby&lt;/a&gt; version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubygems.org/pages/download&quot; target=&quot;_blank&quot;&gt;Ruby Gems&lt;/a&gt; (which you can check by running gem -v)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gcc.gnu.org/install/&quot; target=&quot;_blank&quot;&gt;GCC&lt;/a&gt; and &lt;a href=&quot;https://www.gnu.org/software/make/&quot; target=&quot;_blank&quot;&gt;Make&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;after-installing-the-requirements-you-can-follow-these-guides&quot;&gt;After Installing the Requirements you can follow these guides:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;For detailed install instructions have a look at the guide for your operating system.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot; target=&quot;_blank&quot;&gt;macOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/ubuntu/&quot; target=&quot;_blank&quot;&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/other-linux/&quot; target=&quot;_blank&quot;&gt;Other Linux Distros&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/windows/&quot; target=&quot;_blank&quot;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;creating-a-new-jekyll-site&quot;&gt;Creating a new Jekyll site&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;We can create a new Jekyll site just by a simple command:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;h1 id=&quot;jekyll-new-my-site&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new my-site&lt;/code&gt;&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jekyll will create a new directory named as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;my-site&lt;/code&gt; which is customizable (i.e., you can change the name from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;my-site&lt;/code&gt; to anything you want for example &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new brutus&lt;/code&gt;).&lt;/p&gt;
+
+&lt;h3 id=&quot;changing-into-the-directory&quot;&gt;Changing into the Directory&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;We have to go inside the directory:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;h1 id=&quot;cd-my-site&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd my-site&lt;/code&gt;&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Again, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;my-site&lt;/code&gt; is just a random name which is customizable.&lt;/p&gt;
+
+&lt;h3 id=&quot;building-the-site-and-making-it-available-on-a-local-server&quot;&gt;Building the site and making it available on a local server&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;h1 id=&quot;bundle-exec-jekyll-serve&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;browsing-your-jekyll-site&quot;&gt;Browsing your Jekyll site&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;h1 id=&quot;browse-to-httplocalhost4000&quot;&gt;Browse to &lt;a href=&quot;http://localhost:4000/&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://localhost:4000/&lt;/code&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 id=&quot;on-encountering-any-problem-while-building-and-serving-your-jekyll-site-you-can-consider-visiting-to-the-troubleshooting-page&quot;&gt;On encountering any problem while building and serving your Jekyll site you can consider visiting to the &lt;a href=&quot;https://jekyllrb.com/docs/troubleshooting/#configuration-problems&quot; target=&quot;_blank&quot;&gt;troubleshooting&lt;/a&gt; page&lt;/h6&gt;</content><author><name></name></author><category term="jekyll" /><category term="informative" /><category term="technology" /><summary type="html">Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don’t know what GitHub Pages are you can visit on click here or here Source : Jekyll Docs To know more and get started with Jekyll you can click here Installation Jekyll is a Ruby Gem that can be installed on most systems. Requirements Ruby version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v) Ruby Gems (which you can check by running gem -v) GCC and Make After Installing the Requirements you can follow these guides: For detailed install instructions have a look at the guide for your operating system. macOS Ubuntu Other Linux Distros Windows Creating a new Jekyll site We can create a new Jekyll site just by a simple command: jekyll new my-site Jekyll will create a new directory named as my-site which is customizable (i.e., you can change the name from my-site to anything you want for example jekyll new brutus). Changing into the Directory We have to go inside the directory: cd my-site Again, my-site is just a random name which is customizable. Building the site and making it available on a local server bundle exec jekyll serve Browsing your Jekyll site Browse to http://localhost:4000/ On encountering any problem while building and serving your Jekyll site you can consider visiting to the troubleshooting page</summary></entry></feed>
