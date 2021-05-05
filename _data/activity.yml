@@ -1,0 +1,13 @@
+# _includes/project-card.htmlで読み込むデータ
+- name: 合同誌制作
+  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  link:
+  description: 会員の寄稿による合同誌を制作し、学園祭や同人イベント等で頒布します。
+- name: 立て看板製作
+  link:
+  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  description: 「きらら」や本会をPRする立て看板を駒場キャンパスにて掲示します。
+- name: ファン同士の交流
+  link:
+  image: assets/images/discussion.png
+  description: 各々の好きな作品を布教したり、感想を語ったり。時には熱い議論を交わすこともあります。

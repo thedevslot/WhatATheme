@@ -2,28 +2,33 @@
     <div class="hero-body">
         <div class="container">
             <div class="columns">
-                <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+                <div class="column is-2 is-one-fifth-tablet">
                     <figure class="image">
-                        <img class="is-rounded" src="{{site.author-image}}" alt="{{site.author-name}}">
+                        <img class="is-rounded" src="{{site.assets_path}}{{site.author-image}}" alt="{{site.author-name}}">
                     </figure>
                 </div>
                 <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
-                    <p>{{site.author-about}}</p>
-                    <br>
-                    <div class="container columns is-centered">
-                        <div>
-                            <a href="{{site.url}}{{site.baseurl}}/#contact"
-                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Contact
-                                Me</a>
-                            </a>
-                        </div>
-                        <div>
-                            <a href="{{site.url}}{{site.baseurl}}/blog"
-                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Blog</a>
-                            </a>
-                        </div>
-                    </div>
+                    <h2 class="is-size-4 has-text-weight-semibold">{{site.author-about}}</h2><br>
                 </div>
+            </div>
+            <div class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen" style="margin-top: 10px;">
+                <div class="is-size-5">
+                    {{content}}
+                </div>
+                <!--
+                <div class="container columns is-centered">
+                    <div>
+                        <a href="{{site.url}}{{site.baseurl}}/#contact"
+                            class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Contact
+                            Me</a>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="{{site.url}}{{site.baseurl}}/blog"
+                            class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Blog</a>
+                        </a>
+                    </div>
+                </div> -->
             </div>
         </div>
 </section>

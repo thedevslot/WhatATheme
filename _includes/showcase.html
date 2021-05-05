@@ -4,12 +4,30 @@
       <h1 class="title has-text-white is-size-1 is-uppercase has-text-weight-bold">
         {{site.title}}
       </h1>
-      <h3 class="subtitle has-text-white-bis is-uppercase has-text-weight-medium is-marginless">
+      <h3 class="subtitle has-text-white-bis is-uppercase has-text-weight-medium" style="margin: 7px">
         {{site.description}}
       </h3>
       <hr>
-      <a href="{{site.url}}{{site.baseurl}}/#about"
-        class="button is-white is-rounded is-outlined is-uppercase has-text-weight-normal">Read More</a>
+      <a href="{{site.url}}{{site.baseurl}}#about"
+        class="button is-light is-rounded has-text-weight-normal">
+        <span class="icon">
+          <i class="fas fa-angle-double-down"></i>
+        </span>
+        <span>当会について</span>
+      </a>
+      <a href="{{site.urls.form}}" target="_blank" rel="noopener noreferrer"
+        class="button is-success is-rounded has-text-weight-normal">
+        <span class="icon">
+          <i class="fas fa-file-alt"></i>
+        </span>
+        <span>入会フォーム</span>
+      </a>
+      <a href="{{site.urls.official-twitter}}" target="_blank" rel="noopener noreferrer"
+        class="button is-white is-rounded has-text-weight-normal" style="background-color:#00acee;color: #fff;">
+        <span class="icon">
+          <i class="fab fa-twitter"></i>
+        </span>
+        <span>公式Twitter</span>
       </a>
     </div>
   </div>

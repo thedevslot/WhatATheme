@@ -4,50 +4,49 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: ''
+assets_path: assets/
 
 # Title of the Site
-title: What A Theme
+title: 東京大学きらら同好会
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: 東京大学きらら同好会は、まんがタイムきらら作品好きの東大生が集まる団体です。
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: ../images/logolarge.png # relative path from /assets/css
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
-
+# email: ''
+# facebook_username: ''
+twitter_username: UTKiraraCircle
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: ''
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: ''
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: 東京大学きらら同好会
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: images/logo.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: |-
+  こんにちは！東京大学きらら同好会です！！<br>
+  当団体は、まんがタイムきらら作品好きの東大生が集まる、<br>
+  2021年春に発足したばかりの新しい団体です。
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://twitter.com/UTKiraraCircle
+
+urls:
+  form: https://forms.gle/wV19XLcv38hD6tqd9
+  official-twitter: https://twitter.com/UTKiraraCircle
 
 # SASS
 sass:

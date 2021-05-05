@@ -4,7 +4,7 @@
         <!-- logo or branding image on left side -->
         <div class="navbar-brand">
             <a class="navbar-item"
-                href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
+                href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
                 <strong>{{site.title}}</strong>
             </a>
             <div class="navbar-burger" data-target="navbar-menu">
@@ -22,14 +22,14 @@
             <!-- navbar items | right side -->
             <div class="navbar-end">
                 <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
-                    href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">HOME</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">ABOUT</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">CONTACT</a>
-                <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
-                    href="{{site.url}}{{site.baseurl}}/blog">BLOG</a>
-                {% include dropdown.html %}
+                    href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">HOME</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}#about">ABOUT</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}#activity">ACTIVITY</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}#contact">CONTACT</a>
+                <!-- <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}" -->
+                    <!-- href="{{site.url}}{{site.baseurl}}/blog">BLOG</a> TODO: 告知とかしたくなってきたら復活 -->
+                <!-- include dropdown.html -->
             </div>
-
         </div>
     </div>
 </nav>

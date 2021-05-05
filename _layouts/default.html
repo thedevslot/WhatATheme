@@ -10,30 +10,43 @@ layout: compress
   {% include navbar.html %}
   {% include showcase.html %}
   {% include about.html %}
+  <section class="hero is-fullheight" id="activity">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <div class="section">
+          <p class="subtitle is-uppercase has-text-weight-semibold">主な活動</p>
+        </div>
+        {% include project-card.html %}
+      </div>
+    </div>
+  </section>
   {% include contact.html %}
   <!--Footer begins here-->
   {% include footer.html %}
 </body>
 <script>
+  const contentsArr = new Array();
+  const heros = document.getElementsByClassName('hero');
+  for (let i = 0; i < heros.length; i++) {
+      const targetContents = heros[i];
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      const targetContentsTop = targetContents.getBoundingClientRect().top + scrollTop;
+      const targetContentsBottom = targetContentsTop + targetContents.scrollHeight - 1;
+      contentsArr[i] = [targetContentsTop, targetContentsBottom];
+  }
+
   window.addEventListener("scroll", function (event) {
-    var scroll = this.scrollY;
-    var item = document.getElementsByClassName('navbar-item');
-    /* console.log(scroll); */
-    if (scroll < 565) {
-      item[1].classList.add('is-active');
-      item[2].classList.remove('is-active');
-      item[3].classList.remove('is-active');
-    }
-    if (scroll > 565 && scroll < 1130) {
-      item[1].classList.remove('is-active');
-      item[2].classList.add('is-active');
-      item[3].classList.remove('is-active');
-    }
-    if (scroll > 1130) {
-      item[1].classList.remove('is-active');
-      item[2].classList.remove('is-active');
-      item[3].classList.add('is-active');
-    }
+    const scrollCenterY = this.scrollY + window.innerHeight / 2;
+    const item = document.getElementsByClassName('navbar-item');
+    for(let i = 0; i < heros.length; i++) {
+      if(contentsArr[i][0] <= scrollCenterY && (contentsArr[i][1] >= scrollCenterY || i === heros.length - 1)) {
+        /* console.log(scrollCenterY); */
+        item[i + 1].classList.add('is-active');
+      }
+      else {
+        item[i + 1].classList.remove('is-active');
+      }
+    };
   });
 </script>
 

@@ -1,6 +1,31 @@
 <section class="hero is-fullheight has-text-centered" id="contact">
     <div class="hero-body">
         <div class="container">
+            <div class="section">
+              <p class="subtitle is-uppercase has-text-weight-semibold">団体情報・コンタクト</p>
+            </div>
+            <div class="columns is-centered is-multiline is-mobile">
+                <div class="column is-half">
+                    <table class="table">
+                        <tbody>
+                            {% for tablerow in site.data.info %}
+                            <tr>
+                                <th>{{ tablerow.title }}</th>
+                                <td>{{ tablerow.info }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div class="column">
+                    <a class="twitter-timeline" data-lang="ja" data-height="500" data-dnt="true" data-theme="light" href="https://twitter.com/UTKiraraCircle?ref_src=twsrc%5Etfw">
+                        Tweets by UTKiraraCircle
+                    </a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+
+            </div>
+            <!--
             {% unless site.facebook_username == %}
             <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
@@ -21,12 +46,19 @@
                 target="_blank">
                 <i class="fab fa-twitter"></i>Tweet me on Twitter
             </a>
-            {% endunless %}
+            {% endunless %} -->
             <hr>
-            <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                You Can find me here
+            <h3 class="is-size-5 has-text-weight-semibold has-text-black is-marginless">
+                <i class="fab fa-twitter"></i>UTKiraraCircle
+                <a href="http://www.twitter.com/{{site.twitter_username}}" target="_blank" class="is-centered">
+                    <div style="display: flex; justify-content: center;">
+                        <figure class="image is-64x64">
+                            <img class="is-rounded" src="{{site.assets_path}}{{site.author-image}}">
+                        </figure>
+                    </div>
+                </a>
             </h3>
-            <div class="column is-full is-size-3">
+            <!-- <div class="column is-full is-size-3 has-text-centered">
                 {% unless site.facebook_username == %}
                 <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
                 {% endunless %}
@@ -57,7 +89,7 @@
                 {% unless site.spotify_username ==  %}
                 <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
                 {% endunless %}
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
