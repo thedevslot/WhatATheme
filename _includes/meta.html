@@ -8,14 +8,14 @@
 <title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
 
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-<meta name="og:title" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
-<meta name="og:description" content="{% unless page.layout == 'post' %}{{site.description}}{% else %}{{page.description}}{% endunless %}">
-<meta name="og:image" content="{% unless page.layout == 'post' %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
-<meta name="og:image:alt" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
-<meta name="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}">
-<meta name="article:author" content="https://www.facebook.com/{{site.facebook_username}}">
-<meta name="og:site_name" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
-<meta name="og:type" content="website">
+<meta property="og:title" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
+<meta property="og:description" content="{% unless page.layout == 'post' %}{{site.description}}{% else %}{{page.description}}{% endunless %}">
+<meta property="og:image" content="{% unless page.layout == 'post' %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
+<meta property="og:image:alt" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
+<meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}">
+<meta property="article:author" content="https://www.facebook.com/{{site.facebook_username}}">
+<meta property="og:site_name" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
+<meta property="og:type" content="website">
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image"/>
 <meta name="twitter:title" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
