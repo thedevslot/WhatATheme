@@ -12,7 +12,7 @@ title: 東京大学きらら同好会
 # Description of the Site
 description: 東京大学きらら同好会は、まんがタイムきらら作品好きの東大生が集まる団体です。
 # URL of Image of the Site
-site-image: images/meta.jpg
+site-image: https://raw.githubusercontent.com/UTKiraraCircle/UTKiraraCircle.github.io/master/assets/images/logolarge.png
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
