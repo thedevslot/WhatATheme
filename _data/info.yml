@@ -1,8 +1,8 @@
 # _includes/contact.htmlで読み込むデータ
 - title: 団体名
   info : 東京大学きらら同好会
-- title: 加盟団体
-  info : 東京大学教養学部学友会（加盟申請中）
+# - title: 加盟団体
+#   info : 東京大学教養学部学友会（加盟申請中）
 - title: 会員数
   info : 約35名（2021年5月1日現在）
 - title: 入会方法
