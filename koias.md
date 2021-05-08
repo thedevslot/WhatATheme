@@ -1,7 +1,7 @@
 ---
 title: 東京大学恋する小惑星同好会
 layout: page
-description: 東京大学恋する小惑星同好会は、東京大学の『恋する小惑星』ファンコミュニティです。当会は東京大学きらら同好会の下部組織として運営されています。
+description: 東京大学恋する小惑星同好会は、東京大学学生による『恋する小惑星』ファンコミュニティです。当会は東京大学きらら同好会の下部組織として運営されています。
 post-image: https://utkiraracircle.github.io/assets/images/utkoias-logotype.png
 contact_info:
     - title: 団体名
@@ -25,7 +25,7 @@ twitter:
     <img src="assets/images/utkoias-logotype.png" alt="utkoias main logotype" class="column is-one-third">
 </p>
 
-東京大学恋する小惑星同好会（東大恋アス同好会）は、東京大学の**『恋する小惑星』ファンコミュニティ**です。
+東京大学恋する小惑星同好会（東大恋アス同好会）は、東京大学学生による**『恋する小惑星』ファンコミュニティ**です。
 
 当会は[東京大学きらら同好会](/)の下部組織であり、入会要件・方法等はきらら同好会の規定に準じます。
 
