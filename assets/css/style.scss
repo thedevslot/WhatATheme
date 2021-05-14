@@ -52,11 +52,6 @@ a.navbar-item.is-active {
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
-
-        .iPhone, .iPad {
-            background-attachment: local;
-        }
-
         top: 0px;
         right: 0px;
         bottom: 0px;
@@ -65,6 +60,9 @@ a.navbar-item.is-active {
         opacity: 0.25;
         content: "";
     }
+}
+.iPhone, .iPad #hero &::before  {
+    background-attachment: local;
 }
 .title {
     margin: auto 0.75rem!important;
