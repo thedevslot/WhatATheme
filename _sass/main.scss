@@ -48,6 +48,9 @@ body {
 }
 
 .columns {
+    height: auto;
+    align-items: flex-start;
+
     .button {
         margin: 0.5rem !important;
     }
