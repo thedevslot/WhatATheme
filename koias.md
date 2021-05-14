@@ -1,7 +1,7 @@
 ---
 title: 東京大学恋する小惑星同好会
 layout: page
-description: 東京大学恋する小惑星同好会は、東京大学学生による『恋する小惑星』ファンコミュニティです。当会は東京大学きらら同好会の下部組織として運営されています。
+description: 東京大学恋する小惑星同好会は、東京大学学生による『恋する小惑星』ファンコミュニティです。当会は東京大学きらら同好会の支部として運営されています。
 post-image: https://utkiraracircle.github.io/assets/images/utkoias-logotype.png
 contact_info:
     - title: 団体名
@@ -27,7 +27,7 @@ twitter:
 
 東京大学恋する小惑星同好会（東大恋アス同好会）は、東京大学学生による**『恋する小惑星』ファンコミュニティ**です。
 
-当会は[東京大学きらら同好会](/)の下部組織であり、入会要件・方法等はきらら同好会の規定に準じます。
+当会は[東京大学きらら同好会](/)の支部であり、入会要件・方法等はきらら同好会の規定に準じます。
 
 ---
 
@@ -36,6 +36,10 @@ twitter:
 </div>
 
 ### 2021年6月12日 恋アスオンリー「キラキラアーカイブ」にサークル参加します
+
+<p class="columns" style="margin:10px 0">
+    <img src="assets/images/utkoias-202106-circlecut.jpg" alt="utkoias 202106 circlecut" class="column is-one-third-desktop is-half-tablet">
+</p>
 
 2021年6月12日（土曜日）に動画工房作品オンリー「俺達の動画工房」内で開催される[恋する小惑星オンリーイベント「キラキラアーカイブ」](http://project-d.biz/douga/)にサークル参加を申し込みました。
 
