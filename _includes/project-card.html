@@ -1,21 +1,18 @@
 <div class="columns is-centered is-multiline is-mobile">
   {% for project in site.data.activity %}
-    <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
-      id="project-card">
-      {% unless project.link == %}
-      <a href="{{project.link}}">
-      {% endunless %}
-      <div class="has-background-black card">
-        <figure class="image is-2by1" style="background-image: url({{project.image}});background-size: cover;">
-        </figure>
-        <div class="card-content">
-          <h1 class="title has-text-white is-size-4">{{ project.name }}</h1>
-          <p class="has-text-white has-text-weight-light content">{{ project.description | truncate: 80}}</p>
-        </div>
+    {% unless project.link == %}
+    <a href="{{project.link}}">
+    {% endunless %}
+    <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch has-background-black project-card">
+      <figure class="image is-2by1" style="background-image: url({{project.image}});background-size: cover;">
+      </figure>
+      <div class="card-content">
+        <h1 class="title has-text-white is-size-4">{{ project.name }}</h1>
+        <p class="has-text-white has-text-weight-light content">{{ project.description | truncate: 80}}</p>
       </div>
-      {% unless project.link == %}
-      </a>
-      {% endunless %}
     </div>
+    {% unless project.link == %}
+    </a>
+    {% endunless %}
   {% endfor %}
 </div>
