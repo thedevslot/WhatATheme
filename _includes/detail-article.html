@@ -1,0 +1,19 @@
+{% for article in include.articles %}
+<h3>
+  {{ article.title }}
+  <a href="https://twitter.com/{{ article.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+</h3>
+
+<div class="columns is-centered is-multiline">
+  {% for img in article.page_img %}
+  <div class="column is-one-fifth-desktop is-one-third-tablet">
+      <img src="{{ img.src }}" alt="{{ img.alt }}" style="width: 90%; max-width: 90%;">
+  </div>
+  {% endfor %}
+  <div class="column">
+      <blockquote>
+          {{ article.desc }}
+      </blockquote>
+  </div>
+</div>
+{% endfor %}
