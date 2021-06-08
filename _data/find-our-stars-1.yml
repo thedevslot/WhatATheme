@@ -1,0 +1,78 @@
+# _posts/2021-06-05-find-our-stars-1.mdで読み込むデータ
+articles:
+  - title: "1. 星空描写からの「日時特定」入門 / kn1cht"
+    twitter: kn1cht
+    desc: |-
+        TVアニメ『恋する小惑星』では、<b>天体の位置などからシーンの日時を特定</b>できるほど星空が正確に再現されました。<br>
+        星空からの日時特定は一見「天文ガチ勢の謎のテクニック」のように思えるかもしれませんが、必要となる知識は天文ファンとして活動していれば身につく基本的なものです。
+        本記事では、<b>星空の描写やセリフの情報から日時を割り出す</b>ためのテクニックをご紹介します。
+    page_img:
+      - alt: kn1chtサンプル1
+        src: /assets/images/find-our-stars-1/s-kn1cht-01.jpg
+      - alt: kn1chtサンプル2
+        src: /assets/images/find-our-stars-1/s-kn1cht-02.jpg
+  - title: "2. 地学オリンピック参加記 / れんず"
+    twitter: S_B_R_P_L_D_S
+    desc: |-
+        2018年の国際地学オリンピック（IESO）で金メダルを受賞したれんず氏による参加記。<br>
+        <b>作中でのイノ先輩と同じ回の日本地学オリンピック（JESO）を受験</b>していたり、茨城県つくば市での本選に<b>ある漫画家</b>が取材に来ていたりと、恋アス方面でのコンテンツ力もばっちりです。
+        本誌最長の34ページで語られる、JESO予選からIESOタイ大会に至るまでの詳細なレポートは、地学オリンピックの全貌を知るうえでも貴重な資料となるでしょう。
+    page_img:
+      - alt: れんずサンプル1
+        src: /assets/images/find-our-stars-1/s-lens-01.jpg
+      - alt: れんずサンプル2
+        src: /assets/images/find-our-stars-1/s-lens-02.jpg
+  - title: "3. 地学オリンピック参加記2 / のこ"
+    twitter: NOCO_1002
+    desc: |-
+        地学オリンピック参加記2本目は、2019年韓国大会で金メダルを受賞したのこ氏の記事。<br>
+        「<b>すべての理科は地学なのです</b>」と、あらゆる学問の根底にある地学の重要性を説く冒頭部は必見です。
+        帰国前夜に起きた「事件」と、地学屋ならでは（？）の解決方法にもご注目ください。
+    page_img:
+      - alt: のこサンプル1
+        src: /assets/images/find-our-stars-1/s-noco-01.jpg
+      - alt: のこサンプル2
+        src: /assets/images/find-our-stars-1/s-noco-02.jpg
+  - title: "4. 東大生猪瀬舞概念 / ふぁぼん"
+    twitter: syobon_hinata
+    desc: |-
+        「<b>イノ先輩（猪瀬舞）はどこの大学のどの学部・学科に進学するのか？</b>」<br>
+        多くの恋アスファンの頭を悩ませてきた（？）この問題に、ふぁぼん氏は「猪瀬舞東大生説」で挑みます。
+        イノ先輩の興味関心と作中での行動から考えられる仮説や、進学選択（進振り）で進むであろう学部・学科の候補を通じて、東大生猪瀬舞概念を紐解いていきます。
+    page_img:
+      - alt: ふぁぼんサンプル1
+        src: /assets/images/find-our-stars-1/s-fabon-01.jpg
+      - alt: ふぁぼんサンプル2
+        src: /assets/images/find-our-stars-1/s-fabon-02.jpg
+  - title: "5. #地理は地学 / haxibami"
+    twitter: haxibami
+    desc: |-
+        あのひとは実在したと、いまでも信じている。<br>
+        あのひとはわたしを深く抉った傷で、にもかかわらず/ゆえに救いだった。<br><br>
+        ふいに、わたしは猪瀬舞さんのことを思い出す。
+    page_img:
+      - alt: haxibamiサンプル1
+        src: /assets/images/find-our-stars-1/s-haxibami-01.jpg
+      - alt: haxibamiサンプル2
+        src: /assets/images/find-our-stars-1/s-haxibami-02.jpg
+  - title: "6. 東大入学式で小惑星を探した話 / まーしー"
+    twitter: marcey_marcey_
+    desc: |-
+        2021年4月、2年ぶりに挙行された東大入学式にて「<b>小惑星を探しています。</b>」との看板を掲げ一躍話題となったまーしー氏によるレポート。<br>
+        学内での恋アスの知名度をさらに高めたその行動に至るまでの経緯が明かされます。
+    page_img:
+      - alt: まーしーサンプル1
+        src: /assets/images/find-our-stars-1/s-marcey-01.jpg
+illusts:
+  - name: まーしー
+    twitter: marcey_marcey_
+    src: /assets/images/find-our-stars-1/marcey.png
+  - name: 500mL
+    twitter: JP3LHW
+    src: /assets/images/find-our-stars-1/500mL.png
+  - name: あをもみじ
+    twitter: awomomiji
+    src: /assets/images/find-our-stars-1/awomomiji.png
+  - name: ぺるぺる
+    twitter: pelpel71
+    src: /assets/images/find-our-stars-1/pelpel71.jpg

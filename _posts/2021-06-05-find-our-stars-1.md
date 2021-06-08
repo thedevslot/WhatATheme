@@ -22,7 +22,7 @@ post-image: "https://i.gyazo.com/a599316460aaa301eb8af43f389785b1.jpg"
                       <a href="/koias" target="_blank" rel="noopener noreferrer">東京大学恋する小惑星同好会</a>
                     </td>
                 </tr>
-                <tr><th>SPECIFICATION</th><td>B5サイズ 84ページ</td></tr>
+                <tr><th>SPECIFICATION</th><td>B5サイズ 84ページ（本文グレースケール）</td></tr>
                 <tr><th>RELEASE DATE</th><td>2021年6月12日</td></tr>
                 <tr><th>BOOTH</th><td>2021年6月「キラキラアーカイブ」画03</td></tr>
                 <tr><th>PRICE</th><td>700円</td></tr>
@@ -31,3 +31,11 @@ post-image: "https://i.gyazo.com/a599316460aaa301eb8af43f389785b1.jpg"
         </table>
     </div>
 </div>
+
+## Articles
+
+{% include detail-article.html articles=site.data.find-our-stars-1.articles %}
+
+## Illustrations
+
+{% include detail-illust.html illusts=site.data.find-our-stars-1.illusts %}
