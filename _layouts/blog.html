@@ -12,15 +12,14 @@ layout: compress
 
     <section class="hero is-fullheight" id="blog">
         <div class="hero-body">
-            <div class="container">
-                {% include blogpage-heading.html %}
-            </div>
-        </div>
-        <div id="results-container"></div>
-        <!--Blog Cards Section-->
-        {% for post in site.posts %}
+            <!-- <div class="container">
+                include blogpage-heading.html
+            </div> -->
+            <!-- <div id="results-container"></div> -->
+            <!--Blog Cards Section-->
+            {% for post in site.posts %}
             {% include blog-card.html %}
-        {% endfor %}
+            {% endfor %}
         </div>
     </section>
     <br>
@@ -28,7 +27,7 @@ layout: compress
     {% include footer.html %}
     <script src="{{site.url}}{{site.baseurl}}/assets/js/simple-jekyll-search.js"></script>
 
-    <script>
+    <!-- <script>
         SimpleJekyllSearch({
             searchInput: document.getElementById('search'),
             resultsContainer: document.getElementById('results-container'),
@@ -37,7 +36,7 @@ layout: compress
             noResultsText: '<div class="subtitle has-text-centered is-uppercase">No Results Found</div><hr class="has-background-black" style="margin: 0.5rem 5rem 2.5rem 5rem">',
             fuzzy: true,
         });
-    </script>
+    </script> -->
 </body>
 
 </html>
