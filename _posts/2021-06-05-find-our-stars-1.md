@@ -2,7 +2,7 @@
 title: "東大恋アス同好会合同誌 #FindOurStars Vol. 1"
 layout: post
 description: "東大恋アス同好会合同誌「#FindOurStars Vol.1」の紹介ページです。"
-post-image: "https://i.gyazo.com/a599316460aaa301eb8af43f389785b1.jpg"
+post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/main.jpg"
 ---
 
 2021年6月12日（土曜日）[恋する小惑星オンリーイベント「キラキラアーカイブ」](http://project-d.biz/douga/) **画03**にて、東京大学恋する小惑星同好会初の合同誌「#FindOurStars Vol.1」を頒布します。
@@ -10,7 +10,9 @@ post-image: "https://i.gyazo.com/a599316460aaa301eb8af43f389785b1.jpg"
 <br>
 <div class="columns is-centered is-multiline">
     <div class="column is-one-fifth-desktop is-one-third-tablet">
-        <img src="/assets/images/find-our-stars-1/cover.png" alt="#FindOurStars Vol.1表紙" style="width: 75%; max-width: 250px">
+        <a href="/assets/images/find-our-stars-1/cover.png" data-lightbox="cover">
+            <img src="/assets/images/find-our-stars-1/cover.png" alt="#FindOurStars Vol.1表紙" style="width: 75%; max-width: 250px">
+        </a>
     </div>
     <div class="column is-half">
         <table class="table">
