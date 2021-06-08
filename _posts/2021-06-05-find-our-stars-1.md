@@ -32,6 +32,23 @@ post-image: "https://i.gyazo.com/a599316460aaa301eb8af43f389785b1.jpg"
     </div>
 </div>
 
+<div class="columns is-centered is-multiline">
+    <a href="#articles"
+    class="button is-dark is-rounded has-text-weight-normal">
+        <span class="icon">
+            <i class="fas fa-angle-double-down"></i>
+        </span>
+        <span>Articles</span>
+    </a>
+    <a href="#illustrations"
+    class="button is-dark is-rounded has-text-weight-normal">
+        <span class="icon">
+            <i class="fas fa-angle-double-down"></i>
+        </span>
+        <span>Illustrations</span>
+    </a>
+</div>
+
 ## Articles
 
 {% include detail-article.html articles=site.data.find-our-stars-1.articles %}
