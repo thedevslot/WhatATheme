@@ -21,7 +21,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
                 <tr>
                     <th>CIRCLE</th>
                     <td>
-                      <a href="/koias" target="_blank" rel="noopener noreferrer">東京大学恋する小惑星同好会</a>
+                        <a href="/koias" target="_blank" rel="noopener noreferrer">東京大学恋する小惑星同好会</a>
                     </td>
                 </tr>
                 <tr><th>SPECIFICATION</th><td>B5サイズ 84ページ（本文グレースケール）</td></tr>
@@ -29,6 +29,12 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
                 <tr><th>BOOTH</th><td>2021年6月「キラキラアーカイブ」画03</td></tr>
                 <tr><th>PRICE</th><td>700円</td></tr>
                 <tr><th>STORE</th><td>booth（準備中）</td></tr>
+                <tr>
+                    <th>ISDN</th>
+                    <td>
+                        <a href="https://isdn.jp/2784535537016" target="_blank" rel="noopener noreferrer">278-4-535537-01-6</a>
+                    </td>
+                </tr>
             </tbody>
         </table>
     </div>
