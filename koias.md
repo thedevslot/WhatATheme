@@ -35,16 +35,30 @@ twitter:
     <p class="subtitle is-uppercase has-text-weight-semibold">活動状況</p>
 </div>
 
-### 2021年6月12日 恋アスオンリー「キラキラアーカイブ」にサークル参加します
+### 2021年6月12日 恋アスオンリーイベント「キラキラアーカイブ」にサークル参加します
 
 <p class="columns" style="margin:10px 0">
-    <img src="assets/images/utkoias-202106-circlecut.jpg" alt="utkoias 202106 circlecut" class="column is-one-third-desktop is-half-tablet">
+    <a href="assets/images/utkoias-202106-circlecut.jpg" data-lightbox="20210612" class="column is-3-desktop is-half-tablet">
+        <img src="assets/images/utkoias-202106-circlecut.jpg" alt="utkoias 202106 circlecut" >
+    </a>
+    <a href="assets/images/find-our-stars-1/main.jpg" data-lightbox="20210612" class="column is-4-desktop is-half-tablet">
+        <img src="assets/images/find-our-stars-1/main.jpg" alt="utkoias 202106 circlecut">
+    </a>
 </p>
 
-2021年6月12日（土曜日）に動画工房作品オンリー「俺達の動画工房」内で開催される[恋する小惑星オンリーイベント「キラキラアーカイブ」](http://project-d.biz/douga/)にサークル参加を申し込みました。
+2021年6月12日（土曜日）に動画工房作品オンリー「俺達の動画工房」内で開催される[恋する小惑星オンリーイベント「キラキラアーカイブ」](http://project-d.biz/douga/)に「**画03 東京大学恋する小惑星同好会**」としてサークル参加します。
 
-『恋する小惑星』に関する評論系・イラスト系の合同誌を頒布予定です。
+『恋する小惑星』に関する評論・イラストをまとめた当会初の合同誌「**#FindOurStars Vol.1**」を頒布予定です。
 
+<div class="columns is-centered is-multiline">
+    <a href="/posts/find-our-stars-1"
+    class="button is-success is-rounded has-text-weight-normal">
+        <span class="icon">
+            <i class="fas fa-angle-double-right"></i>
+        </span>
+        <span>詳細ページ</span>
+    </a>
+</div>
 
 
 ---
