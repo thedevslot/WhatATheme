@@ -58,6 +58,13 @@ twitter:
         </span>
         <span>詳細ページ</span>
     </a>
+    <a href="https://utkiraracircle.booth.pm/items/3034447" target="_blank" rel="noopener noreferrer"
+    class="button is-link is-rounded has-text-weight-normal">
+        <span class="icon">
+            <i class="fas fa-external-link-alt"></i>
+        </span>
+        <span>booth</span>
+    </a>
 </div>
 
 

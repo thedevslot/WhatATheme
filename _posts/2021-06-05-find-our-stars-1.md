@@ -28,7 +28,12 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
                 <tr><th>RELEASE DATE</th><td>2021年6月12日</td></tr>
                 <tr><th>BOOTH</th><td>2021年6月「キラキラアーカイブ」画03</td></tr>
                 <tr><th>PRICE</th><td>700円</td></tr>
-                <tr><th>STORE</th><td>booth（準備中）</td></tr>
+                <tr>
+                    <th>STORE</th>
+                    <td>
+                        <a href="https://utkiraracircle.booth.pm/items/3034447" target="_blank" rel="noopener noreferrer">booth</a>
+                    </td>
+                </tr>
                 <tr>
                     <th>ISDN</th>
                     <td>
@@ -54,6 +59,13 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
             <i class="fas fa-angle-double-down"></i>
         </span>
         <span>Illustrations</span>
+    </a>
+    <a href="https://utkiraracircle.booth.pm/items/3034447" target="_blank" rel="noopener noreferrer"
+    class="button is-link is-rounded has-text-weight-normal">
+        <span class="icon">
+            <i class="fas fa-external-link-alt"></i>
+        </span>
+        <span>booth</span>
     </a>
 </div>
 

@@ -1,9 +1,11 @@
 <div class="columns is-centered is-multiline is-mobile">
   {% for project in site.data.activity %}
-    {% unless project.link == %}
-    <a href="{{project.link}}">
-    {% endunless %}
+    {% if project.link == void(0) %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch has-background-black project-card">
+    {% else %}
+    <a href="{{project.link}}" class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch has-background-black project-card">
+    <div>
+    {% endif %}
       <figure class="image is-2by1" style="background-image: url({{project.image}});background-size: cover;">
       </figure>
       <div class="card-content">
