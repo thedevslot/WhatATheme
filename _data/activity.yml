@@ -1,6 +1,6 @@
 # _includes/project-card.htmlで読み込むデータ
 - name: 合同誌制作
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  image: assets/images/fanbooks.jpg
   link: /posts/
   description: 会員の寄稿による合同誌を制作し、学園祭や同人イベント等で頒布します。 <u>&gt;&gt;活動報告</u>
 - name: 立て看板製作
