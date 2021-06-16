@@ -46,27 +46,22 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
 </div>
 
 <div class="columns is-centered is-multiline">
-    <a href="#articles"
-    class="button is-dark is-rounded has-text-weight-normal">
-        <span class="icon">
-            <i class="fas fa-angle-double-down"></i>
-        </span>
-        <span>Articles</span>
-    </a>
-    <a href="#illustrations"
-    class="button is-dark is-rounded has-text-weight-normal">
-        <span class="icon">
-            <i class="fas fa-angle-double-down"></i>
-        </span>
-        <span>Illustrations</span>
-    </a>
-    <a href="https://utkiraracircle.booth.pm/items/3034447" target="_blank" rel="noopener noreferrer"
-    class="button is-link is-rounded has-text-weight-normal">
-        <span class="icon">
-            <i class="fas fa-external-link-alt"></i>
-        </span>
-        <span>booth</span>
-    </a>
+    {% include button.html
+       href="#articles"
+       class="is-dark is-rounded has-text-weight-normal"
+       icon_name="fa-angle-double-down"
+       text="Articles" %}
+    {% include button.html
+       href="#illustrations"
+       class="is-dark is-rounded has-text-weight-normal"
+       icon_name="fa-angle-double-down"
+       text="Illustrations" %}
+    {% include button.html
+       href="https://utkiraracircle.booth.pm/items/3034447"
+       blank=true
+       class="is-link is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="booth" %}
 </div>
 
 ## 正誤表

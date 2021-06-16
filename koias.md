@@ -51,20 +51,17 @@ twitter:
 『恋する小惑星』に関する評論・イラストをまとめた当会初の合同誌「**#FindOurStars Vol.1**」を頒布予定です。
 
 <div class="columns is-centered is-multiline">
-    <a href="/posts/find-our-stars-1"
-    class="button is-success is-rounded has-text-weight-normal">
-        <span class="icon">
-            <i class="fas fa-angle-double-right"></i>
-        </span>
-        <span>詳細ページ</span>
-    </a>
-    <a href="https://utkiraracircle.booth.pm/items/3034447" target="_blank" rel="noopener noreferrer"
-    class="button is-link is-rounded has-text-weight-normal">
-        <span class="icon">
-            <i class="fas fa-external-link-alt"></i>
-        </span>
-        <span>booth</span>
-    </a>
+    {% include button.html
+       href="/posts/find-our-stars-1"
+       class="is-success is-rounded has-text-weight-normal"
+       icon_name="fa-angle-double-right"
+       text="詳細ページ" %}
+    {% include button.html
+       href="https://utkiraracircle.booth.pm/items/3034447"
+       blank=true
+       class="is-link is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="booth" %}
 </div>
 
 

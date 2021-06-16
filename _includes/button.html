@@ -1,0 +1,14 @@
+<a href="{{include.href}}"
+   class="button {{include.class}}"
+   {%if include.blank == true%}
+   target="_blank" rel="noopener noreferrer"
+   {%endif%}
+   {%if include.opt%}
+   {{include.opt}}
+   {%endif%}
+>
+    <span class="icon">
+        <i class="fas {{include.icon_name}}"></i>
+    </span>
+    <span>{{include.text}}</span>
+</a>
