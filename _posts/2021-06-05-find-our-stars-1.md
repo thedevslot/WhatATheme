@@ -69,6 +69,17 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
     </a>
 </div>
 
+## 正誤表
+
+『#FindOurStars Vol.1』初版に以下の通り訂正がありましたので、お知らせ致します。
+なお、訂正後の内容で電子版を更新し配布しております。必要に応じご利用ください。
+
+ページ | 箇所       | 誤 | 正
+------|------------|----|-----
+ 65   | 4.4節見出し | <img src="/assets/images/find-our-stars-1/yume-incorrect.png" alt="誤" style="width:100%; max-width: 250px;"> | <img src="/assets/images/find-our-stars-1/yume-correct.png" alt="正" style="width:100%; max-width: 250px;">
+
+
+
 ## Articles
 
 {% include detail-article.html articles=site.data.find-our-stars-1.articles %}
