@@ -11,11 +11,11 @@ title: Callum Thompson
 # Description of the Site
 description: My Portfolio Website
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image:
 # Keywords of the Site
 site-keywords: Portfolio, Blog, Code, Programming, Beginner, Jekyll
 # URL for the Image of custom Favicon
-favicon-url:
+favicon-url: /assets/images/logo.png/
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -35,7 +35,7 @@ dribbble_username:
 spotify_username:
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics:
 
 # Disqus
 disqus-shortname:
@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Callum Thompson
 # URL for the Image of the Author
-author-image: /assets/images/authorImage.jpg/
+author-image: /assets/images/authorImage.png/
 # 60 Words About the Author
 author-about: I am a young adult who is learning anything and everything programming. I started approx. 2017 when I was picking my GCSE options. Days after my selections, I was introduced to Python, and rushed to switch my previous ICT option to computer science. Now, I am on a path to become a software developer! Hopefully you will watch, assist, or accompany me on my journey!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
