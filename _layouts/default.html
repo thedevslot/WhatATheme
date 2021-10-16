@@ -15,8 +15,18 @@ layout: compress
       <div class="container has-text-centered project">
         <div class="section">
           <p class="subtitle is-uppercase has-text-weight-semibold">主な活動</p>
+          {% include project-card.html activity=site.data.activity %}
         </div>
-        {% include project-card.html activity=site.data.activity %}
+        <div class="content section">
+          <p class="subtitle is-uppercase has-text-weight-semibold">新着情報</p>
+          <ul class="has-text-left">
+            {% for post in site.posts %}
+            <li>
+              <a href="{{post.url | absolute_url}}">{{post.title}}</a>　{{post.post-summary}}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </section>
