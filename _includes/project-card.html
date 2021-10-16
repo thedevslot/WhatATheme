@@ -1,5 +1,5 @@
 <div class="columns is-centered is-multiline is-mobile">
-  {% for project in site.data.activity %}
+  {% for project in include.activity %}
     {% if project.link == void(0) %}
     <div class="column has-text-centered is-paddingless is-marginless is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch has-background-black project-card">
     {% else %}
