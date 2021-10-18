@@ -6,8 +6,8 @@
         <div class="column has-text-left-desktop has-text-left-tablet">
             <h1 class="title is-size-4-touch">{{post.title}}</h1>
             <div class="content has-text-grey">
-                {% if post.post-summary %}
-                {{ post.post-summary }}
+                {% if post.kokuchi %}
+                {{ post.kokuchi }}
                 {% else %}
                 {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
                 {% endif %}
