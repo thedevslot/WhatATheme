@@ -35,6 +35,30 @@ twitter:
     <p class="subtitle is-uppercase has-text-weight-semibold">活動状況</p>
 </div>
 
+### 2021年10月24日 四コマ＆まんがタイム系オンリーイベント「よんこま文化祭2021」にサークル参加します
+
+<p class="columns" style="margin:10px 0">
+    <a href="assets/images/utkirara-202110-circlecut.jpg" data-lightbox="20211024" class="column is-3-desktop is-half-tablet">
+        <img src="assets/images/utkirara-202110-circlecut.jpg" alt="utkirara 202110 circlecut" >
+    </a>
+    <a href="assets/images/utkirara-202110-kokuchi.jpg" data-lightbox="20211024" class="column is-2-desktop is-half-tablet">
+        <img src="assets/images/utkirara-202110-kokuchi.jpg" alt="utkirara 202110 kokuchi" >
+    </a>
+</p>
+
+2021年10月24日（土曜日）に開催される[四コマ＆まんがタイム系オンリーイベント「よんこま文化祭2021」](https://www.yonkoma.info/p/index2021.html)に「**さ02 東京大学きらら同好会**」としてサークル参加します。
+
+恋する小惑星同好会からは、2冊目の評論・イラスト合同誌「**#FindOurStars Vol. 2**」を頒布致します。
+参加される方はぜひお立ち寄りください。
+
+<div class="columns is-centered is-multiline">
+    {% include button.html
+       href="/posts/find-our-stars-2"
+       class="is-dark is-rounded has-text-weight-normal"
+       icon_name="fa-angle-double-right"
+       text="詳細ページ" %}
+</div>
+
 ### 2021年6月12日 恋アスオンリーイベント「キラキラアーカイブ」にサークル参加します
 
 <p class="columns" style="margin:10px 0">
@@ -53,7 +77,7 @@ twitter:
 <div class="columns is-centered is-multiline">
     {% include button.html
        href="/posts/find-our-stars-1"
-       class="is-success is-rounded has-text-weight-normal"
+       class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-right"
        text="詳細ページ" %}
     {% include button.html
