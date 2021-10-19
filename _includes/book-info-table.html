@@ -1,0 +1,39 @@
+<table class="table">
+    <tbody>
+        <tr><th>TITLE</th><td>{{include.title}}</td></tr>
+        <tr>
+            <th>CIRCLE</th>
+            <td>
+                {% if include.circle_href and include.circle_href != "" and include.circle_href != nil %}
+                <a href="{{include.circle_href}}" target="_blank" rel="noopener noreferrer">{{include.circle}}</a>
+                {% else %}
+                {{include.circle}}
+                {% endif %}
+            </td>
+        </tr>
+        <tr><th>SPECIFICATION</th><td>{{include.specification}}</td></tr>
+        <tr><th>RELEASE DATE</th><td>{{include.release_date}}</td></tr>
+        <tr><th>BOOTH</th><td>{{include.booth}}</td></tr>
+        <tr><th>PRICE</th><td>{{include.price}}</td></tr>
+        <tr>
+            <th>STORE</th>
+            <td>
+                {% if include.store_href and include.store_href != "" and include.store_href != nil %}
+                <a href="{{include.store_href}}" target="_blank" rel="noopener noreferrer">{{include.store}}</a>
+                {% else %}
+                {{include.store}}
+                {% endif %}
+            </td>
+        </tr>
+        <tr>
+            <th>ISDN</th>
+            <td>
+                {% if include.isdn_href and include.isdn_href != "" and include.isdn_href != nil %}
+                <a href="{{include.isdn_href}}" target="_blank" rel="noopener noreferrer">{{include.isdn}}</a>
+                {% else %}
+                {{include.isdn}}
+                {% endif %}
+            </td>
+        </tr>
+    </tbody>
+</table>
