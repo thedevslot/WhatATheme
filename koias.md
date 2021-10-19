@@ -61,7 +61,7 @@ twitter:
        blank=true
        class="is-link is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
-       text="booth" %}
+       text="booth（完売しました）" %}
 </div>
 
 

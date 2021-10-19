@@ -3,7 +3,7 @@ title: "東大恋アス同好会合同誌 #FindOurStars Vol. 1"
 layout: post
 description: "東大恋アス同好会合同誌「#FindOurStars Vol.1」の紹介ページです。"
 kokuchi: 2021年6月12日（土曜日）恋する小惑星オンリーイベント「キラキラアーカイブ」 画03にて、東京大学恋する小惑星同好会初の合同誌「#FindOurStars Vol.1」を頒布します。
-post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/main.jpg"
+post-image: "https://utkiraracircle.github.io/assets/images/1280x720 Placeholder.png"
 ---
 
 2021年6月12日（土曜日）[恋する小惑星オンリーイベント「キラキラアーカイブ」](http://project-d.biz/douga/) **画03**にて、東京大学恋する小惑星同好会初の合同誌「#FindOurStars Vol.1」を頒布します。
