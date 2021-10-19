@@ -11,16 +11,15 @@ layout: compress
     {% include navbar.html %}
 
     <section class="hero is-fullheight" id="blog">
-        <div class="hero-body">
-            <!-- <div class="container">
-                include blogpage-heading.html
-            </div> -->
-            <!-- <div id="results-container"></div> -->
-            <!--Blog Cards Section-->
-            {% for post in site.posts %}
-            {% include blog-card.html %}
-            {% endfor %}
-        </div>
+        <!-- <div class="container">
+            include blogpage-heading.html
+        </div> -->
+        <!-- <div id="results-container"></div> -->
+        <!--Blog Cards Section-->
+        <div style="padding-top:4rem;"></div>
+        {% for post in site.posts %}
+        {% include blog-card.html %}
+        {% endfor %}
     </section>
     <br>
     <!--Footer begins here-->
