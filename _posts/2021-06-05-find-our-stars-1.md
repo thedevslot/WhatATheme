@@ -27,7 +27,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
                 </tr>
                 <tr><th>SPECIFICATION</th><td>B5サイズ 84ページ（本文グレースケール）</td></tr>
                 <tr><th>RELEASE DATE</th><td>2021年6月12日</td></tr>
-                <tr><th>BOOTH</th><td>2021年6月「キラキラアーカイブ」画03</td></tr>
+                <tr><th>BOOTH（完売）</th><td>2021年6月「キラキラアーカイブ」画03</td></tr>
                 <tr><th>PRICE</th><td>700円</td></tr>
                 <tr>
                     <th>STORE</th>
@@ -62,7 +62,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
        blank=true
        class="is-link is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
-       text="booth" %}
+       text="booth（完売しました）" %}
 </div>
 
 ## 正誤表
