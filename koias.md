@@ -57,6 +57,12 @@ twitter:
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-right"
        text="詳細ページ" %}
+    {% include button.html
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
+       blank=true
+       class="is-success is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="メロンブックス" %}
 </div>
 
 ### 2021年6月12日 恋アスオンリーイベント「キラキラアーカイブ」にサークル参加します

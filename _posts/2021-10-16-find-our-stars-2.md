@@ -20,12 +20,12 @@ post-image: "https://utkiraracircle.github.io/assets/images/1280x720 Placeholder
            title="#FindOurStars Vol. 2"
            circle="東京大学恋する小惑星同好会"
            circle_href="/koias"
-           specification="B5サイズ 88ページ（本文グレースケール）"
+           specification="B5サイズ 92ページ（本文グレースケール）"
            release_date="2021年10月24日"
            booth="2021年10月「よんこま文化祭2021」さ02"
            price="700円（会場）　1,100円（委託・税込）"
            store="メロンブックス"
-           store_href=""
+           store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
            isdn="278-4-535537-02-3"
            isdn_href="https://isdn.jp/2784535537023" %}
     </div>
@@ -42,12 +42,18 @@ post-image: "https://utkiraracircle.github.io/assets/images/1280x720 Placeholder
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
        text="Illustrations" %}
-    <!-- {% include button.html
-       href=""
+    {% include button.html
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
        blank=true
        class="is-success is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
-       text="メロンブックス" %} -->
+       text="メロンブックス" %}
+    {% include button.html
+       href="https://utkiraracircle.booth.pm/items/3332632"
+       blank=true
+       class="is-link is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="booth（電子版DL用）" %}
 </div>
 
 ## Articles

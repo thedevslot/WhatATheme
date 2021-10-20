@@ -20,7 +20,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
            title="#FindOurStars Vol. 1"
            circle="東京大学恋する小惑星同好会"
            circle_href="/koias"
-           specification="B5サイズ 84ページ（本文グレースケール）"
+           specification="B5サイズ 88ページ（本文グレースケール）"
            release_date="2021年6月12日"
            booth="2021年6月「キラキラアーカイブ」画03"
            price="700円"
