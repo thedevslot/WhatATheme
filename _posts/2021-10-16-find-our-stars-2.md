@@ -56,10 +56,11 @@ post-image: "https://utkiraracircle.github.io/assets/images/1280x720 Placeholder
        text="booth（電子版DL用）" %}
 </div>
 
+
 ## Articles
 
-（サンプル準備中です）
+{% include detail-article.html articles=site.data.find-our-stars-2.articles %}
 
 ## Illustrations
 
-（サンプル準備中です）
+{% include detail-illust.html illusts=site.data.find-our-stars-2.illusts %}
