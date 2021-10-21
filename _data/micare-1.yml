@@ -1,0 +1,99 @@
+# _posts/2021-06-05-micare-1.mdで読み込むデータ
+articles:
+  - title: "1. 初めてのきらら、どの作品がいいか / "
+    twitter: 
+      - name: 500mL
+        id: JP3LHW
+      - name: 一之瀬めろん
+        id: xAx_xBx_xCx
+      - name: のぼりくだり
+        id: nbrkdrnfnht
+      - name: ふぁぼん
+        id: syobon_hinata
+    desc: |-
+        「初めてきらら作品に触れる人におすすめすべきはどの作品か。」という問いは、きららオタクなら一度は考える問題でしょう。<br>
+        同好会員4人の答えには、各人の「きらら」観が垣間見えるようです。
+    page_img:
+      - alt: 初きららサンプル1
+        src: /assets/images/micare-1/s-firstkirara-01.jpg
+      - alt: 初きららサンプル2
+        src: /assets/images/micare-1/s-firstkirara-02.jpg
+  - title: "2. 立て看板制作報告@駒場キャンパス / のこ"
+    twitter: NOCO_1002
+    desc: |-
+        東京大学駒場キャンパスに突如出現した青い立て看板。その制作について、プロジェクトを統括したのこ氏が報告します。簡単な制作の流れも載っているので、立て看板を立てたい人は参考になるかも？
+    page_img:
+      - alt: のこサンプル1
+        src: /assets/images/micare-1/s-noco-01.jpg
+  - title: "3. 立て看板フォトギャラリー / kn1cht・れんず"
+    twitter:
+      - name: kn1cht
+        id: kn1cht
+      - name: れんず
+        id: S_B_R_P_L_D_S
+    desc: |-
+        会員のkn1cht氏とれんず氏が立て看板の写真をきれいに撮ってくれました。ここではそのうち数枚をフォトギャラリーと題し、紹介します。
+    page_img:
+      - alt: 立て看サンプル1
+        src: /assets/images/micare-1/s-tatekan-01.jpg
+  - title: "4. みかーれ! / haxibami"
+    twitter: haxibami
+    desc: |-
+        ┌─┬─┬─┬─<br>
+        │　│　│　│？<br>
+        └─┴─┴─┴─<br>
+        きららって？四コマって？　同好会員の完全オリジナルキャラクター原案をもとに、三部構成で考察するSF短編小説です。
+        次号につづく。
+
+    page_img:
+      - alt: haxibamiサンプル1
+        src: /assets/images/micare-1/s-haxibami-01.jpg
+      - alt: haxibamiサンプル2
+        src: /assets/images/micare-1/s-haxibami-02.jpg
+  - title: "5. もゆもゆに露出計を捧ぐ / れんず"
+    twitter: S_B_R_P_L_D_S
+    desc: |-
+        時折真っ黒や真っ白な写真を撮ってしまう『ぎんしお少々』の塩原もゆるさんのため、シャッターを切る際に適切な光量を測れる「露出計」を作ろう……。
+        そう思い立ったれんず氏はいざ秋葉原へ。キャラクターのために電子工作をする一風変わった技術系記事です。
+    page_img:
+      - alt: れんずサンプル1
+        src: /assets/images/micare-1/s-lens-01.jpg
+      - alt: れんずサンプル2
+        src: /assets/images/micare-1/s-lens-02.jpg
+  - title: "6. 星屑テレパスからのモデルロケット入門 / kn1cht"
+    twitter: kn1cht
+    desc: |-
+        『星屑テレパス』でロケット研究同好会がモデルロケット大会に出場していましたね。
+        それを読み、モデルロケットって気になるけど実際はどういうものなんだろう？資格が必要なの？そういう人もこれで安心。モデルロケットのわかりやすい入門記事です。
+    page_img:
+      - alt: kn1chtサンプル1
+        src: /assets/images/micare-1/s-kn1cht-01.jpg
+      - alt: kn1chtサンプル2
+        src: /assets/images/micare-1/s-kn1cht-02.jpg
+  - title: "7. まちカドまぞく vs. ウクライナ語警察 / ふぁぼん"
+    twitter: syobon_hinata
+    desc: |-
+        まちカドまぞく6巻に登場するウクライナ語の文章に、ウクライナ語を学ぶ筆者が真っ向から向き合います。
+        原文の和訳、精読、文法と語法の解説、そして間違っている部分の訂正を通じて、まちカドまぞくのよりよい理解を目指します。<br>
+        ※ロシア語などスラヴ諸語の知識は必須ではありませんが、あればさらに楽しめます。
+    page_img:
+      - alt: ふぁぼんサンプル1
+        src: /assets/images/micare-1/s-fabon-01.jpg
+      - alt: ふぁぼんサンプル2
+        src: /assets/images/micare-1/s-fabon-02.jpg
+illusts:
+  - name: 一之瀬めろん
+    twitter: xAx_xBx_xCx
+    src: /assets/images/micare-1/melon.png
+  - name: のこ
+    twitter: NOCO_1002
+    src: /assets/images/micare-1/noco.png
+  - name: さんかくす
+    twitter: tourmaline_wm
+    src: /assets/images/micare-1/sankakusu.png
+  - name: 500mL
+    twitter: JP3LHW
+    src: /assets/images/micare-1/500ml.png
+  - name: 井戸
+    twitter: water_of_a_well
+    src: /assets/images/micare-1/ido.png
