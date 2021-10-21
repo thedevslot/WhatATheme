@@ -60,7 +60,7 @@ twitter:
     {% include button.html
        href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
        blank=true
-       class="is-success is-rounded has-text-weight-normal"
+       class="is-melon is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
        text="メロンブックス" %}
 </div>
@@ -89,7 +89,7 @@ twitter:
     {% include button.html
        href="https://utkiraracircle.booth.pm/items/3034447"
        blank=true
-       class="is-link is-rounded has-text-weight-normal"
+       class="is-booth is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
        text="booth（完売しました）" %}
 </div>

@@ -16,6 +16,16 @@
       <blockquote>
           {{ article.desc }}
       </blockquote>
+      {% if article.ext_links %}
+        {% for link in article.ext_links %}
+          {% include button.html
+            href=link.href
+            blank=true
+            class=link.class
+            icon_name=link.icon
+            text=link.text %}
+        {% endfor %}
+      {% endif %}
   </div>
 </div>
 {% endfor %}
