@@ -3,7 +3,7 @@ title: "東大恋アス同好会合同誌 #FindOurStars Vol. 2"
 layout: post
 description: "東大恋アス同好会合同誌「#FindOurStars Vol.2」の紹介ページです。"
 kokuchi: 2021年10月24日（日曜日）四コマ＆まんがタイム系オンリーイベント「よんこま文化祭2021」 さ02にて、東京大学恋する小惑星同好会の合同誌「#FindOurStars Vol.2」を頒布します。
-post-image: "https://utkiraracircle.github.io/assets/images/1280x720 Placeholder.png"
+post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-2/main.jpg"
 ---
 
 2021年10月24日（日曜日）[四コマ＆まんがタイム系オンリーイベント「よんこま文化祭2021」](https://www.yonkoma.info/p/index2021.html) **さ02**にて、東京大学恋する小惑星同好会の合同誌「#FindOurStars Vol.2」を頒布します。
@@ -45,13 +45,13 @@ post-image: "https://utkiraracircle.github.io/assets/images/1280x720 Placeholder
     {% include button.html
        href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
        blank=true
-       class="is-success is-rounded has-text-weight-normal"
+       class="is-melon is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
        text="メロンブックス" %}
     {% include button.html
        href="https://utkiraracircle.booth.pm/items/3332632"
        blank=true
-       class="is-link is-rounded has-text-weight-normal"
+       class="is-booth is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
        text="booth（電子版DL用）" %}
 </div>

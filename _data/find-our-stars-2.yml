@@ -83,6 +83,12 @@ articles:
         src: /assets/images/find-our-stars-2/s-fabon-03.jpg
       - alt: ふぁぼんサンプル4
         src: /assets/images/find-our-stars-2/s-fabon-04.jpg
+    ext_links:
+      -
+        href: https://www.pixiv.net/novel/show.php?id=16190901
+        text: pixiv
+        class: "is-pixiv is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
 illusts:
   - name: まーしー
     twitter: marcey_marcey_

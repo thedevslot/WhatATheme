@@ -45,7 +45,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
     {% include button.html
        href="https://utkiraracircle.booth.pm/items/3034447"
        blank=true
-       class="is-link is-rounded has-text-weight-normal"
+       class="is-booth is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
        text="booth（完売しました）" %}
 </div>
