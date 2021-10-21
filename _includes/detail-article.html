@@ -1,13 +1,21 @@
 {% for article in include.articles %}
 <h3>
   {{ article.title }}
+  {% if article.twitter.first %}
+    {% for twitter in article.twitter %}
+      {% if forloop.first == false %}・{% endif %}
+      {{twitter.name}}
+      <a href="https://twitter.com/{{ twitter.id }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+    {% endfor %}
+  {% else %}
   <a href="https://twitter.com/{{ article.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+  {% endif %}
 </h3>
 
 <div class="columns is-centered is-multiline">
   {% for img in article.page_img %}
   <div class="column is-one-fifth-desktop is-one-third-tablet is-half-mobile">
-    <a href="{{ img.src }}" data-lightbox="{{ article.twitter }}" data-title="{{ article.title }}">
+    <a href="{{ img.src }}" data-lightbox="{{ article.title }}" data-title="{{ article.title }}">
       <img src="{{ img.src }}" alt="{{ img.alt }}" style="width: 90%; max-width: 90%;">
     </a>
   </div>
