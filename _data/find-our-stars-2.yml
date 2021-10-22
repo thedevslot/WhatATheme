@@ -20,6 +20,12 @@ articles:
         src: /assets/images/find-our-stars-2/s-takemaro-01.jpg
       - alt: 竹麻呂サンプル2
         src: /assets/images/find-our-stars-2/s-takemaro-02.jpg
+    ext_links:
+      -
+        href: https://blog.takemaro.com/posts/2021/10/22-utdue-inosenpai
+        text: Blog
+        class: "is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "国内油田巡検記 / れんず"
     twitter: S_B_R_P_L_D_S
     desc: |-
