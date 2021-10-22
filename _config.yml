@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'www.manderson.me'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -23,14 +23,14 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: matthew@manderson.me
-facebook_username: thedevslot
+facebook_username: matholamew
 twitter_username: matholamew
 instagram_username: matholamew
 linkedin_username: matthewandersonj
 github_username:  matholamew
 youtube_channel_id: UCANoI1EHncvlv7O1rP15yoA
-reddit_username: /matholamew
-spotify_username: /matholamew
+reddit_username: matholamew
+spotify_username: matholamew
 
 # Google Analytics (id)
 google-analytics: 
