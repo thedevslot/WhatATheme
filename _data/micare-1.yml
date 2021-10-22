@@ -97,3 +97,5 @@ illusts:
   - name: 井戸
     twitter: water_of_a_well
     src: /assets/images/micare-1/ido.png
+  - name: UEEU
+    src: /assets/images/micare-1/ueeu.png
