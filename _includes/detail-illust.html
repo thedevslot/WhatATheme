@@ -1,14 +1,16 @@
 <div class="columns is-centered is-multiline is-mobile is-variable is-0-mobile is-1-tablet is-1-desktop" style="margin: 1rem 0;">
   {% for illust in include.illusts %}
   <div class="column has-text-centered is-paddingless is-one-fifth-desktop is-one-quarter-tablet is-two-fifths-mobile has-background-black">
-    <a href="{{ illust.src }}" data-lightbox="{{ illust.twitter }}"  data-title="{{ illust.name }}">
+    <a href="{{ illust.src }}" data-lightbox="{{ illust.name }}"  data-title="{{ illust.name }}">
         <figure class="image is-1by1 is-marginless" style="background-image: url({{illust.src}});background-size: cover;">
         </figure>
     </a>
       <div class="card-content" style="padding: 1rem;">
           <h3 class="title has-text-white is-size-4">
               {{ illust.name }}
+              {% if illust.twitter %}
               <a class="has-text-white" href="https://twitter.com/{{ illust.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+              {% endif %}
           </h3>
       </div>
   </div>

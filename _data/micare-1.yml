@@ -60,6 +60,12 @@ articles:
         src: /assets/images/micare-1/s-lens-01.jpg
       - alt: れんずサンプル2
         src: /assets/images/micare-1/s-lens-02.jpg
+    ext_links:
+      -
+        href: https://github.com/UTKiraraCircle/micare_expmeter
+        text: GitHub
+        class: "is-dark is-rounded has-text-weight-normal"
+        icon: "fab fa-github"
   - title: "6. 星屑テレパスからのモデルロケット入門 / kn1cht"
     twitter: kn1cht
     desc: |-
@@ -70,6 +76,12 @@ articles:
         src: /assets/images/micare-1/s-kn1cht-01.jpg
       - alt: kn1chtサンプル2
         src: /assets/images/micare-1/s-kn1cht-02.jpg
+    ext_links:
+      -
+        href: https://note.com/kn1cht/n/n8c72362f36d5
+        text: 関連記事（note）
+        class: "is-note is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "7. まちカドまぞく vs. ウクライナ語警察 / ふぁぼん"
     twitter: syobon_hinata
     desc: |-
