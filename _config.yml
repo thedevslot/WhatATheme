@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://images.pexels.com/photos/2364908/pexels-photo-2364908.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -41,7 +41,7 @@ disqus-shortname: matholamew
 # Name of the Author
 author-name: Matthew Anderson
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://avatars.githubusercontent.com/u/614992?v=4
 # 60 Words About the Author
 author-about: I live in the Boston, MA suburbs with my wife, kids, and mother.  By day I am a SQL Server DBA. By night I am an Ultra Marathoner.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
