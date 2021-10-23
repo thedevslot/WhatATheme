@@ -1,7 +1,12 @@
 ---
+title: Onto the next adventure
 layout: post
-title:  "Onto the next adventure"
 date:   "2020-03-11"
+post-image: "https://raw.githubusercontent.com/matholamew/matholamew.github.io/master/assets/images/changes.png"
+description: The past, present, and future of my career.
+tags:
+- post
+- changes, professional
 ---
 #### **The past**
 I've held the DBA title for many years. Starting in the Albany, NY area I started in the Help Desk at a casino and worked my way up to Database Developer and then onto Database Administrator at a manufacturing company and an insurance company. In the summer of 2015 my family and I moved out to the Boston, MA area where I stayed for the past 4.5 years.
