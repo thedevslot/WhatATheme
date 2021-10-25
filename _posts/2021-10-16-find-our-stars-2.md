@@ -56,6 +56,15 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-2/mai
        text="booth（電子版DL用）" %}
 </div>
 
+## 正誤表
+
+『#FindOurStars Vol. 2』初版に以下の通り訂正がありましたので、お知らせ致します。
+<!-- なお、訂正後の内容で電子版を更新し配布しております。必要に応じご利用ください。 -->
+
+ページ | 箇所       | 誤 | 正
+------|------------|----|-----
+ 36   | 図3.10キャプション | うっすらと水面に幕がある | うっすらと水面に膜がある
+
 
 ## Articles
 

@@ -52,7 +52,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
 
 ## 正誤表
 
-『#FindOurStars Vol.1』初版に以下の通り訂正がありましたので、お知らせ致します。
+『#FindOurStars Vol. 1』初版に以下の通り訂正がありましたので、お知らせ致します。
 なお、訂正後の内容で電子版を更新し配布しております。必要に応じご利用ください。
 
 ページ | 箇所       | 誤 | 正
