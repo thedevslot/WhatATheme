@@ -1,15 +1,15 @@
 # _posts/2021-06-05-micare-1.mdで読み込むデータ
 articles:
-  - title: "1. 初めてのきらら、どの作品がいいか / "
-    twitter: 
+  - title: "1. 初めてのきらら、どの作品がいいか"
+    authors:
       - name: 500mL
-        id: JP3LHW
+        twitter: JP3LHW
       - name: 一之瀬めろん
-        id: xAx_xBx_xCx
+        twitter: xAx_xBx_xCx
       - name: のぼりくだり
-        id: nbrkdrnfnht
+        twitter: nbrkdrnfnht
       - name: ふぁぼん
-        id: syobon_hinata
+        twitter: syobon_hinata
     desc: |-
         「初めてきらら作品に触れる人におすすめすべきはどの作品か。」という問いは、きららオタクなら一度は考える問題でしょう。<br>
         同好会員4人の答えには、各人の「きらら」観が垣間見えるようです。
@@ -18,26 +18,30 @@ articles:
         src: /assets/images/micare-1/s-firstkirara-01.jpg
       - alt: 初きららサンプル2
         src: /assets/images/micare-1/s-firstkirara-02.jpg
-  - title: "2. 立て看板制作報告@駒場キャンパス / のこ"
-    twitter: NOCO_1002
+  - title: "2. 立て看板制作報告@駒場キャンパス"
+    authors:
+      - name: のこ
+        twitter: NOCO_1002
     desc: |-
         東京大学駒場キャンパスに突如出現した青い立て看板。その制作について、プロジェクトを統括したのこ氏が報告します。簡単な作り方の解説も載っているので、立て看板を立てたい人は参考になるかも？
     page_img:
       - alt: のこサンプル1
         src: /assets/images/micare-1/s-noco-01.jpg
-  - title: "3. 立て看板フォトギャラリー / "
-    twitter:
+  - title: "3. 立て看板フォトギャラリー"
+    authors:
       - name: kn1cht
-        id: kn1cht
+        twitter: kn1cht
       - name: れんず
-        id: S_B_R_P_L_D_S
+        twitter: S_B_R_P_L_D_S
     desc: |-
         会員のkn1cht氏とれんず氏が立て看板の写真をきれいに撮ってくれました。ここではそのうち数枚をフォトギャラリーと題し、紹介します。
     page_img:
       - alt: 立て看サンプル1
         src: /assets/images/micare-1/s-tatekan-01.jpg
-  - title: "4. みかーれ! / haxibami"
-    twitter: haxibami
+  - title: "4. みかーれ!"
+    authors:
+      - name: haxibami
+        twitter: haxibami
     desc: |-
         ┌─┬─┬─┬─<br>
         │　│　│　│？<br>
@@ -50,8 +54,10 @@ articles:
         src: /assets/images/micare-1/s-haxibami-01.jpg
       - alt: haxibamiサンプル2
         src: /assets/images/micare-1/s-haxibami-02.jpg
-  - title: "5. もゆもゆに露出計を捧ぐ / れんず"
-    twitter: S_B_R_P_L_D_S
+  - title: "5. もゆもゆに露出計を捧ぐ"
+    authors:
+      - name: れんず
+        twitter: S_B_R_P_L_D_S
     desc: |-
         時折真っ黒や真っ白な写真を撮ってしまう『ぎんしお少々』の塩原もゆるさんのため、シャッターを切る際に適切な光量を測れる「露出計」を作ろう……。
         そう思い立ったれんず氏はいざ秋葉原へ。キャラクターのために電子工作をする一風変わった技術系記事です。
@@ -71,8 +77,10 @@ articles:
         text: 関連記事（note）
         class: "is-note is-rounded has-text-weight-normal"
         icon: "fa-external-link-alt"
-  - title: "6. 星屑テレパスからのモデルロケット入門 / kn1cht"
-    twitter: kn1cht
+  - title: "6. 星屑テレパスからのモデルロケット入門"
+    authors:
+      - name: kn1cht
+        twitter: kn1cht
     desc: |-
         『星屑テレパス』でロケット研究同好会がモデルロケット大会に出場していましたね。
         それを読み、モデルロケットって気になるけど実際はどういうものなんだろう？資格が必要なの？そういう人もこれで安心。モデルロケットのわかりやすい入門記事です。
@@ -87,8 +95,10 @@ articles:
         text: 関連記事（note）
         class: "is-note is-rounded has-text-weight-normal"
         icon: "fa-external-link-alt"
-  - title: "7. まちカドまぞく vs. ウクライナ語警察 / ふぁぼん"
-    twitter: syobon_hinata
+  - title: "7. まちカドまぞく vs. ウクライナ語警察"
+    authors:
+      - name: ふぁぼん
+        twitter: syobon_hinata
     desc: |-
         まちカドまぞく6巻に登場するウクライナ語の文章に、ウクライナ語を学ぶ筆者が真っ向から向き合います。
         原文の和訳、精読、文法と語法の解説、そして間違っている部分の訂正を通じて、まちカドまぞくのよりよい理解を目指します。<br>

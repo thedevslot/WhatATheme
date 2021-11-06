@@ -1,15 +1,11 @@
 {% for article in include.articles %}
 <h3>
   {{ article.title }}
-  {% if article.twitter.first %}
-    {% for twitter in article.twitter %}
-      {% if forloop.first == false %}・{% endif %}
-      {{twitter.name}}
-      <a href="https://twitter.com/{{ twitter.id }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
-    {% endfor %}
-  {% else %}
-  <a href="https://twitter.com/{{ article.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
-  {% endif %}
+  {% for author in article.authors %}
+    {% if forloop.first == false %}・{% else %} / {% endif %}
+    {{author.name}}
+    <a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+  {% endfor %}
 </h3>
 
 <div class="columns is-centered is-multiline">
