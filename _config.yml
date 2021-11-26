@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: Abinash Mishra
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/WhatsApp.jpg
 # 60 Words About the Author
 author-about: DevOps Engineer
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
