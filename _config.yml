@@ -9,11 +9,11 @@ baseurl: ''
 # Title of the Site
 title: Abinash Mishra
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: DevOps Enthusiastic
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: 
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: DevOps, Blog, Portfolio, Abinash
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -23,11 +23,11 @@ heroimage: /assets/images/mywebsiteHome.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: mishraabinash051@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: abinash051
+github_username:  abinashgit005
 youtube_channel_id: 
 reddit_username: 
 behance_username: 
@@ -38,16 +38,16 @@ spotify_username:
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Abinash Mishra
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: DevOps Engineer
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://abinashmishra.in
 
 # SASS
 sass:
