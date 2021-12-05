@@ -63,6 +63,8 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-2/mai
 
 ページ | 箇所       | 誤 | 正
 ------|------------|----|-----
+ 2    | 巻頭言 | FindOurStarsの続刊 | #FindOurStarsの続刊
+ 33   | 脚注4 | 水平方向からの圧縮力によって | 水平方向からの圧縮応力によって
  36   | 図3.10キャプション | うっすらと水面に幕がある | うっすらと水面に膜がある
 
 
