@@ -1,11 +1,11 @@
 ---
 title: Ansible
 layout: post
-post-image: "/assets/images/ansible1.jpg"
+post-image: "/assets/images/external-content.duckduckgo.com.jpeg"
 description: A Basic Introduction to Ansible
 tags:
 - DevOps
-- Docker
+- Ansible
 ---
 
 # Hello Ansible
