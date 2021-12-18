@@ -45,6 +45,11 @@ body {
     }
 }
 
+.is-fullwidth {
+    display: block;
+    width: 100%;
+}
+
 .is-active {
     font-weight: bold;
 }
