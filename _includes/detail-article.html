@@ -1,10 +1,13 @@
 {% for article in include.articles %}
 <h3>
+  {% if article.badge %}<img src="https://img.shields.io/badge/-{{ article.badge }}" style="vertical-align: -0.2em;">{% endif %}
   {{ article.title }}
   {% for author in article.authors %}
     {% if forloop.first == false %}・{% else %} / {% endif %}
     {{author.name}}
+    {% if author.twitter %}
     <a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+    {% endif %}
   {% endfor %}
 </h3>
 

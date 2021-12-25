@@ -1,12 +1,12 @@
 ---
-title: "東京大学きらら同好会フルカラー合同誌 PANCHROMATIC"
+title: "東京大学きらら同好会イラスト・写真合同誌 PANCHROMATIC"
 layout: post
-description: "東京大学きらら同好会フルカラー合同誌「PANCHROMATIC」の紹介ページです。"
-kokuchi: 2021年12月30日（日曜日）コミックマーケット99 1日目東ノ09aにて、東京大学きらら同好会のフルカラー合同誌「PANCHROMATIC」を頒布します。
+description: "東京大学きらら同好会イラスト・写真合同誌「PANCHROMATIC」の紹介ページです。"
+kokuchi: 2021年12月30日（木曜日）コミックマーケット99 1日目東ノ09aにて、東京大学きらら同好会のイラスト・写真合同誌「PANCHROMATIC」を頒布します。
 post-image: "https://utkiraracircle.github.io/assets/images/panchromatic/main.jpg"
 ---
 
-2021年12月30日（日曜日）[コミックマーケット99](https://www.comiket.co.jp/info-a/C99A/C99ANotice2.html) **1日目東ノ09a**にて、東京大学きらら同好会のフルカラー合同誌「PANCHROMATIC」を頒布します。
+2021年12月30日（木曜日）[コミックマーケット99](https://www.comiket.co.jp/info-a/C99A/C99ANotice2.html) **1日目東ノ09a**にて、東京大学きらら同好会のフルカラーイラスト・写真合同誌「PANCHROMATIC」を頒布します。
 
 <br>
 <div class="columns is-centered is-multiline">
@@ -38,10 +38,16 @@ post-image: "https://utkiraracircle.github.io/assets/images/panchromatic/main.jp
        icon_name="fa-angle-double-down"
        text="Sample Pages" %}
     {% include button.html
-       href="#illustrations--photographs"
+       href="#works"
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
-       text="Illustrations & Photographs" %}
+       text="Works" %}
+    {% include button.html
+       href="https://webcatalog.circle.ms/Circle/15720730"
+       blank=true
+       class="is-light is-rounded has-text-weight-normal"
+       icon_name="fa-book-open"
+       text="コミケWebカタログ" %}
     <!-- {% include button.html
        href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123015"
        blank=true
@@ -53,7 +59,26 @@ post-image: "https://utkiraracircle.github.io/assets/images/panchromatic/main.jp
 <!-- ## 正誤表 -->
 
 ## Sample Pages
-準備中
+<div class="columns is-centered is-multiline">
+  <div class="column is-one-third-desktop is-one-third-tablet is-half-mobile is-marginless">
+    <a href="/assets/images/panchromatic/06-07.jpg" data-lightbox="PANCHROMATIC" data-title="PANCHROMATIC">
+      <img src="/assets/images/panchromatic/06-07.jpg" alt="sample1" style="width: 100%; max-width: 100%;">
+    </a>
+  </div>
+  <div class="column is-one-third-desktop is-one-third-tablet is-half-mobile is-marginless">
+    <a href="/assets/images/panchromatic/10-11.jpg" data-lightbox="PANCHROMATIC" data-title="PANCHROMATIC">
+      <img src="/assets/images/panchromatic/10-11.jpg" alt="sample2" style="width: 100%; max-width: 100%;">
+    </a>
+  </div>
+  <div class="column is-one-third-desktop is-one-third-tablet is-half-mobile is-marginless">
+    <a href="/assets/images/panchromatic/34-35.jpg" data-lightbox="PANCHROMATIC" data-title="PANCHROMATIC">
+      <img src="/assets/images/panchromatic/34-35.jpg" alt="sample3" style="width: 100%; max-width: 100%;">
+    </a>
+  </div>
+</div>
 
-## Illustrations & Photographs
-準備中
+
+## Works
+コメント：れんず（編集長）
+
+{% include detail-article.html articles=site.data.panchromatic.illustsandphotos %}

@@ -52,7 +52,7 @@ twitter:
 
 <div class="columns is-centered is-multiline">
     {% include button.html
-       href="/posts/find-our-stars-2"
+       href="/posts/panchromatic"
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-right"
        text="詳細ページ（新刊）" %}

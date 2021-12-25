@@ -1,0 +1,157 @@
+# _posts/2021-12-25-panchromatic.mdで読み込むデータ
+illustsandphotos:
+  - title: 夏の記憶
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: あをもみじ
+        twitter: awomomiji
+    desc: |-
+        白セーラーと青空とﾁﾉﾁｬﾝ!?<br>
+        誰を狙い撃ちするつもりですか!?
+    page_img:
+      - alt: 夏の記憶
+        src: /assets/images/panchromatic/awomomiji1.png
+  - title: 16時40分
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: あをもみじ
+        twitter: awomomiji
+    desc: |-
+        しまりんになって世界中旅行したいです
+    page_img:
+      - alt: 16時40分
+        src: /assets/images/panchromatic/awomomiji2.png
+  - title: ぎんしお少々写真集
+    badge: Photographs-ea6175?style=flat-square
+    authors:
+      - name: れんず
+        twitter: Fresnel_pic
+      - name: ちさとし
+        twitter: cst_oshino
+    desc: |-
+        「すうちゃん」<br>
+        は<br>
+        ねこである。
+    page_img:
+      - alt: ぎんしお少々写真集1
+        src: /assets/images/panchromatic/chisatoshi.png
+      - alt: ぎんしお少々写真集2
+        src: /assets/images/panchromatic/lens.png
+  - title: 聖域
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: えんでん
+        twitter: enden_nix
+    desc: |-
+        まぞくの空気感が迫ってきます。
+    page_img:
+      - alt: 聖域
+        src: /assets/images/panchromatic/enden.png
+  - title: MOMO’S NIGHT
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: 井戸
+        twitter: water_of_a_well
+    desc: |-
+        真っ黒スーツとちよもも、かっこいいとおもいます。
+    page_img:
+      - alt: MOMO’S NIGHT
+        src: /assets/images/panchromatic/ido.png
+  - title: 夜森の国の
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: 一之瀬めろん
+        twitter: xAx_xBx_xCx
+    desc: |-
+        Micareでもめろん先生の激押しでした。読んでみようかしら。
+    page_img:
+      - alt: 夜森の国の
+        src: /assets/images/panchromatic/melon.png
+  - title: がんばるぞい！
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: ぺるぺる
+        twitter: pelpel71
+    desc: |-
+        がんばるぞい！(課題)
+    page_img:
+      - alt: がんばるぞい！
+        src: /assets/images/panchromatic/pelpel1.png
+  - title: きらめく日常
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: ぺるぺる
+        twitter: pelpel71
+    desc: |-
+        きんいろモザイクがまぶしすぎて、直視できません。
+    page_img:
+      - alt: きらめく日常
+        src: /assets/images/panchromatic/pelpel2.png
+  - title: 飴
+    badge: Comic-ea6175?style=flat-square
+    authors:
+      - name: さんかくす
+        twitter: tourmaline_wm
+    desc: |-
+        一之瀬花名の寝言を録音して本人にメールで送ったら、どんな反応が返ってくるのでしょうか。
+    page_img:
+      - alt: 飴
+        src: /assets/images/panchromatic/tourmaline1.png
+  - title: アイス
+    badge: Comic-ea6175?style=flat-square
+    authors:
+      - name: さんかくす
+        twitter: tourmaline_wm
+    desc: |-
+        こけし-と-きんぱつ【こけしと金髪】〘慣〙こけしと金髪少女のように仲のいいこと。例 ソフィーと灯は―だ。
+    page_img:
+      - alt: アイス
+        src: /assets/images/panchromatic/tourmaline2.png
+  - title: 秋
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: ネッコリーニ
+        twitter: nekosaki_ito
+    desc: |-
+        陽がそこそこ長く、過ごしやすい気温、色も鮮やかになる秋は好きです。
+    page_img:
+      - alt: 秋
+        src: /assets/images/panchromatic/neccolini1.png
+  - title: 葉子様
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: ネッコリーニ
+        twitter: nekosaki_ito
+    desc: |-
+        お嬢様の風格、とはこういうものかと思いました。
+    page_img:
+      - alt: 葉子様
+        src: /assets/images/panchromatic/neccolini2.png
+  - title: カレンとやすな
+    badge: Comic-ea6175?style=flat-square
+    authors:
+      - name: 500mL
+        twitter: JP3LHW
+    desc: |-
+        やすなはソーニャのペットって認識でいいですか?
+    page_img:
+      - alt: カレンとやすな
+        src: /assets/images/panchromatic/500ml.png
+  - title: Micare
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: UEEU
+    desc: |-
+        見開きでmicareの表紙絵が見られるんですか!? 買うしかない。
+    page_img:
+      - alt: Micare
+        src: /assets/images/panchromatic/ueeu1.png
+  - title: PANCHROMATIC
+    badge: Illustration-ea6175?style=flat-square
+    authors:
+      - name: UEEU
+    desc: |-
+        冬の陽光が感じられてひじょうによいと思います。
+    page_img:
+      - alt: PANCHROMATIC
+        src: /assets/images/panchromatic/ueeu2.png
