@@ -35,6 +35,35 @@ twitter:
     <p class="subtitle is-uppercase has-text-weight-semibold">活動状況</p>
 </div>
 
+### 2021年12月30日 「コミックマーケット99」にサークル参加します
+
+<p class="columns" style="margin:10px 0">
+    <a href="assets/images/utkirara-202112-circlecut.png" data-lightbox="20211230" class="column is-3-desktop is-half-tablet">
+        <img src="assets/images/utkirara-202112-circlecut.png" alt="utkirara 202112 circlecut" >
+    </a>
+    <a href="assets/images/utkirara-202112-oshinagaki.jpg" data-lightbox="20211230" class="column is-2-desktop is-half-tablet">
+        <img src="assets/images/utkirara-202112-oshinagaki.jpg" alt="utkirara 202112 kokuchi" >
+    </a>
+</p>
+
+2021年12月30日（木曜日）[コミックマーケット99](https://www.comiket.co.jp/info-a/C99A/C99ANotice2.html) に「**1日目東ノ09a 東京大学きらら同好会**」としてサークル参加します。
+
+恋する小惑星同好会の新刊はございませんが、既刊「#FindOurStars Vol. 1, Vol. 2」の再版バージョンを頒布致します。初版の印刷以降に発見された誤字等を直したアップデート版です。
+
+<div class="columns is-centered is-multiline">
+    {% include button.html
+       href="/posts/find-our-stars-2"
+       class="is-dark is-rounded has-text-weight-normal"
+       icon_name="fa-angle-double-right"
+       text="詳細ページ（新刊）" %}
+    {% include button.html
+       href="https://www.melonbooks.co.jp/circle/index.php?circle_id=106398"
+       blank=true
+       class="is-melon is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="メロンブックス" %}
+</div>
+
 ### 2021年10月24日 四コマ＆まんがタイム系オンリーイベント「よんこま文化祭2021」にサークル参加します
 
 <p class="columns" style="margin:10px 0">

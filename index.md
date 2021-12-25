@@ -6,7 +6,7 @@ contact_info:
     - title: 加盟団体
       info : 東京大学教養学部学友会（加盟申請中）
     - title: 会員数
-      info : 約60名（2021年8月19日現在）
+      info : 約70名（2021年12月25日現在）
     - title: 入会方法
       info : <a href="https://forms.gle/wV19XLcv38hD6tqd9" target="_blank" rel="noopener noreferrer">入会申請フォーム</a>（ECCSアカウントでアクセスしてください）
     - title: お問い合わせ
@@ -36,7 +36,7 @@ twitter:
 
 {:.margin}
 <span class="is-size-4">Q.</span> 2年生以上なんですが入会できますか？<br>
-<span class="is-size-4">A.</span> もちろん大歓迎です！　現在約30名ほどの会員がいますが、**学部1年生から博士課程院生まで幅広く在籍**しています！<br>
+<span class="is-size-4">A.</span> もちろん大歓迎です！　現在約70名ほどの会員がいますが、**学部1年生から博士課程院生まで幅広く在籍**しています！<br>
 会の主要な交流手段には**Discord**を使用しているため、駒場キャンパスに通学していない方でも参加に支障はありません。
 
 {:.margin}
