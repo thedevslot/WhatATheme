@@ -24,8 +24,8 @@ post-image: "https://utkiraracircle.github.io/assets/images/panchromatic/main.jp
            release_date="2021年12月30日"
            booth="2021年12月「コミックマーケット99」1日目東ノ09a"
            price="1000円（会場）"
-           store="メロンブックス（準備中）"
-           store_href="https://www.melonbooks.co.jp/"
+           store="メロンブックス"
+           store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1182457"
            isdn="278-4-535539-01-0"
            isdn_href="https://isdn.jp/2784535539010" %}
     </div>
@@ -43,17 +43,17 @@ post-image: "https://utkiraracircle.github.io/assets/images/panchromatic/main.jp
        icon_name="fa-angle-double-down"
        text="Works" %}
     {% include button.html
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1182457"
+       blank=true
+       class="is-melon is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="メロンブックス" %}
+    {% include button.html
        href="https://webcatalog.circle.ms/Circle/15720730"
        blank=true
        class="is-light is-rounded has-text-weight-normal"
        icon_name="fa-book-open"
        text="コミケWebカタログ" %}
-    <!-- {% include button.html
-       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123015"
-       blank=true
-       class="is-melon is-rounded has-text-weight-normal"
-       icon_name="fa-external-link-alt"
-       text="メロンブックス" %} -->
 </div>
 
 <!-- ## 正誤表 -->

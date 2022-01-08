@@ -24,8 +24,8 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
            release_date="2021年6月12日"
            booth="2021年6月「キラキラアーカイブ」画03"
            price="700円"
-           store="booth"
-           store_href="https://utkiraracircle.booth.pm/items/3034447"
+           store="メロンブックス"
+           store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1182458"
            isdn="278-4-535537-01-6"
            isdn_href="https://isdn.jp/2784535537016" %}
     </div>
@@ -42,6 +42,12 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
        text="Illustrations" %}
+    {% include button.html
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1182458"
+       blank=true
+       class="is-melon is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="メロンブックス" %}
     {% include button.html
        href="https://utkiraracircle.booth.pm/items/3034447"
        blank=true

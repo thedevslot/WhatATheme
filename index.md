@@ -1,5 +1,6 @@
 ---
 layout: default
+member_num: 70
 contact_info:
     - title: 団体名
       info : 東京大学きらら同好会
@@ -36,7 +37,7 @@ twitter:
 
 {:.margin}
 <span class="is-size-4">Q.</span> 2年生以上なんですが入会できますか？<br>
-<span class="is-size-4">A.</span> もちろん大歓迎です！　現在約70名ほどの会員がいますが、**学部1年生から博士課程院生まで幅広く在籍**しています！<br>
+<span class="is-size-4">A.</span> もちろん大歓迎です！　現在約{{ page.member_num }}名ほどの会員がいますが、**学部1年生から博士課程院生まで幅広く在籍**しています！<br>
 会の主要な交流手段には**Discord**を使用しているため、駒場キャンパスに通学していない方でも参加に支障はありません。
 
 {:.margin}

@@ -116,11 +116,17 @@ twitter:
        icon_name="fa-angle-double-right"
        text="詳細ページ" %}
     {% include button.html
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1182458"
+       blank=true
+       class="is-melon is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="メロンブックス" %}
+    <!-- {% include button.html
        href="https://utkiraracircle.booth.pm/items/3034447"
        blank=true
        class="is-booth is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
-       text="booth（完売しました）" %}
+       text="booth（完売しました）" %} -->
 </div>
 
 
