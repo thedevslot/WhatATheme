@@ -23,7 +23,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/panchromatic/main.jp
            specification="B5サイズ 40ページ（本文フルカラー）"
            release_date="2021年12月30日"
            booth="2021年12月「コミックマーケット99」1日目東ノ09a"
-           price="1000円（会場）"
+           price="1000円（会場）　1,430円（委託・税込）"
            store="メロンブックス"
            store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1182457"
            isdn="278-4-535539-01-0"

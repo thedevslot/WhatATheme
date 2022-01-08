@@ -23,7 +23,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-1/mai
            specification="B5サイズ 88ページ（本文グレースケール）"
            release_date="2021年6月12日"
            booth="2021年6月「キラキラアーカイブ」画03"
-           price="700円"
+           price="700円（会場）　1,100円（委託・税込）"
            store="メロンブックス"
            store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1182458"
            isdn="278-4-535537-01-6"
