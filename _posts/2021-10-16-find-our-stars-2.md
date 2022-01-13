@@ -25,7 +25,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-2/mai
            booth="2021年10月「よんこま文化祭2021」さ02"
            price="700円（会場）　1,100円（委託・税込）"
            store="メロンブックス"
-           store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
+           store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1193339"
            isdn="278-4-535537-02-3"
            isdn_href="https://isdn.jp/2784535537023" %}
     </div>
@@ -43,7 +43,7 @@ post-image: "https://utkiraracircle.github.io/assets/images/find-our-stars-2/mai
        icon_name="fa-angle-double-down"
        text="Illustrations" %}
     {% include button.html
-       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1193339"
        blank=true
        class="is-melon is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"

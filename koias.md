@@ -87,7 +87,7 @@ twitter:
        icon_name="fa-angle-double-right"
        text="詳細ページ" %}
     {% include button.html
-       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1123569"
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1193339"
        blank=true
        class="is-melon is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
