@@ -19,7 +19,9 @@ layout: compress
                 <div class="section">
                     <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Project Gallery</p>
                 </div>
-                {% include project-card.html %}
+                {% for post in site.projects %}
+                    {% include project-card.html %}
+                {% endfor %}
             </div>
         </div>
     </section>
