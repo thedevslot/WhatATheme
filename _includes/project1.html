@@ -1,0 +1,99 @@
+<div class="row">
+  <!-- left -->
+  <div class="col" style="background-color: black;">
+    <!-- <div class="col-md-6 col-sm-12 col-xs-12" style="background-color: black;"> -->
+    <div style="margin-bottom: 20px;">
+    <section class="limiter">
+    <div class="nes-container with-title is-dark" style="background-color: black;">
+      <h3 class="title" style="background-color: black;">Want to funge my NFT?</h3>
+      <div>
+        <p>
+          <!-- <p style="font-size: small;"> -->
+          Anyone, including you, can change the image of my N(?)FT. Funge it below.
+        </p>
+        <div class="nes-container with-title is-dark" style="background-color: black;">
+          <h3 class="title" style="background-color: black">Funge it!</h3>
+          <form id="sftform">
+            <label for="textbox"><p>Paste any direct image link:</p></label>
+            <input type="text" name="url" id="textbox" value="example.com/image.jpg">
+            <button value="Submit" style="background-color: black;
+            text-decoration: none;
+            border: 2px solid #ffffff;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            color: #ffffff;
+            padding: 5px 5px;
+            text-align: left;
+            display: inline-block;
+            font-size: medium;">&gt;Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+  </div>
+  <!-- right      -->
+  <div class="col" style="background-color: black; margin-bottom: 20px;">
+    <!--         <div class="col-md-6 col-sm-12 col-xs-12" style="background-color: black">
+      -->          
+    <div class="nes-container with-title is-dark" style="background-color: black; max-height: 70vh; display: block; justify-content: center; text-align: center;">
+      <h3 class="title" style="background-color: black">Current SFT</h3>
+      <!--                   <image src="https://cdn.shopify.com/s/files/1/0411/2760/8485/products/14a38803563d4b51b0f25d4c96edbf86_280x420.jpg?v=1617735389" style="max-width: 100%;"></image> -->
+      <img src="sft.jpg" style="max-width: 100%; max-height: 40vh;">
+      <br>
+      <br>
+      <div style="max-height: 20%; text-overflow: ellipsis;">
+      <a href="https://cdn.shopify.com/s/files/1/0411/2760/8485/products/14a38803563d4b51b0f25d4c96edbf86_280x420.jpg?v=1617735389">Link To Original Source</a>
+      </div>
+      <script>
+        const form = document.getElementById("sftform")
+        function handleForm(event) {
+          event.preventDefault()
+          console.log('handleevent triggered')
+        
+          const sft = { submittedurl: event.target.elements.submittedurl.value }
+          console.log(sft)
+          const urlcheck = event.target.elements.submittedurl.value
+          console.log(typeof urlcheck)
+          // const urlcheckurl = new URL(urlcheck)
+          console.log(urlcheck)
+          // console.log(urlcheckurl)
+          const hostUrl = new URL(window.location)
+          const url = hostUrl.origin + "/sft"
+
+          fetch(new Request(urlcheck, { method: 'HEAD' }))
+            .then((response) => {
+              console.log(response.headers.get('content-type'));
+              const contentType = response.headers.get('content-type');
+              if (!response.ok) {
+                throw new Error('link doesnt play nice');
+              }
+              else if (contentType.includes('image/')) {
+              // if (response.ok) {
+                console.log('response ok');
+                fetch(url, {
+                  method: "POST",
+                  headers: {'Content-Type': 'application/json'},
+                  body: JSON.stringify(sft)
+                })
+                ;
+                console.log('then hit')
+                ;
+                window.location.reload()
+                ;
+              } else {
+                alert('This link is not an image. Please use a direct image link (eg. one ending in .png/jpg/gif).');
+              }
+            })
+            .catch((error) =>{
+              console.error(error);
+              alert('This link is causing an error. Please use a direct image link (eg. one ending in .png/jpg/gif).')
+
+          })
+        }
+        form.addEventListener('submit', handleForm)
+            </script>
+    </div>
+  </div>
+</div>
