@@ -47,9 +47,6 @@ Disadvantage of Docker
 * No solution for data recovery and back up.
 
 
-IMAGE 
-
-
 Components of Docker
 
 *Docker  Daemon*

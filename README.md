@@ -7,3 +7,5 @@
 * Host WhatATheme locally by running `bundle exec jekyll s`
 
 > You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
+
+Abinash Mishra
