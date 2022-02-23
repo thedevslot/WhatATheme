@@ -20,9 +20,10 @@ layout: compress
         <div class="content section">
           <p class="subtitle is-uppercase has-text-weight-semibold">新着情報</p>
           <ul class="has-text-left">
-            {% for post in site.posts %}
+            {% assign newsListLatest = site.data.news | slice: 0, 5 %}
+            {% for news in newsListLatest %}
             <li>
-              <a href="{{post.url | absolute_url}}">{{post.title}}</a>　{{post.kokuchi}}
+              {{ news }}
             </li>
             {% endfor %}
           </ul>

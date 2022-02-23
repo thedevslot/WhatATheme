@@ -35,6 +35,24 @@ twitter:
     <p class="subtitle is-uppercase has-text-weight-semibold">活動状況</p>
 </div>
 
+
+### 2022年3月6日 恋アスオンリーイベント「キラキラアーカイブ」にサークル参加します
+
+2022年3月6日（日曜日）動画工房作品オンリー「俺達の動画工房」内で開催される[恋する小惑星オンリーイベント「キラキラアーカイブ」](http://project-d.biz/douga/)に「**動07 東京大学きらら同好会**」で参加予定です。
+
+恋する小惑星合同誌の既刊「#FindOurStars Vol.2」を頒布いたします。メロンブックス様からも引き続き購入いただけます。
+
+
+<div class="columns is-centered is-multiline">
+    {% include button.html
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1193339"
+       blank=true
+       class="is-melon is-rounded has-text-weight-normal"
+       icon_name="fa-external-link-alt"
+       text="メロンブックス" %}
+</div>
+
+
 ### 2021年12月30日 「コミックマーケット99」にサークル参加します
 
 <p class="columns" style="margin:10px 0">
