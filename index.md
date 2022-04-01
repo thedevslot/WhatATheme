@@ -1,13 +1,13 @@
 ---
 layout: default
-member_num: 70
+member_num: 86
 contact_info:
     - title: 団体名
       info : 東京大学きらら同好会
     - title: 加盟団体
       info : 東京大学教養学部学友会（加盟申請中）
     - title: 会員数
-      info : 約70名（2021年12月25日現在）
+      info : 約86名（2022年4月1日現在）
     - title: 入会方法
       info : <a href="https://forms.gle/wV19XLcv38hD6tqd9" target="_blank" rel="noopener noreferrer">入会申請フォーム</a>（ECCSアカウントでアクセスしてください）
     - title: お問い合わせ

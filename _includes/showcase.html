@@ -14,18 +14,16 @@
          icon_name="fa-angle-double-down"
          text="当会について" %}
       {% include button.html
-        href=site.urls.official-twitter
+        href="/posts"
+        class="is-light is-rounded has-text-weight-normal"
+        icon_name="fa-angle-double-right"
+        text="同人活動の記録" %}
+      {% include button.html
+        href=site.urls.form
         blank=true
-        class="is-white is-rounded has-text-weight-normal"
-        opt="style=\"background-color:#00acee;color: #fff;\""
-        icon_name="fab fa-twitter"
-        text="公式Twitter" %}
-        {% include button.html
-          href=site.urls.form
-          blank=true
-          class="is-success is-rounded has-text-weight-normal"
-          icon_name="fa-file-alt"
-          text="入会フォーム（ECCSアカウント専用）" %}
+        class="is-success is-rounded has-text-weight-normal"
+        icon_name="fa-file-alt"
+        text="入会フォーム（ECCSアカウント専用）" %}
     </div>
   </div>
 </section>

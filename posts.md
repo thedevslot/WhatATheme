@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Works
 layout: blog
 ---
 
