@@ -1,19 +1,18 @@
-<div class="columns hero-body has-text-centered" id="blog-card">
+<a href="{{post.url | absolute_url}}" class="columns hero-body has-text-centered" id="blog-card">
     <div class="column is-marginless is-paddingless is-one-fifth-desktop is-fifth-third-fullhd is-one-fifth-tablet">
         <div class="image is-16by9" style="background-image: url({{post.post-image}});"></div>
     </div>
-    <a href="{{post.url | absolute_url}}">
-        <div class="column has-text-left-desktop has-text-left-tablet">
-            <h1 class="title is-size-4-touch">{{post.title}}</h1>
-            <div class="content has-text-grey">
-                {% if post.kokuchi %}
-                {{ post.kokuchi }}
-                {% else %}
-                {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
-                {% endif %}
-                <!-- <hr class="has-background-grey"> -->
-                <!-- <span class="has-text-grey">Published on <span class="has-text-weight-semibold">{{ post.date | date: "%-B %d, %Y" }}</span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold">{% assign words = post.content | number_of_words %}{%- unless content.size == 0 -%}{{ words | divided_by:180 }} min{% endunless %}</span> read -->
-            </div>
+
+    <div class="column has-text-left-desktop has-text-left-tablet">
+        <h1 class="title is-size-4-touch">{{post.title}}</h1>
+        <div class="content has-text-grey">
+            {% if post.kokuchi %}
+            {{ post.kokuchi }}
+            {% else %}
+            {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
+            {% endif %}
+            <!-- <hr class="has-background-grey"> -->
+            <!-- <span class="has-text-grey">Published on <span class="has-text-weight-semibold">{{ post.date | date: "%-B %d, %Y" }}</span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold">{% assign words = post.content | number_of_words %}{%- unless content.size == 0 -%}{{ words | divided_by:180 }} min{% endunless %}</span> read -->
         </div>
-    </a>
-</div>
+    </div>
+</a>
