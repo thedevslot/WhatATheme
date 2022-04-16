@@ -15,24 +15,27 @@ layout: compress
   {% include footer.html %}
 </body>
 <script>
+  var navItems = document.getElementsByClassName('navbar-item');
+  var heroes = document.getElementsByClassName('hero');
+  var vOffset = 200; // Change highlight before the top / slightly earlier for better experience
+
   window.addEventListener("scroll", function (event) {
     var scroll = this.scrollY;
-    var item = document.getElementsByClassName('navbar-item');
-    /* console.log(scroll); */
-    if (scroll < 565) {
-      item[1].classList.add('is-active');
-      item[2].classList.remove('is-active');
-      item[3].classList.remove('is-active');
+    var position = window.pageYOffset;
+
+    // Remove active for navbar -- there is definitely a faster way to do this.
+    for (var i = 0; i < navItems.length; i++) {
+      navItems[i].classList.remove('is-active');
     }
-    if (scroll > 565 && scroll < 1130) {
-      item[1].classList.remove('is-active');
-      item[2].classList.add('is-active');
-      item[3].classList.remove('is-active');
-    }
-    if (scroll > 1130) {
-      item[1].classList.remove('is-active');
-      item[2].classList.remove('is-active');
-      item[3].classList.add('is-active');
+
+    // Add active only if we're in the section
+    for (var i = 0; i < heroes.length; i++) {
+        var sectionTop = heroes[i].offsetTop-vOffset;
+        var sectionBottom = heroes[i].offsetTop + heroes[i].offsetHeight-vOffset;
+
+        if (scroll >= sectionTop && scroll < sectionBottom) {
+          navItems[i+1].classList.add('is-active');
+      }
     }
   });
 </script>
