@@ -17,21 +17,19 @@ layout: compress
 <script>
   var navItems = document.getElementsByClassName('navbar-item');
   var heroes = document.getElementsByClassName('hero');
-  var vOffset = 200; // Change highlight before the top / slightly earlier for better experience
+  const viewOffset = 200; 
 
   window.addEventListener("scroll", function (event) {
     var scroll = this.scrollY;
     var position = window.pageYOffset;
 
-    // Remove active for navbar -- there is definitely a faster way to do this.
     for (var i = 0; i < navItems.length; i++) {
       navItems[i].classList.remove('is-active');
     }
 
-    // Add active only if we're in the section
     for (var i = 0; i < heroes.length; i++) {
-        var sectionTop = heroes[i].offsetTop-vOffset;
-        var sectionBottom = heroes[i].offsetTop + heroes[i].offsetHeight-vOffset;
+        var sectionTop = heroes[i].offsetTop-viewOffset;
+        var sectionBottom = heroes[i].offsetTop + heroes[i].offsetHeight-viewOffset;
 
         if (scroll >= sectionTop && scroll < sectionBottom) {
           navItems[i+1].classList.add('is-active');
