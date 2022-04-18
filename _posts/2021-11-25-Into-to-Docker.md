@@ -114,4 +114,32 @@ docker ps                      # to see all the containers.
 docker ps -a                   # to see all the containers including in stopped stage.
 ```
 >Inside a container if you want to see the os-release then, cat /etc/os-release.
+>If you want to see the difference between the base image and any changes you have done on it,
+```bash
+docker diff mycontainer *#here you can give any container name*
+```
 
+## Create an Image from Container
+```bash
+docker commit mycontainer updateimage
+
+#mycontainer is your container name and updateimage is the new image you have created from the container
+```
+
+## Docker File
+A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. 
+
+*Docker Components ~*
+```bash
+FROM #This can be used to set the base image for the instructions. We need to mention this in the first line of docker file.
+RUN
+MAINTAINER
+COPY
+ADD
+eXPOSE
+WORKDIR
+CMD
+ENTRYPOINT
+ENV
+ARG
+```
