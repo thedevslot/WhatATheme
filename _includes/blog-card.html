@@ -8,7 +8,8 @@
             <div class="content has-text-grey">
                 {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
                 <hr class="has-background-grey">
-                <span class="has-text-grey"> <!╌Published on <span class="has-text-weight-semibold">{{ post.date | date: "%-B %d, %Y" }}╌></span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold">{% assign words = post.content | number_of_words %}{%- unless content.size == 0 -%}{{ words | divided_by:180 }} minute{% endunless %}</span> read
+                <!╌Published on <span class="has-text-weight-semibold">{{ post.date | date: "%-B %d, %Y" }}╌>
+                <span class="has-text-grey"></span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold">{% assign words = post.content | number_of_words %}{%- unless content.size == 0 -%}{{ words | divided_by:180 }} minute{% endunless %}</span> read
             </div>
         </div>
     </a>
