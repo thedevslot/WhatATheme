@@ -12,7 +12,7 @@ tags:
  
 Profiles of two source imaging at eifferent angles look like this: 
 
-![subplots showing 9 angles of rotation](/Project_Site/assets/images/rotation_subplots.jpeg)
+![9angles](./assets/images/rotation_subplots.jpeg)
 
 
 My reduced paper Intro:
