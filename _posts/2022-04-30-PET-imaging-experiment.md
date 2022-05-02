@@ -1,7 +1,7 @@
 ---
 title: Positron Emission Tomography (PET)
 layout: post
-post-image: "https://github.com/levikeay/Project_Site/blob/master/assets/images/PET_diagram_offcenter_filtered.png"
+post-image: "https://github.com/levikeay/Project_Site/blob/d3e30ba88913de760b18a511d7e9013c9304f40c/assets/images/PET_diagram_offcenter_filtered.png"
 description: I performed this imaging experiment as a part of Physics 409.
 tags:
 ---
@@ -12,7 +12,7 @@ tags:
  
 Profiles of two source imaging at eifferent angles look like this: 
 
-![subplots showing 9 angles of rotation](/assets/images/rotation_subplots.jpeg)
+![subplots showing 9 angles of rotation](/Project_Site/assets/images/rotation_subplots.jpeg)
 
 
 My reduced paper Intro:
