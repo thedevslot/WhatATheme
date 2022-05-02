@@ -22,23 +22,23 @@ heroimage: https://media.istockphoto.com/photos/very-closeup-view-of-amazing-dom
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: /
-facebook_username: /
-twitter_username: /
-instagram_username: /
-linkedin_username: /
-github_username:  /
-youtube_channel_id: /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: 
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+github_username:  
+youtube_channel_id: 
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
 
 # Google Analytics
-google-analytics: /
+google-analytics: 
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 
 
 # Name of the Author
 author-name: Levi Keay
