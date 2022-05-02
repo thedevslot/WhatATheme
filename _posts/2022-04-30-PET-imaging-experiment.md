@@ -1,9 +1,9 @@
 ---
 title: Positron Emission Tomography (PET)
 layout: post
-post-image: "https://github.com/levikeay/Project_Site/blob/d3e30ba88913de760b18a511d7e9013c9304f40c/assets/images/PET_diagram_offcenter_filtered.png"
+post-image: "https://raw.githubusercontent.com/levikeay/Project_Site/d3e30ba88913de760b18a511d7e9013c9304f40c/assets/images/PET_diagram_offcenter_filtered.png"
 description: I performed this imaging experiment as a part of Physics 409.
-tags:
+
 ---
  Positron Emission tomography (PET) is an imaging modality which uses the $\beta$^+^ decay of a radiation sample as its imaging energy source. This decay is ideal for this purpose, as the positron/ electron annihilation which occurs results in two equal energy photons being emitted in opposing directions.
  This known directionality of emmision is the underlying principle which makes this imaging possible. In order to leverage this knowledge, PET scanners use opposing detectors. When two detectors are activated simultaneously, then the radiation source is known to be along the line between them.
@@ -12,7 +12,7 @@ tags:
  
 Profiles of two source imaging at eifferent angles look like this: 
 
-![9angles](./assets/images/rotation_subplots.jpeg)
+![scan profiles for 9 angles](/assets/images/rotation_subplots.jpeg)
 
 
 My reduced paper Intro:
