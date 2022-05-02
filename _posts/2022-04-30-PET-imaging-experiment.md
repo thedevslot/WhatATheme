@@ -12,7 +12,7 @@ description: I performed this imaging experiment as a part of Physics 409.
  
 Profiles of two source imaging at eifferent angles look like this: 
 
-![scan profiles for 9 angles](assets/images/rotation_subplots.jpeg)
+![scan profiles for 9 angles](https://raw.githubusercontent.com/levikeay/Project_Site/d3e30ba88913de760b18a511d7e9013c9304f40c/assets/images/rotation_subplots.jpeg)
 
 
 My reduced paper Intro:
