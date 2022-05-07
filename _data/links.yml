@@ -1,0 +1,35 @@
+# links.mdで読み込むデータ
+- name: 青葉小路
+  href: https://awomomiji.tumblr.com/
+  logo: assets/images/links/awomomiji-works.png
+  button-text: 公式サイト
+  button-icon: fa-external-link-alt
+  description: |
+    会員のあをもみじによるイラスト・デザインサークル。<br>
+    イラストと写真を組み合わせた同人誌を発行します。同人誌やロゴ等のデザイン依頼も受け付けております。<br>
+    既刊『<a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1205093" target="_blank" rel="noopener noreferrer">Departure</a>』
+- name: ナヴァストーケ
+  href: https://navostoke.fabon.info/
+  logo: assets/images/links/navostoke.svg
+  button-text: 公式サイト
+  button-icon: fa-external-link-alt
+  description: |
+    会員のふぁぼんによる評論・情報系サークル。<br>
+    科学・コンピュータ・ロシア語・旧ソ連などをテーマに同人誌を発行します。<br>
+    既刊『<a href="https://navostoke.booth.pm/items/3652492" target="_blank" rel="noopener noreferrer">ロシア語警察24時 vol. 1 人名エトセトラ</a>』
+- name: 幻像狂感光協会
+  href: https://twitter.com/Fresnel_pic
+  logo: assets/images/links/genzoukyo.png
+  button-text: 公式Twitter
+  button-icon: "fab fa-twitter"
+  description: |
+    会員のれんずによる写真サークル。<br>
+    フィルムカメラやオールドレンズを駆使した風景撮影を得意としています。
+- name: Gradierwerk
+  href: https://gradierwerk.tumblr.com/
+  logo: assets/images/links/gradierwerk.png
+  button-text: 公式サイト
+  button-icon: fa-external-link-alt
+  description: |
+    会員のendenによるイラストサークル。<br>
+    キャラクターや背景のイラスト同人誌を発行します。
