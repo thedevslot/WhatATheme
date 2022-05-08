@@ -1,0 +1,11 @@
+<a href="{{include.href}}"
+   class="column is-3-desktop is-half-tablet"
+   {%if include.blank == true%}
+   target="_blank" rel="noopener noreferrer"
+   {%endif%}
+   {%if include.opt%}
+   {{include.opt}}
+   {%endif%}
+>
+  <img src="{{include.img}}" alt="{{include.alt}}" >
+</a>
