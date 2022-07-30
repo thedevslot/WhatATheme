@@ -324,13 +324,9 @@ a.navbar-item.is-active {
             background-color: grey;
         }
         img, iframe {
-            /* max-width: calc(100% - 25vw); */
-            /* margin: 0.25rem auto; */
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            height :auto;
-            width : 75%
+            max-width: calc(100% - 25vw);
+            margin: 0.25rem auto; 
+            
             @media (max-width: 768px) {
                 max-width: calc(100% - 5vw);
             }
