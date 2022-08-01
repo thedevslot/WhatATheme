@@ -13,6 +13,12 @@ articles:
         src: /assets/images/find-our-stars-1/s-kn1cht-01.jpg
       - alt: kn1chtサンプル2
         src: /assets/images/find-our-stars-1/s-kn1cht-02.jpg
+    ext_links:
+      -
+        href: https://note.com/kn1cht/n/n7b5a66194ac4
+        text: 全文リンク
+        class: "is-note is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "2. 地学オリンピック参加記"
     authors:
       - name: れんず
@@ -52,6 +58,12 @@ articles:
         src: /assets/images/find-our-stars-1/s-fabon-01.jpg
       - alt: ふぁぼんサンプル2
         src: /assets/images/find-our-stars-1/s-fabon-02.jpg
+    ext_links:
+      -
+        href: https://yuyusuki.hatenablog.com/entry/2022/06/12/190000
+        text: 全文リンク
+        class: "is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "5. #地理は地学"
     authors:
       - name: haxibami
