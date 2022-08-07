@@ -59,9 +59,9 @@ twitter:
 ### 2021年12月30日 「コミックマーケット99」にサークル参加します
 
 <p class="columns" style="margin:10px 0">
-    <!-- <a href="assets/images/utkirara-202112-circlecut.png" data-lightbox="20211230" class="column is-3-desktop is-half-tablet">
+    <a href="assets/images/utkirara-202112-circlecut.png" data-lightbox="20211230" class="column is-3-desktop is-half-tablet">
         <img src="assets/images/utkirara-202112-circlecut.png" alt="utkirara 202112 circlecut" >
-    </a> -->
+    </a>
     <a href="assets/images/utkirara-202112-oshinagaki.jpg" data-lightbox="20211230" class="column is-2-desktop is-half-tablet">
         <img src="assets/images/utkirara-202112-oshinagaki.jpg" alt="utkirara 202112 kokuchi" >
     </a>
