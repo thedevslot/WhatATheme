@@ -2,5 +2,5 @@
 layout: page
 title: Resume
 ---
-# Test Resume
-Content 
+# My Resume
+Updating soon !
