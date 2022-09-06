@@ -13,7 +13,7 @@ contact_info:
     - title: お問い合わせ
       info : <a href="https://twitter.com/UTKiraraCircle" target="_blank" rel="noopener noreferrer">公式Twitterアカウント</a>
     - title: 代表
-      info : <a href="https://twitter.com/JP3LHW" target="_blank" rel="noopener noreferrer">500mL</a>
+      info : <a href="https://twitter.com/0500mL" target="_blank" rel="noopener noreferrer">500mL</a>
     - title: 設立
       info : 2021年4月
 twitter:

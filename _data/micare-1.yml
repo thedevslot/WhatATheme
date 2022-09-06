@@ -3,11 +3,10 @@ articles:
   - title: "1. 初めてのきらら、どの作品がいいか"
     authors:
       - name: 500mL
-        twitter: JP3LHW
+        twitter: 0500mL
       - name: 一之瀬めろん
-        twitter: xAx_xBx_xCx
       - name: のぼりくだり
-        twitter: nbrkdrnfnht
+        twitter: kudarinobori
       - name: ふぁぼん
         twitter: syobon_hinata
     desc: |-
@@ -110,7 +109,6 @@ articles:
         src: /assets/images/micare-1/s-fabon-02.jpg
 illusts:
   - name: 一之瀬めろん
-    twitter: xAx_xBx_xCx
     src: /assets/images/micare-1/melon.png
   - name: のこ
     twitter: NOCO_1002
@@ -119,7 +117,7 @@ illusts:
     twitter: tourmaline_wm
     src: /assets/images/micare-1/sankakusu.png
   - name: 500mL
-    twitter: JP3LHW
+    twitter: 0500mL
     src: /assets/images/micare-1/500ml.png
   - name: 井戸
     twitter: water_of_a_well
