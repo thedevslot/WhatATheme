@@ -10,7 +10,7 @@
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta property="og:title" content="{% if page.title %} {{page.title}} | {% endif %}{{site.title}}">
 <meta property="og:description" content="{% unless !page.description %}{{site.description}}{% else %}{{page.description}}{% endunless %}">
-<meta property="og:image" content="{% unless !page.post-image %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
+<meta property="og:image" content="{% unless !page.post-image %}{{site.site-image | absolute_url}}{% else %}{{page.post-image | absolute_url}}{% endunless %}">
 <meta property="og:image:alt" content="{% if page.title %} {{page.title}} | {% endif %}{{site.title}}">
 <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}">
 <meta property="article:author" content="https://www.facebook.com/{{site.facebook_username}}">
@@ -22,15 +22,15 @@
 <meta name="twitter:description" content="{% unless !page.description %}{{site.description}}{% else %}{{page.description}}{% endunless %}">
 <meta name="twitter:site" content="@{{site.twitter_username}}">
 <meta name="twitter:creator" content="@{{site.twitter_username}}">
-<meta name="twitter:image:src" content="{% unless !page.post-image %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
+<meta name="twitter:image:src" content="{% unless !page.post-image %}{{site.site-image | absolute_url}}{% else %}{{page.post-image | absolute_url}}{% endunless %}">
 <!-- Search Engine -->
 <meta name="description" content="{% unless !page.description %}{{site.description}}{% else %}{{page.description}}{% endunless %}">
-<meta name="image" content="{% unless !page.post-image %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
+<meta name="image" content="{% unless !page.post-image %}{{site.site-image | absolute_url}}{% else %}{{page.post-image | absolute_url}}{% endunless %}">
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="{% if page.title %} {{page.title}} | {% endif %}{{site.title}}">
 <meta name="author" content="{{site.author-name}}"/>
 <meta itemprop="description" content="{% unless !page.description %}{{site.description}}{% else %}{{page.description}}{% endunless %}">
-<meta itemprop="image" content="{% unless !page.post-image %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
+<meta itemprop="image" content="{% unless !page.post-image %}{{site.site-image | absolute_url}}{% else %}{{page.post-image | absolute_url}}{% endunless %}">
 
 <!-- Meta Tag for Google Search Console -->
 <meta name="google-site-verification" content="HvYuZ9ctttcCJbvYUA_BjxzFW2uCJkKYV8So0KpSL2k" />
