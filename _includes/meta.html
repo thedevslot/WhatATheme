@@ -36,6 +36,7 @@
 <meta name="google-site-verification" content="HvYuZ9ctttcCJbvYUA_BjxzFW2uCJkKYV8So0KpSL2k" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
+{% if site.google-analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google-analytics}}"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
@@ -47,3 +48,4 @@
 
     gtag('config', '{{site.google-analytics}}');
 </script>
+{% endif %}

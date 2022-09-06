@@ -25,7 +25,7 @@ heroimage: ../images/hero.jpg # relative path from /assets/css
 # facebook_username: ''
 twitter_username: UTKiraraCircle
 # Google Analytics
-google-analytics: ''
+# google-analytics: ''
 
 # Name of the Author
 author-name: 東京大学きらら同好会
