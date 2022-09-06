@@ -13,7 +13,7 @@
 <meta property="og:image" content="{% unless !page.post-image %}{{site.site-image | absolute_url}}{% else %}{{page.post-image | absolute_url}}{% endunless %}">
 <meta property="og:image:alt" content="{% if page.title %} {{page.title}} | {% endif %}{{site.title}}">
 <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}">
-<meta property="article:author" content="https://www.facebook.com/{{site.facebook_username}}">
+{% if site.facebook_username %}<meta property="article:author" content="https://www.facebook.com/{{site.facebook_username}}">{% endif %}
 <meta property="og:site_name" content="{% if page.title %} {{page.title}} | {% endif %}{{site.title}}">
 <meta property="og:type" content="website">
 <!-- Twitter -->
