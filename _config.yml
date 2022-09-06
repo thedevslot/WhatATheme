@@ -2,9 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
-# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: ''
+url: 'https://utkiraracircle.github.io'
 assets_path: assets/
 
 # Title of the Site
