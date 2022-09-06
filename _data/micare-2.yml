@@ -15,8 +15,10 @@ articles:
     page_img:
       - alt: 「会員厳選！イチオシきらら」サンプル1
         src: /assets/images/micare-2/s-ichioshi-1.png
+        thumbnail: /assets/images/micare-2/s-ichioshi-1-thumb.png
       - alt: 「会員厳選！イチオシきらら」サンプル2
         src: /assets/images/micare-2/s-ichioshi-2.png
+        thumbnail: /assets/images/micare-2/s-ichioshi-2-thumb.png
   - title: きららの中の東大
     authors:
       - name: kn1cht
@@ -26,8 +28,10 @@ articles:
     page_img:
       - alt: 「きららの中の東大」サンプル1
         src: /assets/images/micare-2/s-kn1cht-1.jpg
+        thumbnail: /assets/images/micare-2/s-kn1cht-1-thumb.jpg
       - alt: 「きららの中の東大」サンプル2
         src: /assets/images/micare-2/s-kn1cht-2.jpg
+        thumbnail: /assets/images/micare-2/s-kn1cht-1-thumb.jpg
   - title: Step BD しあわせのおすそわけ
     authors:
       - name: ひろみね
@@ -37,6 +41,7 @@ articles:
     page_img:
       - alt: 「Step BD しあわせのおすそわけ」サンプル
         src: /assets/images/micare-2/s-hiromine-1.png
+        thumbnail: /assets/images/micare-2/s-hiromine-1-thumb.png
   - title: 九条カレンと量子ビット
     authors:
       - name: K. 汝水
@@ -46,10 +51,13 @@ articles:
     page_img:
       - alt: 「九条カレンと量子ビット」サンプル1
         src: /assets/images/micare-2/s-jyosui-1.png
+        thumbnail: /assets/images/micare-2/s-jyosui-1-thumb.png
       - alt: 「九条カレンと量子ビット」サンプル2
         src: /assets/images/micare-2/s-jyosui-2.png
+        thumbnail: /assets/images/micare-2/s-jyosui-2-thumb.png
       - alt: 「九条カレンと量子ビット」サンプル3
         src: /assets/images/micare-2/s-jyosui-3.png
+        thumbnail: /assets/images/micare-2/s-jyosui-3-thumb.png
   - title: ごせんぞう！
     authors:
       - name: 落雁
@@ -59,6 +67,7 @@ articles:
     page_img:
       - alt: 「ごせんぞう！」サンプル
         src: /assets/images/micare-2/s-rakugan-1.png
+        thumbnail: /assets/images/micare-2/s-rakugan-1-thumb.png
   - title: にじいろペンライト
     authors:
       - name: 立花
@@ -68,8 +77,10 @@ articles:
     page_img:
       - alt: 「にじいろペンライト」サンプル1
         src: /assets/images/micare-2/s-tachibana-1.png
+        thumbnail: /assets/images/micare-2/s-tachibana-1-thumb.png
       - alt: 「にじいろペンライト」サンプル2
         src: /assets/images/micare-2/s-tachibana-2.png
+        thumbnail: /assets/images/micare-2/s-tachibana-2-thumb.png
   - title: 初恋＊れ～るみすてり
     authors:
       - name: ふぁぼん
@@ -79,8 +90,10 @@ articles:
     page_img:
       - alt: 「初恋＊れ～るみすてり」サンプル1
         src: /assets/images/micare-2/s-fabon-1.png
+        thumbnail: /assets/images/micare-2/s-fabon-1-thumb.png
       - alt: 「初恋＊れ～るみすてり」サンプル2
         src: /assets/images/micare-2/s-fabon-2.png
+        thumbnail: /assets/images/micare-2/s-fabon-2-thumb.png
   - title: パズルのコーナー
     authors:
       - name: エクトぷらずま
@@ -90,8 +103,10 @@ articles:
     page_img:
       - alt: 「パズルのコーナー」サンプル1
         src: /assets/images/micare-2/s-ectoplasma-1.png
+        thumbnail: /assets/images/micare-2/s-ectoplasma-1-thumb.png
       - alt: 「パズルのコーナー」サンプル2
         src: /assets/images/micare-2/s-ectoplasma-2.png
+        thumbnail: /assets/images/micare-2/s-ectoplasma-2-thumb.png
   - title: わたしときらら
     authors:
       - name: 一之瀬めろん
@@ -112,6 +127,7 @@ articles:
     page_img:
       - alt: 「わたしときらら」サンプル
         src: /assets/images/micare-2/s-watashi-kirara-1.png
+        thumbnail: /assets/images/micare-2/s-watashi-kirara-1-thumb.png
 
 photos_manga:
   - title: もゆるファインダー
@@ -127,6 +143,7 @@ photos_manga:
     page_img:
       - alt: 「もゆるファインダー」サンプル
         src: /assets/images/micare-2/s-ginshio-1.jpg
+        thumbnail: /assets/images/micare-2/s-ginshio-1-thumb.jpg
   - title: ポートタワー・アリアケ
     authors:
       - name: 井戸
