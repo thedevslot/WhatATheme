@@ -74,12 +74,12 @@ a.navbar-item.is-active {
         margin: auto;
 
         img {
-            border: 0.25rem dotted black;
+            border: 0.25rem solid gray;
         }
     }
 
     a {
-        min-width: 25vmax;
+        min-width: 17vmax;
         margin: 0.5rem;
     }
 }
@@ -203,7 +203,7 @@ a.navbar-item.is-active {
         transition: all 0.25s ease;
         width: 10rem;
         padding: 0.25rem;
-        margin: auto auto 1rem auto;
+        margin: auto auto 0.5rem auto;
 
         &:hover {
             transform: scale(1.05);
@@ -222,6 +222,7 @@ a.navbar-item.is-active {
             li {
                 list-style: circle;
                 list-style-position: outside;
+                margin-left:0.5rem;
             }
 
             a {
@@ -351,5 +352,23 @@ a.navbar-item.is-active {
         ul, ol, blockquote {
             display: inline-block;
         }
+    }
+}
+#resume{
+    .resume-section{
+        margin-top: 1rem;
+    }
+    hr {
+        background-color: black;
+    }
+    li {
+        list-style: circle;
+        list-style-position: outside;
+        padding-inline-start: 2rem; 
+        text-indent: -1.5rem;
+    }
+    .year{
+        margin-top: 0.25rem;
+        margin-bottom: 0.25rem;
     }
 }
