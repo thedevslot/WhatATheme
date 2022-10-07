@@ -6,6 +6,8 @@ on:
     - master
     - main
     - 'basic-config-*'
+    - 'feature/**'
+    - 'release/**'
   pull_request:
     branches:
     - master
