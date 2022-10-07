@@ -2,9 +2,14 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ master ]
+    branches:
+    - master
+    - main
+    - 'basic-config-*'
   pull_request:
-    branches: [ master ]
+    branches:
+    - master
+    - main
 
 jobs:
   build:
