@@ -29,10 +29,10 @@ instagram_username:
 linkedin_username: trantdai
 github_username:  trantdai
 youtube_channel_id:
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+reddit_username:
+behance_username:
+dribbble_username:
+spotify_username:
 
 # Google Analytics
 google-analytics:
