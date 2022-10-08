@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Reading
 layout: page
 ---
 
