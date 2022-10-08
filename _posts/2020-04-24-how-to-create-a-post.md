@@ -1,7 +1,7 @@
 ---
 title: How to Create a Post?
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "/assets/images/jekyll-blog-post.png"
 description: A guide to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
