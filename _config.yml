@@ -13,7 +13,7 @@ description: An agile continuous learning Cyber Security as code enabler
 # URL of Image of the Site
 site-image: assets/images/white_hat_hacker.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Dai Tran, Portfolio, Blog, Cyber Security, Automation
 # URL for the Image of custom Favicon
 favicon-url:
 
@@ -38,7 +38,7 @@ spotify_username:
 google-analytics:
 
 # Disqus
-disqus-shortname:
+disqus-shortname: thedevslot
 
 # Name of the Author
 author-name: Dai Tran
