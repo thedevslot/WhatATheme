@@ -18,7 +18,8 @@ site-keywords: Dai Tran, Portfolio, Blog, Cyber Security, Automation
 favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /assets/images/homepage-background.jpg
+# heroimage: /assets/images/homepage-background-man-sunrise.jpg
+heroimage: /assets/images/homepage-background-beach-yoga.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
