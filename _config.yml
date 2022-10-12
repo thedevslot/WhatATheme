@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: ""
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl:
 
 # Title of the Site
 title: Dai Tran
 # Description of the Site
-description: An agile continuous learning Cyber Security as code enabler
+description: An agile continuous learning Security as Code enabler
 # URL of Image of the Site
 site-image: assets/images/white_hat_hacker.jpg
 # Keywords of the Site
@@ -19,7 +19,7 @@ favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 # heroimage: /assets/images/homepage-background-man-sunrise.jpg
-heroimage: /assets/images/homepage-background-wollong.jpg
+heroimage: /assets/images/homepage-background-wollong3.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -28,7 +28,7 @@ facebook_username:
 twitter_username:
 instagram_username:
 linkedin_username: trantdai
-github_username:  trantdai
+github_username: trantdai
 youtube_channel_id:
 reddit_username:
 behance_username:
@@ -69,18 +69,16 @@ compress_html:
 
 # Defaults
 defaults:
-  -
-    scope:
-      type: 'posts'
+  - scope:
+      type: "posts"
     values:
       layout: post
       post-image: ""
       description: ""
       tags:
         - ""
-  -
-    scope:
-      type: 'pages'
+  - scope:
+      type: "pages"
     values:
       layout: page
 
