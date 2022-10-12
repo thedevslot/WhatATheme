@@ -14,7 +14,7 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 ###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
-	
+
 # Installation
 **Jekyll is a Ruby Gem that can be installed on most systems.**
 ### Requirements

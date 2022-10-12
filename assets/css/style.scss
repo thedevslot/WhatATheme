@@ -41,6 +41,9 @@ a.navbar-item, a.navbar-link {
     border-color: grey;
 }
 
+#navbar .navbar-link::after {
+    border-color: #ffd700;
+}
 
 #hero {
     background: rgb(0, 0, 0);
@@ -316,6 +319,7 @@ a.navbar-item, a.navbar-link {
 
     .title {
         margin: auto;
+        color: #ffd700;
     }
 
     #post-image {
@@ -335,11 +339,32 @@ a.navbar-item, a.navbar-link {
     }
 
     .content {
+        h1, h2, h3, h4, h5, h6, strong {
+            color: #ffd700;
+        }
 
         ol,
         ul,
         blockquote {
             display: inline-block;
+        }
+
+        blockquote {
+            background-color: hsl(229, 53%, 53%);
+            border-left: none;
+
+            a {
+                color: #ffd700;
+            }
+
+            code {
+                background-color: hsl(229, 53%, 53%);
+                color: #ffd700;
+            }
+        }
+
+        code {
+            background-color: #0a0a0a;
         }
 
         hr {
