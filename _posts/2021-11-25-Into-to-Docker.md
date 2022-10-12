@@ -10,7 +10,7 @@ tags:
 
 # Welcome to Docker
 
-## Docker
+## || Docker ||
 
 * Docker is an open-source centralised platform designed to create and run applications.
 * Docker uses container on the host OS to run applications. Itallows applications to use the same linux kernelas a system on the host computer, rather than creating a whole virtual OS.
