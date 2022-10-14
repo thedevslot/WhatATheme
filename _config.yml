@@ -25,7 +25,7 @@ heroimage: /assets/images/homepage-background-wollong3.jpg
 # If you don't want to use any icon, you can leave them blank.
 email: spmkeeper@gmail.com
 facebook_username:
-twitter_username:
+twitter_username: ''
 instagram_username:
 linkedin_username: trantdai
 github_username: trantdai
@@ -44,7 +44,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Dai Tran
 # URL for the Image of the Author
-author-image: /assets/images/dai-tran-linkedin.jpg
+author-image: /assets/images/author_dai-tran-linkedin.jpg
 # 60 Words About the Author
 author-about: Highly motivated research oriented Computing and Communications PhD graduate with extensive cross-domain engineering experience comprising of over 11 years work experience in multiple domains of Network Security, Cyber Security , DevOps, and automation solution development with a proven track record of success delivering complicated security architecture, design, development, and implementation. Driving improvements in processes, operational efficiency/agility and system stability in complex large-scale mission-critical environments across diverse industries including Financial, IT, Travel, Food and Beverage, and Education services. Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Security automation, security technology REST APIs, Infrastructure as Code (Terraform/Terratest), Python secure software development, Linux, Bash scripting, Ansible/Tower, Security as Code, Docker, CI/CD and DevSecOps tools/methodologies.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)

@@ -33,7 +33,8 @@ a.navbar-item.is-active {
     }
 }
 
-a.navbar-item, a.navbar-link {
+a.navbar-item,
+a.navbar-link {
     color: #ffd700 !important;
 }
 
@@ -64,7 +65,7 @@ a.navbar-item, a.navbar-link {
         bottom: 0px;
         left: 0px;
         position: absolute;
-        opacity: 0.5;
+        opacity: 0.68;
         content: "";
     }
 }
@@ -339,7 +340,14 @@ a.navbar-item, a.navbar-link {
     }
 
     .content {
-        h1, h2, h3, h4, h5, h6, strong {
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        strong {
             color: #ffd700;
         }
 
@@ -400,6 +408,16 @@ a.navbar-item, a.navbar-link {
 
 #page-section {
     .content {
+
+        h1,
+        h2,
+        h3,
+        h4,
+        strong,
+        p,
+        ul {
+            color: #ffd700;
+        }
 
         ul,
         ol,
