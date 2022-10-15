@@ -1,0 +1,34 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+    <section class="hero is-fullheight">
+        <div class="hero-body page-content has-background-black">
+            <div class="container has-text-centered" id="page-section">
+                <div class="section">
+                    <figure class="image">
+                        <img class="is-rounded" src="{{site.author-image}}" alt="{{site.author-name}}" style="max-width: 200px; margin-left: auto; margin-right:auto;">
+                    </figure>
+                    <br />
+                    <h1 class="title has-text-warning is-1 has-text-weight-bold">
+                        👨‍🎓 {{ site.author-name }} 🥇
+                    </h1>
+                    <hr class="has-background-warning">
+                    <div class="content has-text-justified-desktop has-text-justified-fullhd has-text-justified has-text-justified-tablet has-text-left-mobile">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Footer begins here-->
+    {% include footer.html %}
+</body>
+
+</html>
