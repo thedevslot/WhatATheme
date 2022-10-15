@@ -9,7 +9,7 @@ Thanh Dai Tran, and Johnson I. Agbinya, ["Controlled Link Establishment Attack o
 
 ## International Journals
 
-Thanh Dai Tran, and Johnson I. Agbinya and Al-Jumaily Adel, [“Per node deployment based detection of controlled link establishment attack in distributed sensor networks”] (https://www.inderscience.com/info/inarticle.php?artid=40240), International Journal of Sensor Networks (IJSNET) Inderscience , vol. 9, No. 3-4, pp. 192-208, 2011.
+Thanh Dai Tran, and Johnson I. Agbinya and Al-Jumaily Adel, [“Per node deployment based detection of controlled link establishment attack in distributed sensor networks”](https://www.inderscience.com/info/inarticle.php?artid=40240), International Journal of Sensor Networks (IJSNET) Inderscience , vol. 9, No. 3-4, pp. 192-208, 2011.
 
 Thanh Dai Tran, and Johnson I. Agbinya and Al-Jumaily Adel, [“Combating key-swapping collusion attack on random pairwise key pre-distribution schemes for wireless sensor networks”](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sec.106), Security and Communication Networks SCI Journal, John Wiley & Sons, vol. 9, No. 3-4, pp. 192-208, 2011.
 
@@ -33,7 +33,7 @@ Cao Trong Hieu, Thanh Dai Tran, Choong Seon Hong, and Jae-Jo Lee, ["Adaptive Alg
 
 Thanh Dai Tran, Al-Sakib Khan Pathan, and Choong Seon Hong, ["A resource Optimal Key Pre-distribution Scheme with Enhanced Security for Wireless Sensor Networks"](https://link.springer.com/chapter/10.1007/11876601_62) in Proceedings of the [9th Asia-Pacific Network Operations and Management Symposium](http://www.apnoms.org/2006/), APNOMS 2006, Busan, Korea, September 27-29, 2006,  pp 546–549.
 
-Thanh Dai Tran, Cao Trong Hieu, Choong Seon Hong, ["An Efficient ID-based Bilinear Key Predistribution Scheme for Distributed Sensor Networks"(https://link.springer.com/chapter/10.1007/11847366_27)] in Proceedings of the 2nd International Conference on High Performance Computing and Communications, HPCC 2006, Munich, Germany, September 13–15, 2006, pp. 260–269.
+Thanh Dai Tran, Cao Trong Hieu, Choong Seon Hong, ["An Efficient ID-based Bilinear Key Predistribution Scheme for Distributed Sensor Networks"](https://link.springer.com/chapter/10.1007/11847366_27) in Proceedings of the 2nd International Conference on High Performance Computing and Communications, HPCC 2006, Munich, Germany, September 13–15, 2006, pp. 260–269.
 
 Thanh Dai Tran, Cao Trong Hieu, Md. Mustafizur Rahman, and Choong Seon Hong, ["An Efficient ID-based Bilinear Key Predistribution Scheme for Distributed Sensor Networks"](https://link.springer.com/chapter/10.1007/11847366_27) in Proceedings of the 7th International Workshop on Information Security Applications , WISA 2006, Jeju Island, Korea, August 28-30, 2006, pp. 121-135.
 
