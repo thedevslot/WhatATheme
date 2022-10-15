@@ -183,22 +183,24 @@ a.navbar-link {
 }
 
 #search {
-    border-bottom: 0.15rem solid;
+    // border-bottom: 0.15rem solid;
 
     input {
         border: none;
         outline: none;
         font-weight: 500 !important;
+        background-color: #3273dc;
 
         &::placeholder {
             font-weight: 500;
-            color: grey;
+            color: #ffd700;
             letter-spacing: 0.25rem;
         }
     }
 
     .button {
         transition: all 0.25s ease;
+        background-color: #3273dc;
 
         &:focus {
             outline: 0.25rem solid white;
@@ -424,5 +426,25 @@ a.navbar-link {
         blockquote {
             display: inline-block;
         }
+
+        .read-book-li::marker {
+            // https: //apps.timwhitlock.info/emoji/tables/unicode
+            content: "\📙  ";
+        }
+
+        .unread-book-li::marker {
+            // https: //apps.timwhitlock.info/emoji/tables/unicode
+            content: "\📚  ";
+            // display: inline !important;
+            // height: auto;
+            // width: 100px;
+        }
+
+        a {
+                // color: #1589FF;
+                // color: #0096FF;
+                color: #0095ff;
+                // color: #00FFFF;
+            }
     }
 }
