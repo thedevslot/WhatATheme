@@ -66,16 +66,16 @@ Highly talented, motivated and research oriented Computing and Communications Ph
 <br>Recognized for professionalism, positive mental attitude, commitment to excellence, and natural ability for critical thinking and complex problems solving. Excellent interpersonal skills, self-motiveted, and able to communicate and collaborate effectively with co-workers at all levels.
 
 ## CORE TECHNICAL COMPETENCIES
-- [x] End-to-end cross-domain complex large-scale mission-critical project/product delivery related skills
-- [x] Analytical, research, development and troubleshooting skills
-- [x] Integrated automation and CI/CD pipeline solution architecture, design, and implementation
-- [x] IaC/Terraform, Docker and DevSecOps tooling
-- [x] Software development/scripting tools like Python, Go, Bash, Ansible, Git, Jinja2, JSON, YAML, REST APIs
-- [x] Linux and Windows administration
-- [x] Microsoft Azure security
-- [x] Next-generation and traditional firewalls, secure web gateway
-- [x] Switching and routing
-- [x] IPAM, DHCP, DNS and IPSEC & VPNs
+- End-to-end cross-domain complex large-scale mission-critical project/product delivery related skills
+- Analytical, research, development and troubleshooting skills
+- Integrated automation and CI/CD pipeline solution architecture, design, and implementation
+- IaC/Terraform, Docker and DevSecOps tooling
+- Software development/scripting tools like Python, Go, Bash, Ansible, Git, Jinja2, JSON, YAML, REST APIs
+- Linux and Windows administration
+- Microsoft Azure security
+- Next-generation and traditional firewalls, secure web gateway
+- Switching and routing
+- IPAM, DHCP, DNS and IPSEC & VPNs
 
 ## RECOGNISED ACHIEVEMENTS
 - 2022 \| Annual performance achievement of Above Expectations and top (75% of maximum) bonus award
