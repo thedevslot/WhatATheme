@@ -246,12 +246,18 @@ Aprl 2011 – June 2011 \| **[Master Builders Association of NSW, Sydney](http:/
 
 #### PhD in Computing and Communications Engineering
 2008 – 2011  |  University of Technology, Sydney, Australia
+<br>
+**Thesis:** ***Controlled Link Establishment Attacks on Distributed Sensor Networks and Countermeasures***
 
 #### Master of Computer Engineering (Network Security Focus)
 2005 – 2007  |  Kyung Hee University, Suwon, SOUTH KOREA
+<br>
+**Thesis:** ***Security Algorithms for Wireless Sensor Networks***
 
 #### Engineer in Information and Communications Technology
-2005 – 2007  |  Hanoi University of Science and Technology, Hanoi, VIETNAM
+2000 – 2005  |  Hanoi University of Science and Technology, Hanoi, VIETNAM
+<br>
+**Thesis:** ***Kerberos-based authentication for FTP applications***
 
 ## FURTHER TRAINING & INDUSTRY CERTIFICATES
 
