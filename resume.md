@@ -12,7 +12,7 @@ author:
   last_name: Tran
 permalink: "/resume"
 ---
-# Experienced Security as Code Enabler
+# Continuous Innovative and Resourceful Security Enabler
 
 <div class="column is-full is-size-4">
 {% unless site.email == '' %}
@@ -31,7 +31,6 @@ permalink: "/resume"
 <a href="http://www.twitter.com/{{site.twitter_username}}" target="_blank" class="has-text-link"><i class="fab fa-twitter"></i> {{site.twitter_username}}</a>
 {% endunless %}
 <br />
-<!-- <a href="/assets/images/Jimmie Gmaz - web CV.pdf" target="_blank" class="has-text-black"><i class="fas fa-file-pdf"></i> Full CV</a> -->
 </div>
 <br>
 *Last updated: **October 2022***
@@ -62,8 +61,11 @@ permalink: "/resume"
 
 ## EXECUTIVE SUMMARY
 
-Highly talented, motivated and research oriented Computing and Communications PhD graduate with extensive cross-domain engineering experience comprising of over 11 years work experience in multiple domains of Network Security, Cyber Security , DevOps, and automation solution development with a proven track record of success delivering complicated security architecture, design, development, and implementation. Instrumental in driving improvements in processes, operational efficiency/agility and system stability in complex large-scale mission-critical environments across diverse industries including Financial, IT, Travel, Food and Beverage, and Education services. Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Security automation, security technology REST APIs, Infrastructure as Code (Terraform/Terratest), Python secure software development, Linux, Bash scripting, Ansible/Tower, Security as Code, Docker, CI/CD and DevSecOps tools/methodologies.
-<br>Recognized for professionalism, positive mental attitude, commitment to excellence, and natural ability for critical thinking and complex problems solving. Excellent interpersonal skills, self-motiveted, and able to communicate and collaborate effectively with co-workers at all levels.
+Highly talented, motivated and research oriented Computing and Communications PhD graduate with extensive cross-domain engineering experience comprising of over 11 years work experience in multiple domains of Network Security, Cyber Security , DevOps, and automation solution development with a proven track record of success delivering complicated security architecture, design, development, and implementation.
+<br><br>
+Instrumental in driving improvements in processes, operational efficiency/agility and system stability in complex large-scale mission-critical environments across diverse industries including Financial, IT, Travel, Food and Beverage, and Education services. Skilled in multi-vendor firewall migration and administration, Cyber/Cloud Security automation, security technology REST APIs, Infrastructure as Code (Terraform/Terratest), Python secure software development, Linux, Bash scripting, Ansible/Tower, Security as Code, Docker, CI/CD and DevSecOps tools/methodologies.
+<br><br>
+Recognized for professionalism, positive mental attitude, commitment to excellence, and natural ability for critical thinking and complex problems solving. Excellent interpersonal and mentoring skills, self-motiveted, and able to communicate and collaborate effectively with co-workers at all levels.
 
 ## CORE TECHNICAL COMPETENCIES
 ☑️ End-to-end cross-domain complex large-scale mission-critical project/product delivery related skills

@@ -1,4 +1,4 @@
-- name: End of Life New York Cisco Firewall to Palo Alto Firewall
+- name: End of Life New York Cisco Firewall Migration to Palo Alto Firewall
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link:
   description: Stay tuned! More detail is coming soon!
