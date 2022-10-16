@@ -24,6 +24,11 @@ layout: reading
 ## 📙 General CyberSecurity
 
 - {: .read-book-li } [(ISC)2 Certified Information Systems Security Professional (CISSP) Official Study Guide, 9th Edition](https://www.amazon.com.au/Certified-Information-Security-Professional-Official/dp/1119786231)
+- {: .read-book-li } [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data](https://www.amazon.com.au/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504)
+
+## 📙 Motivational
+
+- {: .read-book-li } [Who Moved My Cheese?: An A-Mazing Way to Deal with Change in Your Work and in Your Life](https://www.amazon.com.au/Who-Moved-My-Cheese-Mazing-ebook/dp/B004CR6AM4)
 
 ## 📚 Unclassified
 - {: .unread-book-li } [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks)
