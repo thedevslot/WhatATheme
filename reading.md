@@ -3,19 +3,27 @@ title: Reading
 layout: reading
 ---
 ***“Today a reader, tomorrow a leader.” – Margaret Fuller***
+
 ## 📙 DevSecOps
+
 - {: .read-book-li } [DevSecOps Maturity Model](https://github.com/OWASP/www-project-devsecops-maturity-model/blob/master/index.md)
 - {: .read-book-li } [Bomber for SBOMs](https://github.com/devops-kung-fu/bomber)
 - {: .read-book-li } [CycloneDX Python SBOM Generation Tool](https://github.com/trantdai/cyclonedx-python)
 
-## 📙 Git & GitHub & GitHub Pages
+## 📙 Git & GitHub
+
 - {: .read-book-li } [Create a resume website in your browser with VS Code and GitHub Pages](https://learn.microsoft.com/en-us/events/vs-code-day-2022/create-a-resume-website-in-your-browser-with-vs-code-and-github-pages)
 
 ## 📙 Visual Studio Code
+
 - {: .read-book-li } [Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 ## 📙 Python
 - {: .read-book-li } [The Ultimate Python Cheat Sheet](https://www.linkedin.com/feed/update/urn:li:activity:6977291893848084480/)
+
+## 📙 General CyberSecurity
+
+- {: .read-book-li } [(ISC)2 Certified Information Systems Security Professional (CISSP) Official Study Guide, 9th Edition](https://www.amazon.com.au/Certified-Information-Security-Professional-Official/dp/1119786231)
 
 ## 📚 Unclassified
 - {: .unread-book-li } [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks)

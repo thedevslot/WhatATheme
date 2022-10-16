@@ -264,27 +264,28 @@ Aprl 2011 – June 2011 \| **[Master Builders Association of NSW, Sydney](http:/
 ## EDUCATION HISTORY
 
 #### PhD in Computing and Communications Engineering
-2008 – 2011  |  University of Technology, Sydney, Australia
+2008 – 2011  |  [University of Technology, Sydney](https://www.uts.edu.au/), Australia
 <br>
 **Thesis:** ***Controlled Link Establishment Attacks on Distributed Sensor Networks and Countermeasures***
 
 #### Master of Computer Engineering (Network Security Focus)
-2005 – 2007  |  Kyung Hee University, Suwon, SOUTH KOREA
+2005 – 2007  |  [Kyung Hee University](https://www.khu.ac.kr/eng/main/index.do), Suwon, South Korea
 <br>
 **Thesis:** ***Security Algorithms for Wireless Sensor Networks***
 
 #### Engineer in Information and Communications Technology
-2000 – 2005  |  Hanoi University of Science and Technology, Hanoi, VIETNAM
+2000 – 2005  |  [Hanoi University of Science and Technology](https://en.hust.edu.vn/), Hanoi, Vietnam
 <br>
 **Thesis:** ***Kerberos-based authentication for FTP applications***
 
 ## FURTHER TRAINING & INDUSTRY CERTIFICATES
 
-- October 2022 \| Udemy AWS Certified Security Specialty 2022 (WIP)
-- October 2022 \| Udemy Ultimate AWS Certified Developer Associate 2022 - NEW! (WIP)
+- October 2022 \| Udemy AWS Certified Security Specialty 2022 (**WIP**)
+- October 2022 \| Udemy Ultimate AWS Certified Developer Associate 2022 - NEW! (**WIP**)
 - September 2022 \| Agile Programming Techniques training
 - September 2022 \| GitHub for Developers training
 - August 2022 \| Containers and Kubernetes with Red Hat OpenShift Platform training
+- August 2022 \| (ISC)2 Certified Information Systems Security Professional (CISSP) Official Study Guide, 9th Edition Self Study (**WIP**)
 - August 2022 \| Agile Quick Start program training
 - July 2022 \| Bash Mastery: The Complete Guide to Bash Shell Scripting
 - May 2022 \| HashiCorp Advanced Data Protection with Vault Workshop
@@ -320,4 +321,4 @@ Aprl 2011 – June 2011 \| **[Master Builders Association of NSW, Sydney](http:/
 
 ## PUBLICATIONS
 
-See [publications](/publications.md).
+See [publications](./publications).
