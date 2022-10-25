@@ -183,31 +183,6 @@ a.navbar-item.is-active {
     }
 }
 
-#search {
-    border-bottom: 0.15rem solid;
-
-    input {
-        border: none;
-        outline: none;
-        font-weight: 500 !important;
-
-        &::placeholder {
-            font-weight: 500;
-            color: grey;
-            letter-spacing: 0.25rem;
-        }
-    }
-
-    .button {
-        transition: all 0.25s ease;
-        &:focus {
-            outline: 0.25rem solid white;
-        }
-
-        border: none;
-    }
-}
-
 
 #footer {
     #backtotop {
@@ -351,10 +326,6 @@ a.navbar-item.is-active {
     //     word-break: break-word;
     //     max-width: -webkit-fill-available;
     // }
-
-    #disqus_thread {
-        margin-top: 5vmax;
-    }
 }
 
 #page-section {

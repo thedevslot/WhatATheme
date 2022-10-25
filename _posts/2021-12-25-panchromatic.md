@@ -3,7 +3,7 @@ title: "東京大学きらら同好会イラスト・写真合同誌 PANCHROMATI
 layout: post
 description: "東京大学きらら同好会イラスト・写真合同誌「PANCHROMATIC」の紹介ページです。"
 kokuchi: 2021年12月30日（木曜日）コミックマーケット99 1日目東ノ09aにて、東京大学きらら同好会のイラスト・写真合同誌「PANCHROMATIC」を頒布します。
-post-image: "https://utkiraracircle.github.io/assets/images/panchromatic/main.jpg"
+post-image: "/assets/images/panchromatic/main.jpg"
 ---
 
 2021年12月30日（木曜日）[コミックマーケット99](https://www.comiket.co.jp/info-a/C99A/C99ANotice2.html) **1日目東ノ09a**にて、東京大学きらら同好会のフルカラーイラスト・写真合同誌「PANCHROMATIC」を頒布します。

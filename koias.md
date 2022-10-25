@@ -2,7 +2,7 @@
 title: 東京大学恋する小惑星同好会
 layout: page
 description: 東京大学恋する小惑星同好会は、東京大学学生による『恋する小惑星』ファンコミュニティです。当会は東京大学きらら同好会の支部として運営されています。
-post-image: https://utkiraracircle.github.io/assets/images/utkoias-logotype.png
+post-image: /assets/images/utkoias-logotype.png
 contact_info:
     - title: 団体名
       info : 東京大学恋する小惑星同好会
@@ -35,6 +35,9 @@ twitter:
     <p class="subtitle is-uppercase has-text-weight-semibold">活動状況</p>
 </div>
 
+### 2022年8月13日 「コミックマーケット100」にサークル参加します
+
+2022年8月13日（土曜日）[コミックマーケット100](https://www.comiket.co.jp/info-a/C100/C100Notice2.html) に「**1日目東Y16a 東京大学きらら同好会**」としてサークル参加します。恋する小惑星同好会の既刊もございます。
 
 ### 2022年3月6日 恋アスオンリーイベント「キラキラアーカイブ」にサークル参加します
 

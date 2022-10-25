@@ -3,11 +3,10 @@ articles:
   - title: "1. 初めてのきらら、どの作品がいいか"
     authors:
       - name: 500mL
-        twitter: JP3LHW
+        twitter: 0500mL
       - name: 一之瀬めろん
-        twitter: xAx_xBx_xCx
       - name: のぼりくだり
-        twitter: nbrkdrnfnht
+        twitter: kudarinobori
       - name: ふぁぼん
         twitter: syobon_hinata
     desc: |-
@@ -16,8 +15,10 @@ articles:
     page_img:
       - alt: 初きららサンプル1
         src: /assets/images/micare-1/s-firstkirara-01.jpg
+        thumbnail: /assets/images/micare-1/s-firstkirara-01-thumb.jpg
       - alt: 初きららサンプル2
         src: /assets/images/micare-1/s-firstkirara-02.jpg
+        thumbnail: /assets/images/micare-1/s-firstkirara-02-thumb.jpg
   - title: "2. 立て看板制作報告@駒場キャンパス"
     authors:
       - name: のこ
@@ -27,6 +28,7 @@ articles:
     page_img:
       - alt: のこサンプル1
         src: /assets/images/micare-1/s-noco-01.jpg
+        thumbnail: /assets/images/micare-1/s-noco-01-thumb.jpg
   - title: "3. 立て看板フォトギャラリー"
     authors:
       - name: kn1cht
@@ -38,6 +40,7 @@ articles:
     page_img:
       - alt: 立て看サンプル1
         src: /assets/images/micare-1/s-tatekan-01.jpg
+        thumbnail: /assets/images/micare-1/s-tatekan-01-thumb.jpg
   - title: "4. みかーれ!"
     authors:
       - name: haxibami
@@ -52,8 +55,10 @@ articles:
     page_img:
       - alt: haxibamiサンプル1
         src: /assets/images/micare-1/s-haxibami-01.jpg
+        thumbnail: /assets/images/micare-1/s-haxibami-01-thumb.jpg
       - alt: haxibamiサンプル2
         src: /assets/images/micare-1/s-haxibami-02.jpg
+        thumbnail: /assets/images/micare-1/s-haxibami-02-thumb.jpg
   - title: "5. もゆもゆに露出計を捧ぐ"
     authors:
       - name: れんず
@@ -64,8 +69,10 @@ articles:
     page_img:
       - alt: れんずサンプル1
         src: /assets/images/micare-1/s-lens-01.jpg
+        thumbnail: /assets/images/micare-1/s-lens-01-thumb.jpg
       - alt: れんずサンプル2
         src: /assets/images/micare-1/s-lens-02.jpg
+        thumbnail: /assets/images/micare-1/s-lens-02-thumb.jpg
     ext_links:
       -
         href: https://github.com/UTKiraraCircle/micare_expmeter
@@ -87,8 +94,10 @@ articles:
     page_img:
       - alt: kn1chtサンプル1
         src: /assets/images/micare-1/s-kn1cht-01.jpg
+        thumbnail: /assets/images/micare-1/s-kn1cht-01-thumb.jpg
       - alt: kn1chtサンプル2
         src: /assets/images/micare-1/s-kn1cht-02.jpg
+        thumbnail: /assets/images/micare-1/s-kn1cht-02-thumb.jpg
     ext_links:
       -
         href: https://note.com/kn1cht/n/n8c72362f36d5
@@ -106,11 +115,12 @@ articles:
     page_img:
       - alt: ふぁぼんサンプル1
         src: /assets/images/micare-1/s-fabon-01.jpg
+        thumbnail: /assets/images/micare-1/s-fabon-01-thumb.jpg
       - alt: ふぁぼんサンプル2
         src: /assets/images/micare-1/s-fabon-02.jpg
+        thumbnail: /assets/images/micare-1/s-fabon-02-thumb.jpg
 illusts:
   - name: 一之瀬めろん
-    twitter: xAx_xBx_xCx
     src: /assets/images/micare-1/melon.png
   - name: のこ
     twitter: NOCO_1002
@@ -119,7 +129,7 @@ illusts:
     twitter: tourmaline_wm
     src: /assets/images/micare-1/sankakusu.png
   - name: 500mL
-    twitter: JP3LHW
+    twitter: 0500mL
     src: /assets/images/micare-1/500ml.png
   - name: 井戸
     twitter: water_of_a_well

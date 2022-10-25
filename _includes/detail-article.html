@@ -15,7 +15,7 @@
   {% for img in article.page_img %}
   <div class="column is-one-fifth-desktop is-one-third-tablet is-half-mobile">
     <a href="{{ img.src }}" data-lightbox="{{ article.title }}" data-title="{{ article.title }}">
-      <img src="{{ img.src }}" alt="{{ img.alt }}" style="width: 90%; max-width: 90%;">
+      <img src="{% if img.thumbnail %}{{ img.thumbnail }}{% else %}{{ img.src }}{% endif %}" alt="{{ img.alt }}" style="width: 90%; max-width: 90%;">
     </a>
   </div>
   {% endfor %}

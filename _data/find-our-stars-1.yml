@@ -11,8 +11,16 @@ articles:
     page_img:
       - alt: kn1chtサンプル1
         src: /assets/images/find-our-stars-1/s-kn1cht-01.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-kn1cht-01-thumb.jpg
       - alt: kn1chtサンプル2
         src: /assets/images/find-our-stars-1/s-kn1cht-02.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-kn1cht-02-thumb.jpg
+    ext_links:
+      -
+        href: https://note.com/kn1cht/n/n7b5a66194ac4
+        text: 全文リンク
+        class: "is-note is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "2. 地学オリンピック参加記"
     authors:
       - name: れんず
@@ -24,8 +32,10 @@ articles:
     page_img:
       - alt: れんずサンプル1
         src: /assets/images/find-our-stars-1/s-lens-01.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-lens-01-thumb.jpg
       - alt: れんずサンプル2
         src: /assets/images/find-our-stars-1/s-lens-02.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-lens-02-thumb.jpg
   - title: "3. 地学オリンピック参加記2"
     authors:
       - name: のこ
@@ -37,8 +47,10 @@ articles:
     page_img:
       - alt: のこサンプル1
         src: /assets/images/find-our-stars-1/s-noco-01.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-noco-01-thumb.jpg
       - alt: のこサンプル2
         src: /assets/images/find-our-stars-1/s-noco-02.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-noco-02-thumb.jpg
   - title: "4. 東大生猪瀬舞概念"
     authors:
       - name: ふぁぼん
@@ -50,8 +62,16 @@ articles:
     page_img:
       - alt: ふぁぼんサンプル1
         src: /assets/images/find-our-stars-1/s-fabon-01.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-fabon-01-thumb.jpg
       - alt: ふぁぼんサンプル2
         src: /assets/images/find-our-stars-1/s-fabon-02.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-fabon-02-thumb.jpg
+    ext_links:
+      -
+        href: https://yuyusuki.hatenablog.com/entry/2022/06/12/190000
+        text: 全文リンク
+        class: "is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "5. #地理は地学"
     authors:
       - name: haxibami
@@ -63,8 +83,10 @@ articles:
     page_img:
       - alt: haxibamiサンプル1
         src: /assets/images/find-our-stars-1/s-haxibami-01.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-haxibami-01-thumb.jpg
       - alt: haxibamiサンプル2
         src: /assets/images/find-our-stars-1/s-haxibami-02.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-haxibami-02-thumb.jpg
   - title: "6. 東大入学式で小惑星を探した話"
     authors:
       - name: まーしー
@@ -75,12 +97,13 @@ articles:
     page_img:
       - alt: まーしーサンプル1
         src: /assets/images/find-our-stars-1/s-marcey-01.jpg
+        thumbnail: /assets/images/find-our-stars-1/s-marcey-01-thumb.jpg
 illusts:
   - name: まーしー
     twitter: marcey_marcey_
     src: /assets/images/find-our-stars-1/marcey.png
   - name: 500mL
-    twitter: JP3LHW
+    twitter: 0500mL
     src: /assets/images/find-our-stars-1/500ml.png
   - name: あをもみじ
     twitter: awomomiji

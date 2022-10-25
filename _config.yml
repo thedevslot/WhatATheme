@@ -2,9 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
-# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: ''
+url: 'https://utkiraracircle.github.io'
 assets_path: assets/
 
 # Title of the Site
@@ -12,7 +10,7 @@ title: 東京大学きらら同好会
 # Description of the Site
 description: 東京大学きらら同好会は、まんがタイムきらら作品好きの東大生が集まる団体です。
 # URL of Image of the Site
-site-image: https://raw.githubusercontent.com/UTKiraraCircle/UTKiraraCircle.github.io/master/assets/images/logolarge-white.png
+site-image: /assets/images/logolarge-white.png
 # Keywords of the Site
 site-keywords: 東京大学きらら同好会, きらら, まんがタイムきらら, サークル
 # URL for the Image of custom Favicon
@@ -27,10 +25,7 @@ heroimage: ../images/hero.jpg # relative path from /assets/css
 # facebook_username: ''
 twitter_username: UTKiraraCircle
 # Google Analytics
-google-analytics: ''
-
-# Disqus
-disqus-shortname: ''
+# google-analytics: ''
 
 # Name of the Author
 author-name: 東京大学きらら同好会

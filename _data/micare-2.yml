@@ -1,0 +1,201 @@
+articles:
+  - title: 会員厳選！イチオシきらら
+    authors:
+      - name: 一之瀬めろん
+      - name: 500mL
+        twitter: 0500mL
+      - name: こゆら
+        twitter: yurasan8000
+      - name: ふぁぼん
+        twitter: syobon_hinata
+      - name: K. 如水
+        twitter: tactfully28
+    desc: |-
+      きららを愛する会員たちが、それぞれのイチオシきらら作品を紹介します。この記事を読めば、きっとあなたも新しい作品に出会えるはず！
+    page_img:
+      - alt: 「会員厳選！イチオシきらら」サンプル1
+        src: /assets/images/micare-2/s-ichioshi-1.png
+        thumbnail: /assets/images/micare-2/s-ichioshi-1-thumb.png
+      - alt: 「会員厳選！イチオシきらら」サンプル2
+        src: /assets/images/micare-2/s-ichioshi-2.png
+        thumbnail: /assets/images/micare-2/s-ichioshi-2-thumb.png
+  - title: きららの中の東大
+    authors:
+      - name: kn1cht
+        twitter: kn1cht
+    desc: |-
+      東京大学が登場するきらら作品はいくつあるのか？　そんな疑問を調べてみた結果を報告します。『ぎんしお少々』や『ステラのまほう（アニメ）』など、東大の施設が出てくる意外な作品があることが分かりました。また、きらら作品に出てきた東大入試の問題を実際に解いてみた結果も掲載しました。
+    page_img:
+      - alt: 「きららの中の東大」サンプル1
+        src: /assets/images/micare-2/s-kn1cht-1.jpg
+        thumbnail: /assets/images/micare-2/s-kn1cht-1-thumb.jpg
+      - alt: 「きららの中の東大」サンプル2
+        src: /assets/images/micare-2/s-kn1cht-2.jpg
+        thumbnail: /assets/images/micare-2/s-kn1cht-1-thumb.jpg
+  - title: Step BD しあわせのおすそわけ
+    authors:
+      - name: ひろみね
+        twitter: karakorum_3
+    desc: |-
+      コミケといえば献血も話題に上がりますよね？<br>文化祭準備が進むある秋の日、花名ちゃんたちが高校での献血に挑戦します！<br>花名ちゃんは心配事があるようですが……<br>スロウスタートのほのぼのとしたSSです。
+    page_img:
+      - alt: 「Step BD しあわせのおすそわけ」サンプル
+        src: /assets/images/micare-2/s-hiromine-1.png
+        thumbnail: /assets/images/micare-2/s-hiromine-1-thumb.png
+  - title: 九条カレンと量子ビット
+    authors:
+      - name: K. 汝水
+        twitter: tactfully28
+    desc: |-
+      『きんいろモザイク』でカレンが見せる正規直交基底のポーズ。その背景にはどのような物理現象があるのでしょうか？本稿では線形代数と量子力学の基本をコンパクトに解説しつつ、カレンの裏の意図を考察し、きんモザ研究に新たな視点を提供します。
+    page_img:
+      - alt: 「九条カレンと量子ビット」サンプル1
+        src: /assets/images/micare-2/s-jyosui-1.png
+        thumbnail: /assets/images/micare-2/s-jyosui-1-thumb.png
+      - alt: 「九条カレンと量子ビット」サンプル2
+        src: /assets/images/micare-2/s-jyosui-2.png
+        thumbnail: /assets/images/micare-2/s-jyosui-2-thumb.png
+      - alt: 「九条カレンと量子ビット」サンプル3
+        src: /assets/images/micare-2/s-jyosui-3.png
+        thumbnail: /assets/images/micare-2/s-jyosui-3-thumb.png
+  - title: ごせんぞう！
+    authors:
+      - name: 落雁
+        twitter: rakurakugan
+    desc: |-
+      アニメ2期をきっかけにまちカドまぞくにハマり、ぞよぞよと湧いてきた創作欲を抑えきれなくなった落雁氏。そこで着手したのは、ごせんぞうの3Dモデリング。制作過程をレポートしつつ、キャラクターモデリングの基本を解説します。<br>この記事を読んで、あなたもモデリングを始めてみませんか？
+    page_img:
+      - alt: 「ごせんぞう！」サンプル
+        src: /assets/images/micare-2/s-rakugan-1.png
+        thumbnail: /assets/images/micare-2/s-rakugan-1-thumb.png
+  - title: にじいろペンライト
+    authors:
+      - name: 立花
+        twitter: tachibana248010
+    desc: |-
+      「世界で一番輝く」という夢を持ちつつ、何をすればいいのか分からないでいた「まそほ」。そんなまそほが高校に入学して出会ったのは……「ペンライト」！？<br>七色の輝きに魅せられた少女の青春ストーリー、開幕！
+    page_img:
+      - alt: 「にじいろペンライト」サンプル1
+        src: /assets/images/micare-2/s-tachibana-1.png
+        thumbnail: /assets/images/micare-2/s-tachibana-1-thumb.png
+      - alt: 「にじいろペンライト」サンプル2
+        src: /assets/images/micare-2/s-tachibana-2.png
+        thumbnail: /assets/images/micare-2/s-tachibana-2-thumb.png
+  - title: 初恋＊れ～るみすてり
+    authors:
+      - name: ふぁぼん
+        twitter: syobon_hinata
+    desc: |-
+      日曜日の午後、石巻を訪れたまひろ先生。普通のおでかけと思いきや、先生には仙台駅での「アリバイ」が。まひろ先生はどうやって仙台から石巻に移動したのか?<br>鉄道部員の知識が炸裂する、きらら×時刻表トリックの新感覚トラベル(?)ミステリーです。
+    page_img:
+      - alt: 「初恋＊れ～るみすてり」サンプル1
+        src: /assets/images/micare-2/s-fabon-1.png
+        thumbnail: /assets/images/micare-2/s-fabon-1-thumb.png
+      - alt: 「初恋＊れ～るみすてり」サンプル2
+        src: /assets/images/micare-2/s-fabon-2.png
+        thumbnail: /assets/images/micare-2/s-fabon-2-thumb.png
+  - title: パズルのコーナー
+    authors:
+      - name: エクトぷらずま
+        twitter: Ecto__PLASMA
+    desc: |-
+      <a href="/posts/find-our-stars-2">#FindOurStars Vol. 2</a>に続き、エクトぷらずま氏のパズルが登場！<br>今回は、星屑テレパスをイメージした"Letter Pairs + Star Battle"と、Puzzle Hunt作品の"Connect Four by Four"の二本立てです。夏コミ戦利品の読書に疲れたら、頭の体操はいかがですか？
+    page_img:
+      - alt: 「パズルのコーナー」サンプル1
+        src: /assets/images/micare-2/s-ectoplasma-1.png
+        thumbnail: /assets/images/micare-2/s-ectoplasma-1-thumb.png
+      - alt: 「パズルのコーナー」サンプル2
+        src: /assets/images/micare-2/s-ectoplasma-2.png
+        thumbnail: /assets/images/micare-2/s-ectoplasma-2-thumb.png
+  - title: わたしときらら
+    authors:
+      - name: 一之瀬めろん
+      - name: れんず
+        twitter: Fresnel_pic
+      - name: 500mL
+        twitter: 0500mL
+      - name: エクトぷらずま
+        twitter: Ecto__PLASMA
+      - name: 落雁
+        twitter: rakurakugan
+      - name: ちさとし
+        twitter: cst_oshino
+      - name: ふぁぼん
+        twitter: syobon_hinata
+    desc: |-
+      きららとの出会い、中高生の頃の思い出、エトセトラ。会員たちによる、きららに関するエピソード集です。
+    page_img:
+      - alt: 「わたしときらら」サンプル
+        src: /assets/images/micare-2/s-watashi-kirara-1.png
+        thumbnail: /assets/images/micare-2/s-watashi-kirara-1-thumb.png
+
+photos_manga:
+  - title: もゆるファインダー
+    authors:
+      - name: れんず
+        twitter: Fresnel_pic
+      - name: chronos
+        twitter: Chronos_anime
+      - name: kn1cht
+        twitter: kn1cht
+    desc: |-
+      写真の楽しさが詰まった『ぎんしお少々』について語り合ううちに、当会には写真好きのコミュニティができました。<br>フィルム撮影にハマったり、初めてデジカメを購入したり。様々にカメラと関わる会員たちによる写真集です。
+    page_img:
+      - alt: 「もゆるファインダー」サンプル
+        src: /assets/images/micare-2/s-ginshio-1.jpg
+        thumbnail: /assets/images/micare-2/s-ginshio-1-thumb.jpg
+  - title: ポートタワー・アリアケ
+    authors:
+      - name: 井戸
+        twitter: water_of_a_well
+    desc: |-
+      『アキタランド・ゴシック』の魅力を布教したい井戸氏による漫画。<br>即売会会場にやってきたアキタさん一行ですが、とある力が宿った頒布物を発見し……？
+    page_img:
+      - alt: 「ポートタワー・アリアケ」サンプル
+        src: /assets/images/micare-2/s-ido-1.png
+  - title: ピクニックinエトワリア
+    authors:
+      - name: 500mL
+        twitter: 0500mL
+    desc: |-
+      るん・トオル・歌夜・如月・麻冬の5人が、『きららファンタジア』の世界でピクニック！<br>当会会長の500mL氏が描く、エトワリアならではの濃密なクロスオーバーにご注目ください。
+    page_img:
+      - alt: 「ピクニックinエトワリア」サンプル
+        src: /assets/images/micare-2/s-500ml-1.jpg
+  - title: なるコティズム
+    authors:
+      - name: K. 如水
+        twitter: tactfully28
+    desc: |-
+      新年度になり、園芸部の活動について話し合う汐とココ。栽培計画を立てていたところ、一人の新入生がやってきて……？<br>植物由来の癒し成分をたっぷり詰めた、ゆるふわ園芸4コマ！
+    page_img:
+      - alt: 「なるコティズム」サンプル1
+        src: /assets/images/micare-2/s-jyosui-4.png
+      - alt: 「なるコティズム」サンプル2
+        src: /assets/images/micare-2/s-jyosui-5.png
+  - title: 探偵夢宮さくらの増員計画
+    authors:
+      - name: わくわくの原理
+    desc: |-
+      『探偵夢宮さくらの完全敗北』の1ページ4コマです。是非Micare vol.2を手にとって中身をお確かめください！
+    page_img:
+      - alt: サンプル画像なし
+        src: /assets/images/no_image.png
+  - title: 「みかーれ！」×東大あるある
+    authors:
+      - name: UEEU
+    desc: |-
+      UEEU氏による、きらら同好会オリジナルキャラの1ページ漫画です。<br>立て看板にも描かれたキャラたちは、東大でどのように過ごしているのでしょうか。彼女たちの日常をほんの少しだけ覗いてみませんか？
+    page_img:
+      - alt: 「みかーれ！」×東大あるある サンプル
+        src: /assets/images/micare-2/s-ueeu-1.jpg
+
+illusts:
+  - name: あをもみじ
+    twitter: awomomiji
+    src: /assets/images/micare-2/i-awomomiji.png
+  - name: さんかくす
+    twitter: tourmaline_wm
+    src: /assets/images/micare-2/i-sankakusu.png
+  - name: UEEU
+    src: /assets/images/micare-2/i-ueeu.png
