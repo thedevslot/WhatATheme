@@ -12,6 +12,12 @@ articles:
         src: /assets/images/find-our-stars-2/s-fabon-01.jpg
       - alt: ふぁぼんサンプル2
         src: /assets/images/find-our-stars-2/s-fabon-02.jpg
+    ext_links:
+      -
+        href: https://www.pixiv.net/novel/show.php?id=18592237
+        text: 全文リンク
+        class: "is-pixiv is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "都市工学徒猪瀬舞概念"
     authors:
       - name: 竹麻呂
@@ -43,6 +49,12 @@ articles:
         src: /assets/images/find-our-stars-2/s-lens-01.jpg
       - alt: れんずサンプル2
         src: /assets/images/find-our-stars-2/s-lens-02.jpg
+    ext_links:
+      -
+        href: https://utkiraracircle.hatenablog.com/entry/lens-yuden
+        text: 全文リンク
+        class: "is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
   - title: "三県境 & 渡良瀬遊水地巡検報告"
     authors:
       - name: まーしー
@@ -108,7 +120,7 @@ articles:
     ext_links:
       -
         href: https://www.pixiv.net/novel/show.php?id=16190901
-        text: pixiv
+        text: 全文リンク
         class: "is-pixiv is-rounded has-text-weight-normal"
         icon: "fa-external-link-alt"
 illusts:
