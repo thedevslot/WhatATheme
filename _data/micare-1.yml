@@ -119,6 +119,12 @@ articles:
       - alt: ふぁぼんサンプル2
         src: /assets/images/micare-1/s-fabon-02.jpg
         thumbnail: /assets/images/micare-1/s-fabon-02-thumb.jpg
+    ext_links:
+      -
+        href: https://yuyusuki.hatenablog.com/entry/2022/10/30/173000
+        text: 全文リンク
+        class: "is-rounded has-text-weight-normal"
+        icon: "fa-external-link-alt"
 illusts:
   - name: 一之瀬めろん
     src: /assets/images/micare-1/melon.png
