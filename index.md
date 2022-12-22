@@ -5,7 +5,7 @@ contact_info:
     - title: 団体名
       info : 東京大学きらら同好会
     - title: 加盟団体
-      info : 東京大学教養学部学友会（加盟申請中）
+      info : 東京大学教養学部学友会
     - title: 会員数
       info : 約86名（2022年4月1日現在）
     - title: 入会方法
