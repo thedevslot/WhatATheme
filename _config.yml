@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Jaime Villaseñor
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Astronomer
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -18,21 +18,22 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+# heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://www.nasa.gov/sites/default/files/thumbnails/image/stsci-01ga76rm0c11w977jrhgj5j26x.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: jaime.villasenor@kuleuven.be
+#facebook_username: thedevslot
+twitter_username: DarthAstronomer
+#instagram_username: thedevslot
+#linkedin_username: thedevslot
+github_username:  jvillasr
+#youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+#reddit_username: /
+#behance_username: /
+#dribbble_username: /
+#spotify_username: /
 
 # Google Analytics
 google-analytics: UA-163806439-1
