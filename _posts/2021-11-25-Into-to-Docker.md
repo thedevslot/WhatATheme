@@ -93,7 +93,7 @@ Docker registry manages and stores the docker Images. There are two types of reg
 * Images became container when they run on Docker  engine.
 
 *Commands:*
-```bash
+``` docker
 yum install docker -y          # to download the docker in Amazon-linux.
 docker images                  # to see all the images inside your local machine.
 docker search <image_name>     # to search the image in docker HUB.
@@ -142,4 +142,35 @@ CMD
 ENTRYPOINT
 ENV
 ARG
+```
+## || Docker Compose ||
+Compose is a tool for defining and running multi-container Docker applications.
+``` docker
+version: '3'
+services:
+  webapp1:
+    image: nginx
+    ports:
+      - "8000:80"
+
+  webapp2:
+    image: nginx
+    ports:
+      - "8001:80"
+```
+
+```docker
+docker-compose start #Starts existing containers for a service.
+
+docker-compose stop #Stops running containers without removing them.
+
+docker-compose pause #Pauses running containers of a service.
+
+docker-compose unpause #Unpauses paused containers of a service.
+
+docker-compose ps #Lists containers.
+
+docker-compose up #Builds, (re)creates, starts, and attaches to containers for a service.
+
+docker-compose down #Stops containers and removes containers, networks, volumes, and images created by up.
 ```
