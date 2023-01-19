@@ -134,7 +134,7 @@ A Dockerfile is a text document that contains all the commands a user could call
 FROM #This can be used to set the base image for the instructions. We need to mention this in the first line of docker file.
 RUN
 MAINTAINER
-COPY
+COPY # copy files from local
 ADD
 eXPOSE
 WORKDIR
