@@ -159,7 +159,7 @@ services:
       - "8001:80"
 ```
 
-```docker
+``` docker
 docker-compose start #Starts existing containers for a service.
 
 docker-compose stop #Stops running containers without removing them.
