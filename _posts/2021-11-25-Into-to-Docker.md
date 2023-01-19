@@ -116,7 +116,7 @@ docker ps -a                   # to see all the containers including in stopped 
 >Inside a container if you want to see the os-release then, cat /etc/os-release.
 >If you want to see the difference between the base image and any changes you have done on it,
 ```bash
-docker diff mycontainer *#here you can give any container name*
+docker diff mycontainer #here you can give any container name*
 ```
 
 ## Create an Image from Container
