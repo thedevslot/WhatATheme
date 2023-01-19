@@ -145,7 +145,7 @@ ARG
 ```
 ## || Docker Compose ||
 Compose is a tool for defining and running multi-container Docker applications.
-``` docker
+``` bash
 version: '3'
 services:
   webapp1:
