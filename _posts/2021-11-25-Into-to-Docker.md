@@ -197,6 +197,8 @@ docker compose push	# Push service images
 docker compose restart	# Restart service containers
 
 ```
+*Example:*
+
 ```bash
 # lets take the above example we have webapp1 and webapp2.
 # NOw we want to scale it up.
