@@ -171,7 +171,28 @@ docker-compose unpause #Unpauses paused containers of a service.
 
 docker-compose ps #Lists containers.
 
+docker compose ls	# List running compose projects
+
 docker-compose up #Builds, (re)creates, starts, and attaches to containers for a service.
 
 docker-compose down #Stops containers and removes containers, networks, volumes, and images created by up.
+
+docker-compose create # Creates containers for a service.
+
+docker compose version	# Show the Docker Compose version information
+
+docker compose kill	# Force stop service containers.
+
+docker compose logs	# View output from containers.
+
+docker compose port	# Print the public port for a port binding.
+
+docker compose rm	# Removes stopped service containers
+
+docker compose pull	# Pull service images
+
+docker compose push	# Push service images
+
+docker compose restart	# Restart service containers
+
 ```
