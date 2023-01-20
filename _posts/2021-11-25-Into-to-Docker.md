@@ -158,6 +158,7 @@ services:
     ports:
       - "8001:80"
 ```
+*Commands*
 
 ``` docker
 docker-compose start #Starts existing containers for a service.
