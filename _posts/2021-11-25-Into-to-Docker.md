@@ -93,7 +93,7 @@ Docker registry manages and stores the docker Images. There are two types of reg
 * Images became container when they run on Docker  engine.
 
 *Commands:*
-```bash
+``` docker
 yum install docker -y          # to download the docker in Amazon-linux.
 docker images                  # to see all the images inside your local machine.
 docker search <image_name>     # to search the image in docker HUB.
@@ -116,7 +116,7 @@ docker ps -a                   # to see all the containers including in stopped 
 >Inside a container if you want to see the os-release then, cat /etc/os-release.
 >If you want to see the difference between the base image and any changes you have done on it,
 ```bash
-docker diff mycontainer *#here you can give any container name*
+docker diff mycontainer #here you can give any container name*
 ```
 
 ## Create an Image from Container
@@ -134,7 +134,7 @@ A Dockerfile is a text document that contains all the commands a user could call
 FROM #This can be used to set the base image for the instructions. We need to mention this in the first line of docker file.
 RUN
 MAINTAINER
-COPY
+COPY # copy files from local
 ADD
 eXPOSE
 WORKDIR
@@ -142,4 +142,35 @@ CMD
 ENTRYPOINT
 ENV
 ARG
+```
+## || Docker Compose ||
+Compose is a tool for defining and running multi-container Docker applications.
+``` bash
+version: '3'
+services:
+  webapp1:
+    image: nginx
+    ports:
+      - "8000:80"
+
+  webapp2:
+    image: nginx
+    ports:
+      - "8001:80"
+```
+
+``` docker
+docker-compose start #Starts existing containers for a service.
+
+docker-compose stop #Stops running containers without removing them.
+
+docker-compose pause #Pauses running containers of a service.
+
+docker-compose unpause #Unpauses paused containers of a service.
+
+docker-compose ps #Lists containers.
+
+docker-compose up #Builds, (re)creates, starts, and attaches to containers for a service.
+
+docker-compose down #Stops containers and removes containers, networks, volumes, and images created by up.
 ```
