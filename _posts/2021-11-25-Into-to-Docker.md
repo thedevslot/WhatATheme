@@ -196,3 +196,11 @@ docker compose push	# Push service images
 docker compose restart	# Restart service containers
 
 ```
+```bash
+# lets take the above example we have webapp1 and webapp2.
+# NOw we want to scale it up.
+
+docker compose scale webapp1 =4 webapp2=4
+
+# The above command will create total 8 containers (4 webapp1 & 4 webapp2)
+```
