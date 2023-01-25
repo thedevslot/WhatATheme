@@ -224,4 +224,4 @@ docker node inspect worker01 | less
 docker node promote worker01 worker02 # promote worker node to master
 docker node demote worker01 worker02 # demote worker node
 ```
-![dockermaster](assets/images/dockermaster.jpg)
+![dockermaster](/assets/images/dockermaster.jpg)
