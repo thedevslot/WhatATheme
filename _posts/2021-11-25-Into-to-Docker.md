@@ -207,3 +207,13 @@ docker compose scale webapp1 =4 webapp2=4
 
 # The above command will create total 8 containers (4 webapp1 & 4 webapp2)
 ```
+
+## || Docker Swarm ||
+``` bash
+docker swarm init  # initialize the machine as a master node.
+docker info # gives all information
+docker info | head -50 # gives the info and somewhere shows the docker swarm status.
+
+```
+
+![docker master](assets/images/docker master.jpg)
