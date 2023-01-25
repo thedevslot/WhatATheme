@@ -215,5 +215,6 @@ docker info # gives all information
 docker info | head -50 # gives the info and somewhere shows the docker swarm status.
 
 ```
+we have to run the command in our machines to make it a node and join with our master node.
 
 ![docker master](assets/images/docker master.jpg)
