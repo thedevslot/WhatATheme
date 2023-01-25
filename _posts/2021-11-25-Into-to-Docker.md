@@ -217,4 +217,4 @@ docker info | head -50 # gives the info and somewhere shows the docker swarm sta
 ```
 we have to run the command in our machines to make it a node and join with our master node.
 
-![docker master](assets/images/dockermaster.jpg)
+![dockermaster](assets/images/dockermaster.jpg)
