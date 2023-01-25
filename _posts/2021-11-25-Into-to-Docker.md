@@ -213,4 +213,4 @@ docker compose scale webapp1 =4 webapp2=4
 docker swarm init
 docker swarm info
 ```
-![dockermaster](assets/images/dockermaster.jpg)
+![dockermaster](images/dockermaster.jpg)
