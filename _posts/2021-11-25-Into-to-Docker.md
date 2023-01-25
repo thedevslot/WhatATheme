@@ -212,5 +212,9 @@ docker compose scale webapp1 =4 webapp2=4
 ``` bash
 docker swarm init
 docker swarm info
+docker node ls # lists all nodes
+docker swarm join-token manager # join as master
+docker swarm join-token worker #join as a worker
+docker swarm leave # to leave from cluster
 ```
 ![dockermaster](assets/images/dockermaster.jpg)
