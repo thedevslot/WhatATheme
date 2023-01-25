@@ -208,6 +208,7 @@ docker compose scale webapp1 =4 webapp2=4
 ```
 
 ## || Docker Compose ||
+*Assume 3 machines master worker01 and worker02*
 
 ``` bash
 docker swarm init
@@ -216,5 +217,11 @@ docker node ls # lists all nodes
 docker swarm join-token manager # join as master
 docker swarm join-token worker #join as a worker
 docker swarm leave # to leave from cluster
+docker node rm worker01 # to remove node from cluster
+docker node rm worker02 # to force remove node from cluster
+docker node inspect worker01 #inspect node worker01
+docker node inspect worker01 | less
+docker node promote worker01 worker02 # promote worker node to master
+docker node demote worker01 worker02 # demote worker node
 ```
 ![dockermaster](assets/images/dockermaster.jpg)
