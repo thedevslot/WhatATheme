@@ -227,4 +227,4 @@ docker service ls # list all services.
 docker service scale 9m=7 # here 9m is service_ID & this command scale the replicas to 7.
 docker service create -d --replicas 4 alpine ping 192.168.25.10 # create a service named alpine and ping the IP
 ```
-![dockermaster](/assets/images/dockermaster.jpg)
+![dockermaster](assets/images/dockermaster.jpg)
