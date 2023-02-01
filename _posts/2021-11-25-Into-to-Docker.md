@@ -207,7 +207,7 @@ docker compose scale webapp1 =4 webapp2=4
 # The above command will create total 8 containers (4 webapp1 & 4 webapp2)
 ```
 
-## || Docker Compose ||
+## || Docker Swarm ||
 *Assume 3 machines master worker01 and worker02*
 
 ``` bash
@@ -223,5 +223,8 @@ docker node inspect worker01 #inspect node worker01
 docker node inspect worker01 | less
 docker node promote worker01 worker02 # promote worker node to master
 docker node demote worker01 worker02 # demote worker node
+docker service ls # list all services.
+docker service scale 9m=7 # here 9m is service_ID & this command scale the replicas to 7.
+docker service create -d --replicas 4 alpine ping 192.168.25.10 # create a service named alpine and ping the IP
 ```
 ![dockermaster](/assets/images/dockermaster.jpg)
