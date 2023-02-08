@@ -241,7 +241,7 @@ sudo docker volume rm myvolume # it removes volume "myvolume".
 sudo docker volume prune # It remove all local volume not used by atleast any one container.
 ```
 #There are two ways we can use volume while creating container. we can use --mount or --volume.
-\n
+
 #We can use mount flag with bind mount and tmfs 
 ```bash
 sudo docker run --it -d -name containerA --mount source=vol1,target=/apps ubuntu
