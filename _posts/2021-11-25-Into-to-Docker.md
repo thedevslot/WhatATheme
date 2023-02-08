@@ -232,3 +232,22 @@ docker service create -d --replicas 4 alpine ping 192.168.25.10 # create a servi
 
 ## || Docker Volume ||
 Docker vloumes are persistent storage locations for the containers and managed by docker completely. It can be easily attached and removed from containers. We can back up our volumes as well.
+``` bash
+sudo docker volume create myvolume #create a docker volume named my volume
+sudo docker volume ls # list all the volume in machine.
+sudo docker volume inspect myvolume # it gives volume information.
+# mountpoint is the particular place inside the host, where docker assigned the volume.
+sudo docker volume rm myvolume # it removes volume "myvolume".
+sudo docker volume prune # It remove all local volume not used by atleast any one container.
+```
+#there are two ways we can use volume while creating container. we can use --mount or --volume.
+#we can use mount flag with bind mount and tmfs 
+```bash
+sudo docker run --it -d -name containerA --mount source=vol1,target=/apps ubuntu
+sudo docker run --it -d -name containerB --volume vol2:/apps ubuntu
+```
+#we can create read-only volume.
+``` bash
+sudo docker volume create myvolumeRO # create a read-only volume named "myvolumeRO"
+sudo docker run --it -d -name containerC --mount source=vol3,target=/apps,readonly ubuntu
+```
