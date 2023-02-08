@@ -229,3 +229,6 @@ docker service create -d --replicas 4 alpine ping 192.168.25.10 # create a servi
 ```
 
 ![dockermaster](/assets/images/dockermaster.jpg)
+
+## || Docker Volume ||
+Docker vloumes are persistent storage locations for the containers and managed by docker completely. It can be easily attached and removed from containers. We can back up our volumes as well.
