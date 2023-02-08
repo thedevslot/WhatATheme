@@ -240,13 +240,14 @@ sudo docker volume inspect myvolume # it gives volume information.
 sudo docker volume rm myvolume # it removes volume "myvolume".
 sudo docker volume prune # It remove all local volume not used by atleast any one container.
 ```
-#there are two ways we can use volume while creating container. we can use --mount or --volume.
-#we can use mount flag with bind mount and tmfs 
+#There are two ways we can use volume while creating container. we can use --mount or --volume.
+\n
+#We can use mount flag with bind mount and tmfs 
 ```bash
 sudo docker run --it -d -name containerA --mount source=vol1,target=/apps ubuntu
 sudo docker run --it -d -name containerB --volume vol2:/apps ubuntu
 ```
-#we can create read-only volume.
+#We can create readonly volume.
 ``` bash
 sudo docker volume create myvolumeRO # create a read-only volume named "myvolumeRO"
 sudo docker run --it -d -name containerC --mount source=vol3,target=/apps,readonly ubuntu
