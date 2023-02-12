@@ -250,7 +250,7 @@ sudo docker run --it -d -name containerB --volume vol2:/apps ubuntu
 #We can create readonly volume.
 ``` bash
 sudo docker volume create myvolumeRO # create a read-only volume named "myvolumeRO"
-sudo docker run --it -d -name containerC --mount source=vol3,target=/apps,readonly ubuntu
+sudo docker run --it -d -name containerC --mount source=myvolumeRO,target=/apps,readonly ubuntu
 ```
 
 ## || Bind Mount ||
