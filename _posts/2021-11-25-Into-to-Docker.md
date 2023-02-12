@@ -282,4 +282,4 @@ docker network is a connection in between one or more containers
 One advantage is we can connect docker containers  together, or connect them to non-Docker workloads.
 
 ### Types of Docker Network
-![Docker Networking](/assets/images/assets/images/docker_networking.jpg)
+![Docker Networking](/assets/images/docker_networking.jpg)
