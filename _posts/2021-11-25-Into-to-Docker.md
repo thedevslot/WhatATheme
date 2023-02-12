@@ -276,4 +276,10 @@ sudo docker run -d -it --name containerD --mount type=bind,source="$(pwd)"/targe
 ```bash
 sudo docker run -d -it --name tmptest --mount type=tmpfs,destination=/apps ubuntu
   ```
+## || Docker Network ||
+docker network is a connection in between one or more containers 
 
+One advantage is we can connect docker containers  together, or connect them to non-Docker workloads.
+
+### Types of Docker Network
+![Docker Networking](/assets/images/assets/images/docker_networking.jpg)
