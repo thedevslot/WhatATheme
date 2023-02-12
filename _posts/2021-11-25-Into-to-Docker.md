@@ -264,3 +264,16 @@ sudo docker run --it -d -name containerC --mount source=myvolumeRO,target=/apps,
 ```bash
 sudo docker run -d -it --name containerD --mount type=bind,source="$(pwd)"/target,target=/apps ubuntu
 ```
+## || Tmpfs Mount ||
+ Tmpfs is not persistent like volumes and tmpfs and get removed when container to which they are attached are stopped.
+
+
+### Limitations of tmpfs mounts :
+* Unlike volumes and bind mounts, you can’t share tmpfs mounts between containers.
+
+* This functionality is only available if you’re running Docker on Linux.
+
+```bash
+sudo docker run -d -it --name tmptest --mount type=tmpfs,destination=/apps ubuntu
+  ```
+
