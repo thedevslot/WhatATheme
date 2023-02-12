@@ -252,3 +252,15 @@ sudo docker run --it -d -name containerB --volume vol2:/apps ubuntu
 sudo docker volume create myvolumeRO # create a read-only volume named "myvolumeRO"
 sudo docker run --it -d -name containerC --mount source=vol3,target=/apps,readonly ubuntu
 ```
+
+## || Bind Mount ||
+* When you use a bind mount, a file or directory on the host machine is mounted into a container.
+
+* The file or directory is referenced by its absolute path on the host machine. 
+
+* *By contrast, when you use a volume, a new directory is created within Docker’s storage directory on the host machine, and Docker manages that directory’s contents.*
+
+
+```bash
+sudo docker run -d -it --name containerD --mount type=bind,source="$(pwd)"/target,target=/apps ubuntu
+```
