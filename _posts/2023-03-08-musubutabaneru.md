@@ -3,7 +3,7 @@ title: "東京大学きらら同好会合同誌 結ぶ、束ねる。"
 layout: post
 description: "東京大学きらら同好会合同誌「結ぶ、束ねる。」の紹介ページです。"
 kokuchi: "2023年3月18日（土曜日）ぼっち・ざ・ろっく！オンリーイベント「ぼっち・ざ・おんりー！」No.37にて、東京大学きらら同好会の合同誌「結ぶ、束ねる。」を頒布します。"
-post-image: "/assets/images/musubutabaneru/main.png"
+post-image: "/assets/images/musubutabaneru/main.jpg"
 ---
 
 2023年3月18日（土曜日）ぼっち・ざ・ろっく！オンリーイベント「[ぼっち・ざ・おんりー！](https://bocchitheonly.bufsiz.jp)」No.37にて、東京大学きらら同好会の合同誌「結ぶ、束ねる。」を頒布します。
@@ -11,10 +11,10 @@ post-image: "/assets/images/musubutabaneru/main.png"
 <br>
 <div class="columns is-centered is-multiline">
     <div class="column is-one-fifth-desktop is-one-third-tablet">
-        <a href="/assets/images/musubutabaneru/cover.png" data-lightbox="cover" data-lightbox-webp="/assets/images/musubutabaneru/cover.webp">
+        <a href="/assets/images/musubutabaneru/cover.jpg" data-lightbox="cover" data-lightbox-webp="/assets/images/musubutabaneru/cover.webp">
             <picture>
                 <source type="image/webp" srcset="/assets/images/musubutabaneru/cover.webp">
-                <img src="/assets/images/musubutabaneru/cover.png" alt="結ぶ、束ねる。" style="width: 75%; max-width: 250px">
+                <img src="/assets/images/musubutabaneru/cover.jpg" alt="結ぶ、束ねる。" style="width: 75%; max-width: 250px">
             </picture>
         </a>
     </div>
