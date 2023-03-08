@@ -35,6 +35,9 @@ photos_manga:
     page_img: [] # TODO
 
 illusts:
+  - name: えんでん
+    twitter: enden_nix
+    src: /assets/images/musubutabaneru/i-enden_nix.png
   - name: 柳一
     twitter: yanagik218
     src: /assets/images/musubutabaneru/i-yanagik218.png
