@@ -1,0 +1,126 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "type": "object",
+  "properties": {
+    "articles": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Article"
+      }
+    },
+    "photos_manga": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Article"
+      }
+    },
+    "illusts": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Illust"
+      }
+    }
+  },
+  "required": ["articles", "photos_manga", "illusts"],
+  "definitions": {
+    "Article": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "authors": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Author"
+          }
+        },
+        "desc": {
+          "type": "string"
+        },
+        "page_img": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Image"
+          }
+        },
+        "badge": {
+          "type": "string"
+        },
+        "ext_links": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Link"
+          }
+        }
+      },
+      "required": ["title", "authors", "desc", "page_img"]
+    },
+    "Illust": {
+      "type": "object",
+      "properties": {
+        "src": {
+          "type": "string",
+          "format": "uri"
+        },
+        "name": {
+          "type": "string"
+        },
+        "twitter": {
+          "type": "string",
+          "maxLength": 15
+        }
+      },
+      "required": ["src", "name"]
+    },
+    "Author": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "twitter": {
+          "type": "string",
+          "maxLength": 15
+        }
+      },
+      "required": ["name"]
+    },
+    "Image": {
+      "type": "object",
+      "properties": {
+        "src": {
+          "type": "string",
+          "format": "uri"
+        },
+        "alt": {
+          "type": "string"
+        },
+        "thumbnail": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": ["src", "alt"]
+    },
+    "Link": {
+      "type": "object",
+      "properties": {
+        "href": {
+          "type": "string",
+          "format": "uri"
+        },
+        "icon": {
+          "type": "string"
+        },
+        "class": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string"
+        }
+      },
+      "required": ["href", "icon", "class", "text"]
+    }
+  }
+}
