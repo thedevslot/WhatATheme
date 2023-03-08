@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=./book.json#
+
+articles:
+  - title: 後藤ひとり通学考察
+    authors:
+      - name: ちさとし
+        twitter: cst_oshino
+    desc: "" #TODO
+    page_img: [] # TODO
+  - title: 青春コンプレックス
+    authors:
+      - name: ふぁぼん
+        twitter: syobon_hinata
+    desc: "" #TODO
+    page_img: [] # TODO
+
+photos_manga:
+  - title: シーシュポスにも朝は降る
+    authors:
+      - name: K. 汝水
+        twitter: tactfully28
+    desc: "" #TODO
+    page_img: [] # TODO
+  - title: ぼっち・ざ・あかでみっく！
+    authors:
+      - name: ひろみね
+        twitter: karakorum_3
+    desc: "" #TODO
+    page_img: [] # TODO
+  - title: 甘さ控えめ
+    authors:
+      - name: 500mL
+        twitter: 0500mL
+    desc: "" #TODO
+    page_img: [] # TODO
+
+illusts:
+  - name: 柳一
+    twitter: yanagik218
+    src: /assets/images/musubutabaneru/i-yanagik218.png
