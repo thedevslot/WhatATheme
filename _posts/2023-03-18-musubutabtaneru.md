@@ -41,7 +41,7 @@ post-image: "/assets/images/musubutabaneru/main.png"
        icon_name="fa-angle-double-down"
        text="Articles" %}
     {% include button.html
-       href="#photographs-and-manga"
+       href="#manga"
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
        text="Photographs and Manga" %}
@@ -68,7 +68,7 @@ post-image: "/assets/images/musubutabaneru/main.png"
 
 {% include detail-article.html articles=site.data.musubutabaneru.articles %}
 
-## Photographs and Manga
+## Manga
 
 {% include detail-article.html articles=site.data.musubutabaneru.photos_manga %}
 
