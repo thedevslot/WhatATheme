@@ -7,6 +7,12 @@ articles:
         twitter: cst_oshino
     desc: "" #TODO
     page_img: [] # TODO
+  - title: bozaro.vercel.app
+    authors:
+      - name: kn1cht
+        twitter: kn1cht
+    desc: "" #TODO
+    page_img: [] # TODO
   - title: 青春コンプレックス
     authors:
       - name: ふぁぼん
