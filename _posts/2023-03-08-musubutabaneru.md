@@ -2,11 +2,11 @@
 title: "東京大学きらら同好会合同誌 結ぶ、束ねる。"
 layout: post
 description: "東京大学きらら同好会合同誌「結ぶ、束ねる。」の紹介ページです。"
-kokuchi: "2023年3月18日（土曜日）ぼっち・ざ・おんりー！にて、東京大学きらら同好会の合同誌「結ぶ、束ねる。」を頒布します。"
+kokuchi: "2023年3月18日（土曜日）ぼっち・ざ・ろっく！オンリーイベント「ぼっち・ざ・おんりー！」No.37にて、東京大学きらら同好会の合同誌「結ぶ、束ねる。」を頒布します。"
 post-image: "/assets/images/musubutabaneru/main.png"
 ---
 
-2023年3月18日（土曜日）[ぼっち・ざ・おんりー！](https://bocchitheonly.bufsiz.jp) にて、東京大学きらら同好会の合同誌「結ぶ、束ねる。」を頒布します。
+2023年3月18日（土曜日）ぼっち・ざ・ろっく！オンリーイベント「[ぼっち・ざ・おんりー！](https://bocchitheonly.bufsiz.jp)」No.37にて、東京大学きらら同好会の合同誌「結ぶ、束ねる。」を頒布します。
 
 <br>
 <div class="columns is-centered is-multiline">
@@ -25,7 +25,7 @@ post-image: "/assets/images/musubutabaneru/main.png"
            circle_href="/"
            specification="B5サイズ 42ページ（本文二色刷り、巻頭カラー2p）"
            release_date="2023年3月18日"
-           booth="2023年3月「ぼっち・ざ・おんりー！」"
+           booth="2023年3月「ぼっち・ざ・おんりー！」No.37"
            price="1000円（会場）　1,430円（委託・税込）"
            store="メロンブックス"
 
