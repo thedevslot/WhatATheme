@@ -37,15 +37,15 @@ post-image: "/assets/images/musubutabaneru/main.png"
 <div class="columns is-centered is-multiline">
     {% comment %}
     {% include button.html
-       href="#articles"
+       href="#articles-and-short-stories"
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
-       text="Articles" %}
+       text="Articles and Short Stories" %}
     {% include button.html
        href="#manga"
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
-       text="Photographs and Manga" %}
+       text="Manga" %}
     {% include button.html
        href="#illustrations"
        class="is-dark is-rounded has-text-weight-normal"
@@ -68,7 +68,7 @@ post-image: "/assets/images/musubutabaneru/main.png"
 
 {% comment %}
 
-## Articles
+## Articles and Short Stories
 
 {% include detail-article.html articles=site.data.musubutabaneru.articles %}
 
