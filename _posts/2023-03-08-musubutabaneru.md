@@ -28,7 +28,7 @@ post-image: "/assets/images/musubutabaneru/main.png"
            booth="2023年3月「ぼっち・ざ・おんりー！」No.37"
            price="1000円（会場）　1,430円（委託・税込）"
            store="メロンブックス"
-
+           store_href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1869968"
            isdn="278-4-535539-02-7"
            isdn_href="https://isdn.jp/2784535539027" %}
     </div>
@@ -51,13 +51,13 @@ post-image: "/assets/images/musubutabaneru/main.png"
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
        text="Illustrations" %}
+    {% endcomment %}
     {% include button.html
-       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=[TODO]"
+       href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1869968"
        blank=true
        class="is-melon is-rounded has-text-weight-normal"
        icon_name="fa-external-link-alt"
        text="メロンブックス" %}
-    {% endcomment %}
     {% include button.html
        href="https://bocchitheonly.bufsiz.jp/circle_list.html"
        blank=true
