@@ -35,7 +35,6 @@ post-image: "/assets/images/musubutabaneru/main.jpg"
 </div>
 
 <div class="columns is-centered is-multiline">
-    {% comment %}
     {% include button.html
        href="#articles-and-short-stories"
        class="is-dark is-rounded has-text-weight-normal"
@@ -51,7 +50,6 @@ post-image: "/assets/images/musubutabaneru/main.jpg"
        class="is-dark is-rounded has-text-weight-normal"
        icon_name="fa-angle-double-down"
        text="Illustrations" %}
-    {% endcomment %}
     {% include button.html
        href="https://www.melonbooks.co.jp/detail/detail.php?product_id=1869968"
        blank=true
@@ -66,7 +64,6 @@ post-image: "/assets/images/musubutabaneru/main.jpg"
        text="ぼっち・ざ・おんりー！ サークルリスト" %}
 </div>
 
-{% comment %}
 
 ## Articles and Short Stories
 
@@ -79,5 +76,3 @@ post-image: "/assets/images/musubutabaneru/main.jpg"
 ## Illustrations
 
 {% include detail-illust.html illusts=site.data.musubutabaneru.illusts %}
-
-{% endcomment %}
