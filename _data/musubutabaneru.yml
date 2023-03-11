@@ -5,45 +5,67 @@ articles:
     authors:
       - name: ちさとし
         twitter: cst_oshino
-    desc: "" #TODO
-    page_img: [] # TODO
+    desc: 2時間かけて通学するぼっちちゃんの通学経路を大考察！　記事の通りに電車に乗ればぼっちちゃんに会えるかも？
+    page_img:
+      - alt: 1
+        src: /assets/images/musubutabaneru/chisatoshi-1.jpg
+        thumbnail: /assets/images/musubutabaneru/chisatoshi-1-thumb.jpg
   - title: bozaro.vercel.app
     authors:
       - name: kn1cht
         twitter: kn1cht
-    desc: "" #TODO
-    page_img: [] # TODO
+    desc: "#ぼっちちゃんよくばりセット として配布された数々のコマ画像を一覧し、ボタン1つでツイートを作成できる bozaro.vercel.app の技術解説記事。Twitterの謎仕様に振り回される筆者が見どころです。"
+    page_img:
+      - alt: 1
+        src: /assets/images/musubutabaneru/kn1cht-1.jpg
+        thumbnail: /assets/images/musubutabaneru/kn1cht-1-thumb.jpg
   - title: 青春コンプレックス
     authors:
       - name: ふぁぼん
         twitter: syobon_hinata
-    desc: "" #TODO
-    page_img: [] # TODO
+    desc: |-
+      結束バンドもそろそろ3周年。新曲の作詞を頼まれたぼっちちゃんは、コンセプトの「節目にふさわしい曲」に大苦戦中。
+      切羽詰まったぼっちちゃんは、リョウ先輩に相談することにしたのですが……。
+    page_img:
+      - alt: 1
+        src: /assets/images/musubutabaneru/fabon-1.jpg
+        thumbnail: /assets/images/musubutabaneru/fabon-1-thumb.jpg
 
 photos_manga:
   - title: シーシュポスにも朝は降る
     authors:
       - name: K. 汝水
         twitter: tactfully28
-    desc: "" #TODO
-    page_img: [] # TODO
+    desc: くしゃみをするぼっちちゃん、加速器を建造するぼっちちゃん、廣井きくりに絡まれるぼっちちゃん.......。ぼっちちゃんを変形させながら現代世界の諸課題と人間の在り方を洞察する4コマ漫画5本の詰め合わせです。不条理を生きる人間存在の苦悩と喜びは一体どこにあるのでしょうか？
+    page_img:
+      - alt: 1
+        src: /assets/images/musubutabaneru/jyosui-1.jpg
+        thumbnail: /assets/images/musubutabaneru/jyosui-1-thumb.jpg
   - title: ぼっち・ざ・あかでみっく！
     authors:
       - name: ひろみね
         twitter: karakorum_3
-    desc: "" #TODO
-    page_img: [] # TODO
+    desc: ぼざろに山ほどある印象的なシーン、研究生活と似た部分もあるような？そんなネタを大学院生がコラ画像風にかき集めました。アカデミアに足を踏み入れた学生の心情を結束バンドに代弁してもらいます!?
+    page_img:
+      - alt: 1
+        src: /assets/images/musubutabaneru/broad-peak-1.jpg
+        thumbnail: /assets/images/musubutabaneru/broad-peak-1-thumb.jpg
   - title: 甘さ控えめ
     authors:
       - name: 500mL
         twitter: 0500mL
-    desc: "" #TODO
-    page_img: [] # TODO
+    desc: |-
+      喜多ちゃんと渋谷に来たぼっちちゃん。二人でカフェや服屋さんを回って休日を満喫！
+      ……なんて一筋縄ではいかないようです。凸凹コンビはお出かけを無事成功させられるのでしょうか？
+    page_img:
+      - alt: 1
+        src: /assets/images/musubutabaneru/500ml-1.jpg
+        thumbnail: /assets/images/musubutabaneru/500ml-1-thumb.jpg
 
 illusts:
   - name: えんでん
     twitter: enden_nix
-    src: /assets/images/musubutabaneru/i-enden_nix.png
+    src: /assets/images/musubutabaneru/enden_nix.jpg
   - name: 柳一
     twitter: yanagik218
-    src: /assets/images/musubutabaneru/i-yanagik218.png
+    src: /assets/images/musubutabaneru/yanagik218.jpg
