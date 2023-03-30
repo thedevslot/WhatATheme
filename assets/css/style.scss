@@ -38,27 +38,41 @@ a.navbar-item.is-active {
 }
 
 
-#hero {
-    // background: rgb(0, 0, 0);
-    // background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
-    // background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
-    background: radial-gradient(circle at 50% 50%, #ffb56b, #f39060, #e16b5c, #ca485c, #ac255e, #870160, #5b0060, #1f005c);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
+// #hero {
+//     // background: rgb(0, 0, 0);
+//     // background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
+//     // background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
+//     background: radial-gradient(circle at 50% 50%, #ffb56b, #f39060, #e16b5c, #ca485c, #ac255e, #870160, #5b0060, #1f005c);
+//     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
 
-    &::before {
-        filter: blur(0.15rem);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-attachment: fixed;
-        top: 0px;
-        right: 0px;
-        bottom: 0px;
-        left: 0px;
-        position: absolute;
-        opacity: 0.25;
-        content: "";
-    }
+//     &::before {
+//         filter: blur(0.15rem);
+//         background-position: center;
+//         background-repeat: no-repeat;
+//         background-size: cover;
+//         background-attachment: fixed;
+//         top: 0px;
+//         right: 0px;
+//         bottom: 0px;
+//         left: 0px;
+//         position: absolute;
+//         opacity: 0.25;
+//         content: "";
+//     }
+// }
+
+#hero {
+    background: rgba(0, 0, 0, 0.5);
+    background-image: url("./prokil_oil_painting_impressionism_abstractive_thought_bubbles_469edd05-2ed7-4141-92e8-c91b52ed3143.png");
+}
+#hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(248, 246, 246, 0.2);
 }
 .title {
     margin: auto 0.75rem!important;
