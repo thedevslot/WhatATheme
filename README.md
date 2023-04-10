@@ -1,4 +1,9 @@
-# WhatATheme
+# Contribute to ToM Workshop Website
+
+### New branch for each feature
+`git checkout -b feature/feature-name` and PR to `main` branch.
+
+# Based on WhatATheme
 **WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
 
 #### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
