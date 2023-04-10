@@ -7,6 +7,15 @@
     opacity: 0.95;
 }
 
+.navbar {
+    background:transparent;
+    transition: all 0.5s;
+}
+
+.navbar-menu {
+    background:transparent;
+}
+
 .is-active {
     font-weight: 600;
 }
@@ -15,6 +24,10 @@
     border: none;
     right: 0;
     left: auto;
+}
+.navbar-item {
+    color: white;
+    font-weight: 600;
 }
 
 a.navbar-item:hover,
@@ -35,6 +48,11 @@ a.navbar-item.is-active {
 
 .navbar-link:not(.is-arrowless)::after {
     border-color: grey;
+}
+
+.navbar-scrolled {
+    background: #1f1f1f;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 
@@ -62,7 +80,7 @@ a.navbar-item.is-active {
 // }
 
 #hero {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(250, 249, 249, 0.5);
     background-image: url("./prokil_oil_painting_impressionism_abstractive_thought_bubbles_469edd05-2ed7-4141-92e8-c91b52ed3143.png");
 }
 #hero::before {
@@ -72,12 +90,14 @@ a.navbar-item.is-active {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(248, 246, 246, 0.2);
+    background: rgba(3, 3, 3, 0.3);
 }
 .title {
+    font-size: 5rem;
     margin: auto 0.75rem!important;
 }
 .subtitle {
+    font-size: 4rem;
     letter-spacing: 0.25rem;
 }
 

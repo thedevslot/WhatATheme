@@ -1,4 +1,4 @@
-<nav class="navbar is-black is-fixed-top" role="navigation" aria-label="main navigation" id="navbar">
+<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation" id="navbar">
     <div class="container">
 
         <!-- logo or branding image on left side -->
@@ -15,7 +15,7 @@
         </div>
 
         <!-- children of navbar-menu must be navbar-start and/or navbar-end -->
-        <div class="navbar-menu has-background-black" id="navbar-menu">
+        <div class="navbar-menu" id="navbar-menu">
             <!-- navbar items | left side -->
             <!-- <div class="navbar-start">
             </div> -->
@@ -32,7 +32,6 @@
 
                 <!-- <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/blog">Accepted papers</a> -->
-                {% include dropdown.html %}
             </div>
 
         </div>
@@ -44,6 +43,7 @@
         /* Get all "navbar-burger" elements */
         var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
         /* Check if there are any navbar burgers */
+        console.log($navbarBurgers);
         if ($navbarBurgers.length > 0) {
             /* Add a click event on each of them */
             $navbarBurgers.forEach(function ($el) {
@@ -56,6 +56,15 @@
                     $target.classList.toggle('is-active');
                 });
             });
+        }
+    });
+    const navE1 = document.querySelector('.navbar');
+    window.addEventListener('scroll', () => {
+        console.log(navE1);
+        if (window.scrollY >= 56) {
+            navE1.classList.add('navbar-scrolled')
+        } else if (window.scrollY < 56) { 
+            navE1.classList.remove('navbar-scrolled')
         }
     });
 </script>
