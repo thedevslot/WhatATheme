@@ -12,6 +12,13 @@
     transition: all 0.5s;
 }
 
+@media only screen and (max-width: 940px) { 
+    .navbar {
+        background: #000 !important;
+        color: #fff !important;
+       } 
+}
+
 .navbar-menu {
     background:transparent;
 }
@@ -90,8 +97,9 @@ a.navbar-item.is-active {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(3, 3, 3, 0.3);
+    background: radial-gradient(circle at center, rgba(3,3,3,0.6) 10%, rgba(3,3,3,0)), linear-gradient(to top, rgba(3,3,3,0), 90%, rgba(3,3,3,0.4));; 
 }
+
 .title {
     font-size: 5rem;
     margin: auto 0.75rem!important;
