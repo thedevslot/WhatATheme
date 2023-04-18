@@ -7,7 +7,7 @@ contact_info:
     - title: 加盟団体
       info : 東京大学教養学部学友会
     - title: 会員数
-      info : 約86名（2022年4月1日現在）
+      info : 約90名（2023年4月18日現在）
     - title: 入会方法
       info : <a href="https://forms.gle/wV19XLcv38hD6tqd9" target="_blank" rel="noopener noreferrer">入会申請フォーム</a>（ECCSアカウントでアクセスしてください）
     - title: お問い合わせ
