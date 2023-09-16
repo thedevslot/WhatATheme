@@ -288,6 +288,8 @@ One advantage is we can connect docker containers  together, or connect them to 
 ### Bridge:
 The default network driver. If you don’t specify a driver, this is the type of network you are creating. Bridge networks are usually used when your applications run in standalone containers that need to communicate
 
+Here an internal private network is getting created, which is attached to docker host and containers.
+
 ### Host: 
 For standalone containers, remove network isolation between the container and the Docker host, and use the host’s networking directly
 
