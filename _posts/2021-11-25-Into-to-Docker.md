@@ -116,7 +116,7 @@ docker ps -a                   # to see all the containers including in stopped 
 >Inside a container if you want to see the os-release then, cat /etc/os-release.
 >If you want to see the difference between the base image and any changes you have done on it,
 ```bash
-docker diff mycontainer #here you can give any container name*
+docker diff mycontainer #Here you can give any container name*
 ```
 
 ## Create an Image from Container
@@ -289,9 +289,16 @@ One advantage is we can connect docker containers  together, or connect them to 
  * The default network driver. If you don’t specify a driver, this is the type of network you are creating. Bridge networks are usually used when your applications run in standalone containers that need to communicate
 
  * Here an internal private network is getting created, which is attached to docker host and containers.
+ 
 
 ### Host: 
 For standalone containers, remove network isolation between the container and the Docker host, and use the host’s networking directly
+
+here the container is attached to the host network itself and there is no network  isolation in between the host and container 
+
+```
+docker run --network host nginx
+```
 
 ### Overlay: 
 Overlay networks connect multiple Docker daemons together and enable swarm services to communicate with each other. You can also use overlay networks to facilitate communication between a swarm service and a standalone container, or between two standalone containers on different Docker daemons. This strategy removes the need to do OS-level routing between these containers
@@ -301,3 +308,11 @@ Macvlan networks allow you to assign a MAC address to a container, making it app
 
 ### None: 
 For this container, disable all networking. Usually used in conjunction with a custom network driver. none is not available for swarm services.
+```
+docker run --network none nginx
+```
+```bash
+docker network ls # list all networks
+ip link
+ipnetns
+```
