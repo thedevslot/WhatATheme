@@ -1,7 +1,7 @@
 ---
 title: Shell
 layout: post
-post-image: "/assets/image.drawio"
+post-image: "/assets/images/shell scripting.jpeg"
 description: A Basic Introduction to Shell Script
 tags:
 - DevOps
