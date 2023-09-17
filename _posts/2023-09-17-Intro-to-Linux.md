@@ -1,11 +1,11 @@
 ---
-title: Linux
+title: Shell
 layout: post
 post-image: "/assets/image.drawio"
-description: A Basic Introduction to Linux
+description: A Basic Introduction to Shell Script
 tags:
 - DevOps
-- Linux
+- Shell Script
 ---
 
 ### Command:
