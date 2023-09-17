@@ -1,7 +1,7 @@
 ---
 title: Linux
 layout: post
-post-image: "abinashgit005/abinashgit005.github.io/assets/image.drawio"
+post-image: "/assets/image.drawio"
 description: A Basic Introduction to Linux
 tags:
 - DevOps
