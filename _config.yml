@@ -44,7 +44,8 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Jaime Villaseñor
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+# author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://github.com/jvillasr/jvillasr.github.io/blob/master/img/20210614_135355.jpg
 # 60 Words About the Author
 author-about: about the author (by JIV)
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
