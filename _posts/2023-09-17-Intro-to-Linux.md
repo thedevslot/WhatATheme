@@ -1,5 +1,5 @@
 ---
-title: Shell
+title: Bash Scripting
 layout: post
 post-image: "/assets/images/shellscripting.jpeg"
 description: A Basic Introduction to Shell Script
