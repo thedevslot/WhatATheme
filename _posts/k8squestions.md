@@ -4,7 +4,7 @@ post-image: "/assets/images/questiomark_symbol.jpg"
 description: set of questions for reference.
 tags:
 - DevOps
-- Shell Script
+- Kubernetes questions
 ---
 
 # All The Best
