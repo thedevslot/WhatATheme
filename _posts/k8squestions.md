@@ -1,6 +1,6 @@
 title: Kubernetes Questions
 layout: post
-post-image: "/assets/images/shellscripting.jpeg"
+post-image: "/assets/images/questiomark_symbol.jpg"
 description: set of questions for reference.
 tags:
 - DevOps
