@@ -12,6 +12,8 @@ contact_info:
       info : <a href="https://forms.gle/wV19XLcv38hD6tqd9" target="_blank" rel="noopener noreferrer">入会申請フォーム</a>（ECCSアカウントでアクセスしてください）
     - title: お問い合わせ
       info : <a href="https://twitter.com/UTKiraraCircle" target="_blank" rel="noopener noreferrer">公式Twitterアカウント</a>
+    - title: 規約
+      info : <a href="/assets/misc/東京大学きらら同好会会則_v20220330.pdf" target="_blank" rel="noopener noreferrer">規約(PDFファイル)</a>
     - title: 代表
       info : <a href="https://twitter.com/0500mL" target="_blank" rel="noopener noreferrer">500mL</a>
     - title: 設立
