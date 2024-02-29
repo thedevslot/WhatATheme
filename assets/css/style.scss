@@ -304,6 +304,7 @@ a.navbar-item.is-active {
     }
     #post-image {
         border-radius: 0.25rem;
+        object-fit: contain;
     }
     .subtitle {
         letter-spacing: 0.05rem;
