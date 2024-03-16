@@ -276,15 +276,29 @@ a.navbar-item.is-active {
         transform: scale(0.95);
         transition: all 0.5s ease;
         margin-bottom: 0.5rem !important;
-        display: inline-table;
+        display: flex;
+        flex-direction: column;
         &:hover {
             transform: scale(0.975);
+        }
+        > a {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
         }
     }
     .card {
         transition: all 0.25s ease;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
         &:hover {
             background-color: rgba($color: #000000, $alpha: 0.90)!important;
+        }
+        > div {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
         }
     }
 }
