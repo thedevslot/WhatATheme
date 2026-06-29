@@ -2,10 +2,12 @@
 layout: compress
 ---
 [
-  {% for post in site.posts %}
+  {% assign game_posts = site.posts | where: "content_type", "game" %}
+  {% for post in game_posts %}
     {
       "title"    : "{{ post.title | escape }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
+      "category" : "{{ post.game_category }}",
       "url"      : "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: '%-B %d, %Y' }}",
       "description" : "{{ post.description | strip_newlines | strip_html | strip | escape }}",

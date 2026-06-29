@@ -1,0 +1,12 @@
+- name: Nutri-Planner
+  image: https://luo63211.github.io/images/Nutri-Planner/half.png
+  link: https://luo63211.github.io/game/Nutri-Planner/
+  description: A meal planning simulation game based on principles of nutrition using Unity.
+- name: Self-Proof
+  link: https://luo63211.github.io/game/Self-Proof/
+  image: https://luo63211.github.io/images/Self-Proof/half.png
+  description: A narrative game inspired by personal love experiences using Unity.
+- name: Order
+  link: https://luo63211.github.io/game/Order/
+  image: https://luo63211.github.io/images/order/Half.png
+  description: A pen-and-paper puzzle board game inspired by mathematical aesthetics.

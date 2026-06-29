@@ -1,0 +1,4 @@
+- name: 42
+  image: https://luo63211.github.io/images/42/half.png
+  link: https://luo63211.github.io/inst/inst-project-42/
+  description: A music-to-light performance installation using Arduino.

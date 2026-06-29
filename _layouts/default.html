@@ -10,7 +10,30 @@ layout: compress
   {% include navbar.html %}
   {% include showcase.html %}
   {% include about.html %}
-  {% include contact.html %}
+   <!--project-->
+    <section class="hero is-fullheight" id="project">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Game Projects</p>
+                </div>
+                {% include project-card-game.html %}
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Architecture Projects</p>
+                </div>
+                {% include project-card-arch.html %}
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Installation Projects</p>
+                </div>
+                {% include project-card-inst.html %}
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Document Projects</p>
+                </div>
+                {% include project-card-doc.html %}
+            </div>
+        </div>
+    </section>
+  <!-- {% include contact.html %} -->
   <!--Footer begins here-->
   {% include footer.html %}
 </body>
@@ -37,5 +60,6 @@ layout: compress
     }
   });
 </script>
+
 
 </html>

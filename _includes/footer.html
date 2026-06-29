@@ -18,7 +18,7 @@
                         <div class="column is-marginless">
                             <h5 class="has-text-grey-lighter">{{site.author-name}}</h5>
                             <div class="content has-text-grey">
-                                <p>{{site.author-about | truncate: 75 }}</p>
+                                <p>{{site.author-about | truncate: 120 }}</p>
                             </div>
                         </div>
                     </div>
@@ -26,7 +26,7 @@
             </div>
 
             <!--Link Section-->
-            <div class="column has-text-white">
+            <!--<div class="column has-text-white">
                 <h3>More Links</h3>
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
@@ -38,9 +38,9 @@
                 <li>
                     <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
                 </li>
-            </div>
+            </div>-->
 
-            <!--Blog-post Section-->
+            <!--game-post Section-->
             <div class="column has-text-white">
                 <h3>Recent Posts</h3>
                 {% for post in site.posts offset: 0 limit:3 %}
@@ -52,6 +52,6 @@
         </div>
     </div>
     <div class="has-background-black has-text-centered has-text-white" id="credits">
-        <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} | <a href="https://github.com/thedevslot/WhatATheme" target="_blank" rel="noopener noreferrer">WhatATheme</a> - A Theme made with <i class="fas fa-heart has-text-danger"></i> by <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">TheDevsLot</a> Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+         <!--<i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} | <a href="https://github.com/thedevslot/WhatATheme" target="_blank" rel="noopener noreferrer">WhatATheme</a> - A Theme made with <i class="fas fa-heart has-text-danger"></i> by <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">TheDevsLot</a> Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>-->
     </div>
 </footer>
